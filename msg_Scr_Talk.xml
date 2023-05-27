@@ -5125,133 +5125,133 @@ Esplêndido!, esplêndido!&lt;wait&gt;</Entry>
   <Entry Index="2293">&lt;playername&gt;, você não tem igual em Mineral
 Town!
 É &lt;gender&gt;("um cidadão","um cidadão") exemplar!&lt;wait&gt;</Entry>
-  <Entry Index="2294">¿Eh? ¿Que a qué me refiero? ¡Ah, venga!
-No hace falta que finjas humildad.&lt;wait&gt;&lt;page&gt;
-¡Después de todo, le pusiste fin a una guerra! &lt;gender&gt;("Cansado","Cansada")
-de tanta lucha, hablaste con los representantes de los dos
+  <Entry Index="2294">Hum? O que quero dizer? Oh, venha agora!
+Você não precisa fingir humildade.&lt;wait&gt;&lt;page&gt;
+Afinal, você acabou com uma guerra! &lt;gender&gt;("Cansado","Cansada")
+de tanta luta, você conversou com os representantes dos dois
 países...&lt;wait&gt;&lt;page&gt;
-... y ablandaste sus corazones con platos caseros típicos de
-sus hogares. O eso dicen.&lt;wait&gt;</Entry>
-  <Entry Index="2295">Los representantes estuvieron tan conmovidos por tus
-platos que impusieron un alto el fuego inmediato. O eso me
-contaron.&lt;wait&gt;</Entry>
-  <Entry Index="2296">¡Ah, una historia magnífica! Siempre he tenido debilidad
-por historias de este tipo, de valor y altruismo.&lt;wait&gt;&lt;page&gt;
-Me tocan mucho la fibra sensible. Cuando me enteré de
-tus gloriosas hazañas... ¡ay, cómo lloré!&lt;wait&gt;</Entry>
-  <Entry Index="2297">&lt;playername&gt;, eres &lt;gender&gt;("un héroe","una heroína") que ha salvado a la
-población de no solo uno, sino de DOS naciones.&lt;wait&gt;</Entry>
-  <Entry Index="2298">¡Tres hurras por &lt;playername&gt;!
-¡Hip, hip, hurra! ¡Hip, hip, hurra! ¡HIP, HIP, HURRA!</Entry>
-  <Entry Index="2299">Dicen que estás preparándote para partir en un viaje
-para reunir ingredientes culinarios legendarios.&lt;wait&gt;</Entry>
-  <Entry Index="2300">Siempre tuve la esperanza de que algún día tendría la
-oportunidad de ver tales lujos gastronómicos.&lt;wait&gt;</Entry>
-  <Entry Index="2301">Si encuentras alguno, me sentiría honrado si me lo
-trajeses. No te preocupes. Solo lo tocaré con la mirada.&lt;wait&gt;</Entry>
-  <Entry Index="2302">¡Ah...! ¡Solo puedo imaginar lo superlativos que deben ser
-esos ingredientes para haberse ganado su rango de
-legendarios!&lt;wait&gt;</Entry>
-  <Entry Index="2303">¿Mmm? ¿Pasa algo?
-Tu cara indica perplejidad.&lt;wait&gt;</Entry>
-  <Entry Index="2304">¿Q-qué? ¿Que no planeas hacer eso? ¡Ah, venga ya! ¡No
-hay necesidad de ocultármelo!&lt;wait&gt;</Entry>
-  <Entry Index="2305">¡Oh...!&lt;wait&gt;</Entry>
-  <Entry Index="2306">Ejem... Lo entiendo. Tu secreto está a salvo conmigo. ¡Mis
-labios están sellados! Puedes confiar en mí.&lt;wait&gt;</Entry>
-  <Entry Index="2307">¡Dicen que te has embarcado en una gran aventura para
-adquirir ingredientes legendarios!&lt;wait&gt;</Entry>
-  <Entry Index="2308">Que te adentraste en una espesa jungla, y que seguiste
-adelante a duras penas, ¡hasta que te atacó una tribu
+... e você amoleceu seus corações com pratos típicos caseiros de
+suas casas. ou então é o que eles dizem.&lt;wait&gt;</Entry>
+  <Entry Index="2295">Os representantes ficaram tão emocionados com os
+seus pratos que impuseram um cessar-fogo imediato. é o que
+eles contaram.&lt;wait&gt;</Entry>
+  <Entry Index="2296">Ah, uma história magnífica! Eu sempre tive uma fraqueza
+por histórias deste tipo, de coragem e altruísmo.&lt;wait&gt;&lt;page&gt;
+Eles mexem muito comigo. Quando eu descobri sobre
+seus feitos gloriosos... oh, como eu chorei!&lt;wait&gt;</Entry>
+  <Entry Index="2297">&lt;playername&gt;, É &lt;gender&gt;("um herói","uma heroína") quem salvou a
+população de não apenas uma, mas duas nações.&lt;wait&gt;</Entry>
+  <Entry Index="2298">Três vivas para &lt;playername&gt;!
+Viva! Viva! HUZZAAAH!</Entry>
+  <Entry Index="2299">Eles dizem que você está se preparando para uma viagem
+para reunir ingredientes culinários lendários.&lt;wait&gt;</Entry>
+  <Entry Index="2300">Eu sempre esperei que um dia eu teria a
+oportunidade de ver tais luxos gastronômicos.&lt;wait&gt;</Entry>
+  <Entry Index="2301">Se você encontrar algum, eu ficaria honrado se você
+touxesse um para mim. Não se preocupe. Eu só vou tocá-lo com meus olhos.&lt;wait&gt;</Entry>
+  <Entry Index="2302">Oh...! Eu só posso imaginar como eles devem ser superlativos
+esses ingredientes para ter conquistado seu posto de
+lendário!&lt;wait&gt;</Entry>
+  <Entry Index="2303">hum? Há algo de errado?
+Seu rosto indica perplexidade.&lt;wait&gt;</Entry>
+  <Entry Index="2304">O quê? Você não está planejando tal coisa? Ah vamos agora! Não
+não precisa esconder isso de mim!&lt;wait&gt;</Entry>
+  <Entry Index="2305">Ohhh...!&lt;wait&gt;</Entry>
+  <Entry Index="2306">Aham... entendi. Seu segredo está seguro comigo. meus
+lábios estão selados! Pode confiar em mim.&lt;wait&gt;</Entry>
+  <Entry Index="2307">Dizem que você embarcou em uma grande aventura para
+adquirir ingredientes lendários!&lt;wait&gt;</Entry>
+  <Entry Index="2308">Que você entrou em uma selva densa, e que você seguiu
+manco, até que você foi atacado por uma tribo
 indígena!&lt;wait&gt;</Entry>
-  <Entry Index="2309">Me dijeron también que te secuestraron, que te ataron a
-un palo y te llevaron a su aldea, en la que te obligaron a
-cocinar para ellos.&lt;wait&gt;</Entry>
-  <Entry Index="2310">Pero en cuanto cataron tu comida, ¡su rabia desapareció!
-Creo que hasta te dieron un título.&lt;wait&gt;</Entry>
-  <Entry Index="2311">Ah, ¿cómo era? Em... ¡Ah, sí! ¡Te nombraron su "Gran
+  <Entry Index="2309">Eles também me disseram que te sequestraram, que te amarraram
+uma vara e te levaram para a aldeia deles, onde te obrigaram a
+cozinhar para eles.&lt;wait&gt;</Entry>
+  <Entry Index="2310">Mas assim que provaram sua comida, a raiva deles desapareceram!
+Acho que até te deram um título.&lt;wait&gt;</Entry>
+  <Entry Index="2311">Ai, como foi? Ele... Ah sim! Eles o nomearam seu "Grande
 Poobah"!
-O eso me contaron.&lt;wait&gt;</Entry>
-  <Entry Index="2312">No termino de entender lo que significa, pero toda la
-odisea suena la mar de emocionante. ¡Bien hecho, Poobah!&lt;wait&gt;</Entry>
-  <Entry Index="2313">También he oído que tras presentarte ante su tribu, te
-indicaron la cueva en la que se encuentran los
-ingredientes legendarios.&lt;wait&gt;&lt;page&gt;
-¡Y con un joven de la tribu como guía, fuiste valientemente
-a por ellos! Eso dice el rumor.&lt;wait&gt;</Entry>
-  <Entry Index="2314">¡Y no sabías que esa cueva estaba repleta de todo tipo de
-peligros traicioneros!&lt;wait&gt;</Entry>
-  <Entry Index="2315">¡Un aluvión de serpientes, que caían del cielo!
-¡Una plaga de escorpiones, que surgían de las oscuras
+ou assim me disseram.&lt;wait&gt;</Entry>
+  <Entry Index="2312">Não posso dizer que entendo totalmente o que isso significa,
+mas todo o esforço parece bastante estimulante. Muito bem, Poobah!&lt;wait&gt;</Entry>
+  <Entry Index="2313">Eu também ouvi que depois de apresentá-lo a sua tribo, eles
+indicaram a caverna em que os
+ingredientes lendários estavam.&lt;wait&gt;&lt;page&gt;
+E com um jovem da tribo como seu guia, você corajosamente foi!
+vamos com eles! assim dizia o boato.&lt;wait&gt;</Entry>
+  <Entry Index="2314">E você não sabia que aquela caverna estava cheia de todos os tipos de
+perigos traiçoeiros!&lt;wait&gt;</Entry>
+  <Entry Index="2315">Uma enxurrada de cobras caindo do céu!
+Uma praga de escorpiões, emergindo da escuridão das
 profundidades!&lt;wait&gt;</Entry>
-  <Entry Index="2316">Aun así, te armaste de valor y llegaste al fondo de la
-cueva, ¡donde te aguardaban los ingredientes legendarios!&lt;wait&gt;&lt;page&gt;
-Bueno, eso dicen. Aun así, has vivido una gran aventura,
-sobre todo para &lt;gender&gt;("un granjero","una granjera") de tu corta edad.&lt;wait&gt;</Entry>
-  <Entry Index="2317">¿Mmm? ¡Pero bueno, por qué me miras así!&lt;wait&gt;</Entry>
-  <Entry Index="2318">¡Ah! ¡Ah, sí! No temas, tu secreto está a salvo conmigo. No
-le he contado esto a nadie.&lt;wait&gt;&lt;page&gt;
-Nadie sabrá por mí que posees los ingredientes
-legendarios, no, no. Te doy mi palabra.&lt;wait&gt;</Entry>
-  <Entry Index="2319">Después de todo, estoy segundo de que no quieres que se
-sepa que luchaste contra ya-sabes-quién en una colosal
-batalla a muerte.&lt;wait&gt;</Entry>
-  <Entry Index="2320">¿Cómo que quién es ya-sabes-quién? ¡Ah, venga ya! Eres
-demasiado &lt;gender&gt;("reservado","reservada").
-Sabes perfectamente de quién hablo.&lt;wait&gt;</Entry>
-  <Entry Index="2321">Estabas intentando aprender la Técnica Definitiva Final
-de Excelencia Culinaria, la eh... ¿cómo se llamaba?&lt;wait&gt;</Entry>
-  <Entry Index="2322">¡Bueno! *Cof, cof* dominaba esta técnica, y por eso
-querías que estar bajo su tutela, claro.&lt;wait&gt;</Entry>
-  <Entry Index="2323">¡Pero para aprender esta técnica, tu prueba final era
-derrotar a tu maestro en un combate cara a cara!
-¿Verdad?&lt;wait&gt;</Entry>
-  <Entry Index="2324">No recuerdo de las particularidades de esa técnica ahora
-mismo, pero ¿valió la pena?</Entry>
-  <Entry Index="2325">Em... me temo que tu silencio no me dice nada...&lt;wait&gt;</Entry>
-  <Entry Index="2326">¡Ah! ¡Aaaah! No, no.
-No digas nada.&lt;wait&gt;&lt;page&gt;
-No quieres menospreciar a tu maestro ni a la odisea que
-vivisteis en común. Entiendo. De verdad.&lt;wait&gt;</Entry>
-  <Entry Index="2327">Eso... es lo que quieres decir. Seguro.&lt;wait&gt;</Entry>
-  <Entry Index="2328">Mensaje recibido. No hablaré de tu venerable guía.&lt;wait&gt;</Entry>
-  <Entry Index="2329">Nadie averiguará la verdad de *cof, cof* por mí, tenlo por
-seguro.&lt;wait&gt;</Entry>
-  <Entry Index="2330">&lt;playername&gt;, ¿es cierto que derrotaste al
-Aniquilador Androide?&lt;wait&gt;</Entry>
-  <Entry Index="2331">¡Pero si el Aniquilador Androide es uno de los generales
-más poderosos del ejército del Señor supremo maligno!</Entry>
-  <Entry Index="2332">Derrotar a un enemigo tan temible con aplomo... ¡Siempre
-supe que eras un hombre destinado a la grandeza! ¡Sí,
-cierto!&lt;wait&gt;</Entry>
-  <Entry Index="2333">¡Digo, una mujer!
-Sí, es cierto. Ha sido un lapsus.
-¡Y lo que es más importante!&lt;wait&gt;</Entry>
-  <Entry Index="2334">Con la derrota del Aniquilador Androide, el Señor
-supremo maligno centrará sus fuerzas contra ti, sin duda
-alguna.&lt;wait&gt;</Entry>
-  <Entry Index="2335">Ten cuidado cuando salgas de noche.&lt;wait&gt;</Entry>
-  <Entry Index="2336">Aunque teniendo en cuenta que derrotaste al Aniquilador
-Androide, dudo que haya algún peligro del que no puedas
-ocuparte.&lt;wait&gt;</Entry>
-  <Entry Index="2337">Hay quien dice que en lo más recóndito del Valle Olvidado
-se encuentra la guarida secreta del Señor supremo
-maligno.&lt;wait&gt;</Entry>
-  <Entry Index="2338">Y que azada en mano, &lt;gender&gt;("un granjero","una granjera") aferra un puñado de
-semillas mientras carga hacia la guarida y derrota a sus
-oscuros secuaces...&lt;wait&gt;</Entry>
-  <Entry Index="2339">¡Tu leyenda se escribe sola! Después te enfrentaste al
-Señor supremo en un combate cara a cara y lo
-derrotaste con facilidad...&lt;wait&gt;</Entry>
-  <Entry Index="2340">No me sorprende, teniendo en cuenta que aprendiste la
-Técnica Definitiva Final de tu maestro,
+  <Entry Index="2316">Ainda assim, você criou coragem e chegou ao fundo da
+caverna, onde os ingredientes lendários esperavam por você!&lt;wait&gt;&lt;page&gt;
+Bem, eles dizem. Ainda assim, você teve uma grande aventura,
+especialmente para &lt;gender&gt;("um fazendeiro","uma fazendeira") de sua tenra idade.&lt;wait&gt;</Entry>
+  <Entry Index="2317">Hum? Mas ei, por que você está me olhando assim?!&lt;wait&gt;</Entry>
+  <Entry Index="2318">Oh! Ah sim! Não tenha medo, seu segredo está seguro comigo. Não
+direi isso para ninguém.&lt;wait&gt;&lt;page&gt;
+Ninguém saberá de mim que você possui os ingredientes
+lendários, não, não. Te dou minha palavra.&lt;wait&gt;</Entry>
+  <Entry Index="2319">Afinal, tenho certeza que você quer manter em segredo que
+você teve que lutar você-sabe-quem em uma grande batalha até a
+morte.&lt;wait&gt;</Entry>
+  <Entry Index="2320">você-sabe-quem? Ah, diga logo! São
+muito &lt;gender&gt;("reservado","reservada").
+Você sabe exatamente de quem estou falando.&lt;wait&gt;</Entry>
+  <Entry Index="2321">Você estava tentando aprender a Final Ultimate Technique
+de Excelência Culinária, o uhh... como se chamava?&lt;wait&gt;</Entry>
+  <Entry Index="2322">De qualquer forma! *murmúrio* era um mestre nesta técnica, que
+é por isso que você procurou a tutela de *tosse*, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="2323">Mas para aprender esta técnica, seu teste final foi
+derrotar seu mestre em um combate corpo-a-corpo!
+Não foi?&lt;wait&gt;</Entry>
+  <Entry Index="2324">Não me lembro dos detalhes dessa técnica nesse
+momento, mas valeu a pena?</Entry>
+  <Entry Index="2325">Em... temo que seu silêncio não me diga nada...&lt;wait&gt;</Entry>
+  <Entry Index="2326">Oh! Ohhh! Não, não.
+Não diga nada.&lt;wait&gt;&lt;page&gt;
+Você não deseja falar levianamente de seu mestre e da
+provação que vocês passaram juntos. Eu entendo. Completamente.&lt;wait&gt;</Entry>
+  <Entry Index="2327">Isso... é o que você quer dizer. Claro.&lt;wait&gt;</Entry>
+  <Entry Index="2328">Mensagem recebida. Não falarei de seu venerável guia.&lt;wait&gt;</Entry>
+  <Entry Index="2329">Ninguém vai descobrir a verdade sobre *tosse, tosse* por mim, tenha isso em
+ mente.&lt;wait&gt;</Entry>
+  <Entry Index="2330">&lt;playername&gt;, É verdade que você derrotou o
+Aniquilador Android?&lt;wait&gt;</Entry>
+  <Entry Index="2331">Mas o Android Anniquilador foi um dos generais
+mais poderoso do exército do senhor do mal!</Entry>
+  <Entry Index="2332">Derrotar um inimigo tão temível com desenvoltura... sempre!
+Eu sabia que você era um homem destinado à grandeza! Sim,
+de verdade!&lt;wait&gt;</Entry>
+  <Entry Index="2333">Quer dizer, uma mulher!
+Se for verdade. Foi um deslize.
+E o que é mais importante!&lt;wait&gt;</Entry>
+  <Entry Index="2334">Com a derrota do Android Anniquilador, Lord
+senhor do mal concentrará suas forças contra você, sem dúvida
+alguma.&lt;wait&gt;</Entry>
+  <Entry Index="2335">Tenha cuidado ao sair à noite.&lt;wait&gt;</Entry>
+  <Entry Index="2336">Embora considerando que você derrotou o Aniquilador
+Android, Duvido que qualquer perigo seja grande demais
+para você enfrentar.&lt;wait&gt;</Entry>
+  <Entry Index="2337">Alguns dizem que nas profundezas do Vale Esquecido
+encontra-se o covil secreto do overlord
+malvado.&lt;wait&gt;</Entry>
+  <Entry Index="2338">E com uma enxada na mão, &lt;gender&gt;("um fazendeiro","uma fazendeira") pegar um punhado de
+sementes enquanto ele avança em direção ao covil e derrota seus
+lacaios escuros...&lt;wait&gt;</Entry>
+  <Entry Index="2339">Sua lenda se escreve sozinha! Então você enfrentou
+Overlord em um combate frente a frente e
+você o derrotou facilmente...&lt;wait&gt;</Entry>
+  <Entry Index="2340">Não estou surpreso, considerando que você aprendeu a
+técnica final do seu mestre,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2341">Estar junto a ti es todo un honor. A partir de ahora te
-llamaré &lt;gender&gt;("maestro","maestra) &lt;playername&gt;,
-&lt;gender&gt;("salvador del mundo","salvadora del mundo").&lt;wait&gt;</Entry>
-  <Entry Index="2342">&lt;gender&gt;("Maestro","Maestra) &lt;playername&gt;, &lt;gender&gt;("salvador del mundo","salvadora del mundo"),
-acepta esta muestra de mi más humilde y sincera
-gratitud.&lt;wait&gt;</Entry>
+  <Entry Index="2341">Estar com você é uma honra. A partir de agora
+eu te chamarei de &lt;gender&gt;("Professor","Professora) &lt;playername&gt;,
+&lt;gender&gt;("salvador do mundo","salvadora do mundo").&lt;wait&gt;</Entry>
+  <Entry Index="2342">&lt;gender&gt;("Professor","Professora) &lt;playername&gt;, &lt;gender&gt;("salvador do mundo","salvadora do mundo"),
+aceite esta amostra do meu mais humilde e sincera
+gratidão.&lt;wait&gt;</Entry>
   <Entry Index="2343">&lt;gender&gt;("Maestro","Maestra) &lt;playername&gt;, &lt;gender&gt;("salvador del mundo","salvadora del mundo"), ¿es
 que esa muestra no es suficiente?
 Toma esto también, entonces.&lt;wait&gt;</Entry>
