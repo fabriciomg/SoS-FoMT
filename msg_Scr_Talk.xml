@@ -5252,100 +5252,101 @@ eu te chamarei de &lt;gender&gt;("Professor","Professora) &lt;playername&gt;,
   <Entry Index="2342">&lt;gender&gt;("Professor","Professora) &lt;playername&gt;, &lt;gender&gt;("salvador do mundo","salvadora do mundo"),
 aceite esta amostra do meu mais humilde e sincera
 gratidão.&lt;wait&gt;</Entry>
-  <Entry Index="2343">&lt;gender&gt;("Maestro","Maestra) &lt;playername&gt;, &lt;gender&gt;("salvador del mundo","salvadora del mundo"), ¿es
-que esa muestra no es suficiente?
-Toma esto también, entonces.&lt;wait&gt;</Entry>
-  <Entry Index="2344">Ah, &lt;gender&gt;("maestro","maestra) &lt;playername&gt;, &lt;gender&gt;("salvador del mundo","salvadora del mundo"),
-te pido mil perdones.
-Te he disgustado.&lt;wait&gt;</Entry>
-  <Entry Index="2345">Si mis insignificantes ofrendas no son suficientes para
-demostrarte mi gratitud, ¿qué podría presentarte...?&lt;wait&gt;</Entry>
-  <Entry Index="2346">¿Mmm? ¿Que prefieres que NO te llame &lt;gender&gt;("maestro","maestra)
-&lt;playername&gt;, &lt;gender&gt;("salvador del mundo","salvadora del mundo")?&lt;wait&gt;</Entry>
-  <Entry Index="2347">¿Y que es mejor que te llame por tu nombre, como siempre
-he hecho?&lt;wait&gt;</Entry>
-  <Entry Index="2348">Si es lo que deseas, &lt;gender&gt;("maestro","maestra) &lt;playername&gt;,
-&lt;gender&gt;("salvador del mundo","salvadora del mundo"), estoy obligado a complacerte...&lt;wait&gt;</Entry>
-  <Entry Index="2349">¡Em! Digo... Así se hará, &lt;playername&gt;. ¡Ah! ¡A la
-tercera va la vencida! Ejem... Claro, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2350">Y un día más termina en nuestro pacífico pueblo. No
-podría estar más contento como su alcalde.&lt;wait&gt;</Entry>
-  <Entry Index="2351">¿Otro día de trabajo duro, &lt;playername&gt;? Debes
-estar &lt;gender&gt;("cansado","cansada"). Podrías tomarte al menos el fin de
-semana libre.&lt;wait&gt;</Entry>
-  <Entry Index="2352">Aunque seguro que es muy fácil decirlo para alguien que
-no tiene que mantener una granja.&lt;wait&gt;</Entry>
-  <Entry Index="2353">Mmm. Parece que no va a escampar pronto. Y yo que
-quería irme a dar un paseo a la plaza...&lt;wait&gt;</Entry>
-  <Entry Index="2354">Para mí, no hay mejor placer que pasar una tarde de fin
-de semana con Ellen comiendo un trozo de pastel de
-manzana.&lt;wait&gt;&lt;page&gt;
-A ambos nos encanta el pastel de manzana que sirven en
-la posada.
-Esta exquisitamente delicioso.&lt;wait&gt;</Entry>
-  <Entry Index="2355">Buenos días, &lt;playername&gt; Iba de camino a hacer
-unas compras.&lt;wait&gt;</Entry>
-  <Entry Index="2356">¡Anda! Pero si es &lt;playername&gt;.
-¡Buenos días! ¿Cómo va la granja?
-¿Todo bien?&lt;wait&gt;</Entry>
-  <Entry Index="2357">Nadie destaca en una tarea cuando la prueban por
-primera vez.&lt;wait&gt;&lt;page&gt;
-Y menos cuando es una tarea tan compleja como
-gestionar una granja. Llevará tiempo aprender todos los
-pormenores. Ten paciencia.&lt;wait&gt;</Entry>
-  <Entry Index="2358">¡Buenísimos días, &lt;playername&gt;!
-¿Cómo va la granja?
-¿Te has acostumbrado a tu nueva viada?&lt;wait&gt;</Entry>
-  <Entry Index="2359">Me temo que no puedo aconsejarte mucho sobre granjas y
+  <Entry Index="2343">&lt;gender&gt;("Professor","Professora) &lt;playername&gt;, &lt;gender&gt;("salvador do mundo","salvadora do mundo"), e
+esta amostra não é o suficiente?
+Pegue isso também, então.&lt;wait&gt;</Entry>
+  <Entry Index="2344">Ah, &lt;gender&gt;("professor","professora) &lt;playername&gt;, &lt;gender&gt;("salvador do mundo","salvadora do mundo"),
+lhe peço mil perdões.
+eu te chateei.&lt;wait&gt;</Entry>
+  <Entry Index="2345">Se minhas ofertas insignificantes não são suficientes para
+mostrar-lhe minha gratidão, o que eu poderia apresentar a você...?&lt;wait&gt;</Entry>
+  <Entry Index="2346">Hum? Do que você prefere que eu NÃO te chame? &lt;gender&gt;("professor","professora)
+&lt;playername&gt;, &lt;gender&gt;("salvador do mundo","salvadora do mundo")?&lt;wait&gt;</Entry>
+  <Entry Index="2347">É melhor eu te chamar pelo nome, como sempre
+já fiz?&lt;wait&gt;</Entry>
+  <Entry Index="2348">Se é o que você quer, &lt;gender&gt;("professor","professora) &lt;playername&gt;,
+&lt;gender&gt;("salvador do mundo","salvadora do mundo"), Eu sou obrigado a agradar você...&lt;wait&gt;</Entry>
+  <Entry Index="2349">hum! eu digo... será feito, &lt;playername&gt;. Oh! a
+sorte da terceira vez! Aham... claro, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="2350">E mais um dia termina em nossa pacata cidade. Não
+poderia estar mais feliz como seu prefeito.&lt;wait&gt;</Entry>
+  <Entry Index="2351">Mais um dia de trabalho duro, &lt;playername&gt;? Você deve
+estar &lt;gender&gt;("cansado","cansada"). Você poderia pelo menos tirar o final de
+semana de folga.&lt;wait&gt;</Entry>
+  <Entry Index="2352">Agora tenho certeza de que é muito fácil dizer isso para alguém que
+não precisa cuidar de uma fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="2353">Hum. Não parece que isso vai acabar tão cedo. E eu que
+queria ir passear na praça...&lt;wait&gt;</Entry>
+  <Entry Index="2354">Para mim, não há melhor lugar para passar uma tarde de fim
+de semana com Ellen comendo um pedaço de pastel de
+maça.&lt;wait&gt;&lt;page&gt;
+Nós dois amamos a torta de maçã que eles servem
+na pousada.
+É primorosamente delicioso.&lt;wait&gt;</Entry>
+  <Entry Index="2355">Bom dia, &lt;playername&gt; Eu estava no
+caminho de fazer algumas compras.&lt;wait&gt;</Entry>
+  <Entry Index="2356">Vamos! Mas se for &lt;playername&gt;.
+Bom Dia! Como vai a fazenda?
+Tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="2357">Ninguém se destaca em uma tarefa quando testado pela
+primeira vez.&lt;wait&gt;&lt;page&gt;
+E menos quando se trata de uma tarefa tão complexa quanto
+administrar uma fazenda, vai levar tempo para aprender todos
+os detalhes. Tenha paciência.&lt;wait&gt;</Entry>
+  <Entry Index="2358">Boooom dia, &lt;playername&gt;!
+Como vai a fazenda?
+Já se acostumou com sua nova vida?&lt;wait&gt;</Entry>
+  <Entry Index="2359">Receio não poder lhe dar muitos conselhos sobre fazendas e
 agricultura...&lt;wait&gt;&lt;page&gt;
-Pero sí que puedo ayudarte con otros menesteres.&lt;wait&gt;</Entry>
-  <Entry Index="2360">¡Buen día, &lt;playername&gt;!
-Dicen que trabajas duro en la granja. ¿Qué tal le va?&lt;wait&gt;</Entry>
-  <Entry Index="2361">¡Jo, jo! Ah, ¿sí? Me temo que no sé mucho del meollo, pero
-sí sé que nuestras vidas dependen de la agricultura.&lt;wait&gt;&lt;page&gt;
-Muchísimas gracias por todo
-lo que haces, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2362">Buenos días, &lt;playername&gt;
-¿Estás descansando un poco tú también?&lt;wait&gt;</Entry>
-  <Entry Index="2363">Seguro que los animales tienen mucha energía en un bello
-día como hoy.&lt;wait&gt;</Entry>
-  <Entry Index="2364">Buenos días, &lt;playername&gt; ¿Qué tal estás?
-¿Sientes que nuestra humilde Ciudad Mineral es ya tu
-hogar?&lt;wait&gt;</Entry>
-  <Entry Index="2365">Si necesitas algo, no dudes en pedirlo. Te ayudaré en todo
-lo que pueda.&lt;wait&gt;</Entry>
-  <Entry Index="2366">¡Está lloviendo a mares!
-¿Escampará algún día?&lt;wait&gt;</Entry>
-  <Entry Index="2367">Si el tiempo coopera, me gustaría ir a la plaza. No me
-acuerdo de si actualicé el tablón.&lt;wait&gt;</Entry>
-  <Entry Index="2368">¡Caray! Otra vez nevando. Quería tener un día más
-relajado.&lt;wait&gt;</Entry>
-  <Entry Index="2369">Harris suele venir a la posada a esta hora. En los días en
-los que el tiempo... no coopera mucho, suelo hacer lo mismo.&lt;wait&gt;&lt;page&gt;
-Siempre me siento mejor cuando Harris me dice que no ha
-pasado nada grave en el pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="2370">La plaza es un lugar de paz, tranquilidad y unión para
-todo el pueblo.&lt;wait&gt;&lt;page&gt;
-No hay mejor día para ser alcalde que cuando vengo en los
-días de festival y me deleito con las sonrisas de todo el
-pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="2371">¿Te diviertes en el festival?&lt;wait&gt;&lt;page&gt;
-Me alegro de ver que te llevas bien con todo el mundo.&lt;wait&gt;</Entry>
-  <Entry Index="2372">Buenos días, &lt;playername&gt; ¿Te has dado cuenta de lo
-diversa que es nuestra comunidad en Ciudad Mineral?&lt;wait&gt;&lt;page&gt;
-Cuando creas una amistad con gente de diferentes
-orígenes, se amplía tu forma de ver el mundo y tu vida se
+Mas posso te ajudar com outras coisas.&lt;wait&gt;</Entry>
+  <Entry Index="2360">Bom dia, &lt;playername&gt;!
+Dizem que você trabalha duro na fazenda. Como vai?&lt;wait&gt;</Entry>
+  <Entry Index="2361">Haha! Ah sim? Receio não saber muito sobre o âmago da questão, mas
+sim, eu sei que nossas vidas dependem da agricultura.&lt;wait&gt;&lt;page&gt;
+Obrigado por tudo
+o que fazes, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="2362">Bom dia, &lt;playername&gt;
+Você está descansando um pouco também?&lt;wait&gt;</Entry>
+  <Entry Index="2363">Certamente os animais têm muita energia em um belo
+dia como hoje.&lt;wait&gt;</Entry>
+  <Entry Index="2364">Bom dia, &lt;playername&gt; Como vai você?
+Você sente que nossa humilde Mineral Town já é sua
+casa?&lt;wait&gt;</Entry>
+  <Entry Index="2365">Se precisar de alguma coisa, não hesite em perguntar. Eu vou
+te ajudar em tudo o que você precisar.&lt;wait&gt;</Entry>
+  <Entry Index="2366">Seivas e mudas, que dia!
+Será que algum dia vai clarear?&lt;wait&gt;</Entry>
+  <Entry Index="2367">Eu esperava ir ao Plaza se o tempo permitisse,
+Mas não me lembro se atualizei o quadro de avisos
+ou não.&lt;wait&gt;</Entry>
+  <Entry Index="2368">Uau! Nevando de novo. Queria ter mais um dia
+relaxado.&lt;wait&gt;</Entry>
+  <Entry Index="2369">Harris geralmente vem para a pousada nessa hora. Nos dias em que
+o clima... não colabora muito, eu costumo fazer igual.&lt;wait&gt;&lt;page&gt;
+Eu sempre me sinto melhor quando Harris me diz que
+nada de grave aconteceu nessa cidade.&lt;wait&gt;</Entry>
+  <Entry Index="2370">A praça é um lugar de paz, tranquilidade e união para
+toda a cidade.&lt;wait&gt;&lt;page&gt;
+Não há dia melhor para ser prefeito do que quando venho aos
+dias de festas e delicio-me com os sorrisos de todos da
+cidade.&lt;wait&gt;</Entry>
+  <Entry Index="2371">Você se diverte no festival?&lt;wait&gt;&lt;page&gt;
+Fico feliz em ver que você se dá bem com todos.&lt;wait&gt;</Entry>
+  <Entry Index="2372">Bom dia, &lt;playername&gt; Você percebeu
+qual é a diversidade da nossa comunidade em Mineral Town?&lt;wait&gt;&lt;page&gt;
+Quando você cria uma amizade com pessoas de diferentes
+origens, sua forma de ver o mundo é ampliada e sua vida
 enriquece.&lt;wait&gt;</Entry>
-  <Entry Index="2373">¿Qué tal te ha ido, &lt;playername&gt;?&lt;wait&gt;
-¿Todo bien?&lt;wait&gt;&lt;page&gt;
-Aunque no me hace falta preguntar. Ya todo el mundo te
-considera &lt;gender&gt;("valioso y respetado","valiosa y respetada") en nuestra comunidad.&lt;wait&gt;</Entry>
-  <Entry Index="2374">Hoy es la Verbena del Mochi. ¡Sigue trabajando duro y
-trae hambre de unos deliciosos mochis!&lt;wait&gt;</Entry>
-  <Entry Index="2375">¿Vas a participar en el Derbi de Primavera
-este año, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-¡Espero que hayas hecho todos
-los preparativos necesarios!&lt;wait&gt;</Entry>
+  <Entry Index="2373">Como está, &lt;playername&gt;?&lt;wait&gt;
+Tudo bem?&lt;wait&gt;&lt;page&gt;
+Embora eu não precise perguntar. todos já
+consideram &lt;gender&gt;("valioso e respeitado","valiosa e respeitada") em nossa comunidade.&lt;wait&gt;</Entry>
+  <Entry Index="2374">Hoje é a Verbena del Mochi. Continuar trabalhando duro e
+venha com fome para alguns mochis deliciosos!&lt;wait&gt;</Entry>
+  <Entry Index="2375">Você vai participar do Festival de Primavera
+este ano, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Eu espero que você tenha feito tudo
+os preparativos necessários!&lt;wait&gt;</Entry>
   <Entry Index="2376">¡Espero que compres boletos para el derbi de mañana! No,
 no. ¡No lo digo porque un porcentaje de los beneficios vaya
 a ir a nuestra bella ciudad!&lt;wait&gt;</Entry>
