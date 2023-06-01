@@ -4943,10 +4943,10 @@ fazenda geraria dinheiro. Ser &lt;gender&gt;("Fazendeiro","Fazendeira") É a sua
   <Entry Index="2212">Ah, &lt;nickname&gt;. Veio comprar algo?
 Garanto que se precisar, eu tenho!&lt;wait&gt;</Entry>
   <Entry Index="2213">Mas negócios e vida privada são coisas
-Independente, sim. Eu não vou te dar descontos porque você é minha
+Independente, sim. Eu não vou te dar descontos só porque você é minha
 mulher.&lt;wait&gt;</Entry>
-  <Entry Index="2214"Mas negócios e vida privada são coisas
-Independente, sim. Eu não vou te dar descontos porque você é meu
+  <Entry Index="2214">Mas negócios e vida privada são coisas
+Independentes, sim. Eu não vou te dar descontos só porque você é meu
 marido.&lt;wait&gt;</Entry>
   <Entry Index="2215">Precisa de algo, &lt;nickname&gt;?
 Pergunte-me e eu vou conseguir.&lt;wait&gt;</Entry>
