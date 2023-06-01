@@ -709,7 +709,7 @@ gratificante.</Entry>
   <Entry Index="555"></Entry>
   <Entry Index="556"></Entry>
   <Entry Index="557"></Entry>
-  <Entry Index="558">Comprou?</Entry>
+  <Entry Index="558">Comprar?</Entry>
   <Entry Index="559">Envolvê-lo?</Entry>
   <Entry Index="560">Desembrulhar?</Entry>
   <Entry Index="561">Vá em frente e embrulhe?</Entry>
@@ -752,15 +752,15 @@ ok?&lt;wait&gt;</Entry>
   <Entry Index="588"></Entry>
   <Entry Index="589"></Entry>
   <Entry Index="590"></Entry>
-  <Entry Index="591">Hmm. Você carrega a mochila para o topo. Suponho que
-vou enviar o resto para sua geladeira.&lt;wait&gt;</Entry>
-  <Entry Index="592">Hmm. Você carrega a mochila para o topo. Suponho que
-vou enviar o resto para o seu armário.&lt;wait&gt;</Entry>
-  <Entry Index="593">Hmm. Sua mochila está cheia. enviarei
-o restante para sua caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="591">Hmm. Sua mochila está cheia. Vou
+enviar o restante para sua geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="592">Hmm. Sua mochila está cheia. Vou
+enviar o restante para o seu armário.&lt;wait&gt;</Entry>
+  <Entry Index="593">Hmm. Sua mochila está cheia. Vou
+enviar o restante para sua caixa de ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="594">Ah. Parece que sua mochila e a geladeira estão cheias.
 Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
-  <Entry Index="595">Parece que sua mochila e caixa de ferramentas estão cheios.
+  <Entry Index="595">Parece que sua mochila e a caixa de ferramentas estão cheias.
 Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
   <Entry Index="596">Parece que sua mochila está cheia e sua
 caixa de ferramentas também está. Organize suas coisas e
@@ -771,8 +771,8 @@ então venha me ver.&lt;wait&gt;</Entry>
   <Entry Index="600"></Entry>
   <Entry Index="601"></Entry>
   <Entry Index="602"></Entry>
-  <Entry Index="603">Ei, sua mochila está cheia! Vou levar o resto para o armário
-da sua casa, ok?&lt;wait&gt;</Entry>
+  <Entry Index="603">Ei, sua mochila está cheia! Vou levar o restante para o
+armário da sua casa, ok?&lt;wait&gt;</Entry>
   <Entry Index="604"></Entry>
   <Entry Index="605"></Entry>
   <Entry Index="606">Ei, sua mochila está cheia e seu armário também.
@@ -793,27 +793,27 @@ cheia. Vou enviar o resto para sua caixa de ferramentas, ok?&lt;wait&gt;</Entry>
 liberar espaço primeiro?&lt;wait&gt;</Entry>
   <Entry Index="617">Ei! Sua mochila e seu armário estão cheios. Você poderia
 liberar espaço primeiro?&lt;wait&gt;</Entry>
-  <Entry Index="618">Uau! Seu bolso de ferramentas está cheio e sua caixa de
-ferramentas também. Você pode fazer um buraco para ele?&lt;wait&gt;</Entry>
+  <Entry Index="618">Ei! Sua mochila está cheia e sua caixa de
+ferramentas também. Você pode fazer liberar um pouco de espaço?&lt;wait&gt;</Entry>
   <Entry Index="619"></Entry>
   <Entry Index="620"></Entry>
   <Entry Index="621"></Entry>
   <Entry Index="622"></Entry>
   <Entry Index="623"></Entry>
-  <Entry Index="624">Hmm. Parece que sua mochila está cheia. Não te preocupes,
-Eu vou levar o resto para a geladeira para você.&lt;wait&gt;</Entry>
-  <Entry Index="625">Hmm. Parece que sua mochila está cheia. Não te preocupes,
-Vou mandar o resto para o armário.&lt;wait&gt;</Entry>
-  <Entry Index="626">Hmm. Parece que seu bolso de ferramentas está cheio.
-Não se preocupe, vou levar o resto para a caixa registradora.
+  <Entry Index="624">Hmm. Parece que sua mochila está cheia. Não se preocupe,
+Eu vou levar o resto para sua geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="625">Hmm. Parece que sua mochila está cheia. Não se preocupe,
+Eu vou levar o resto para o seu armário.&lt;wait&gt;</Entry>
+  <Entry Index="626">Hmm. Parece que seu mochila está cheia.
+Não se preocupe, vou levar o resto para a caixa de
 ferramentas.&lt;wait&gt;</Entry>
-  <Entry Index="627">Uau. Sua mochila e sua geladeira estão cheias. você deveria
-libere algum espaço primeiro.&lt;wait&gt;</Entry>
-  <Entry Index="628">Uau. Sua mochila e seu armário estão cheios. você deveria
-libere algum espaço primeiro.&lt;wait&gt;</Entry>
-  <Entry Index="629">Uau. Seu bolso de ferramentas e sua caixa de
+  <Entry Index="627">Ei. Sua mochila e sua geladeira estão cheias. você deveria
+liberearalgum espaço primeiro.&lt;wait&gt;</Entry>
+  <Entry Index="628">Ei. Sua mochila e seu armário estão cheios. você deveria
+liberar algum espaço primeiro.&lt;wait&gt;</Entry>
+  <Entry Index="629">Ei. Sua mochila e sua caixa de
 ferramentas estão cheias. Você deve liberar alguns
-espaço antes.&lt;wait&gt;</Entry>
+espaços antes de comprar.&lt;wait&gt;</Entry>
   <Entry Index="630"></Entry>
   <Entry Index="631"></Entry>
   <Entry Index="632"></Entry>
@@ -829,7 +829,7 @@ espaço antes.&lt;wait&gt;</Entry>
   <Entry Index="642"></Entry>
   <Entry Index="643"></Entry>
   <Entry Index="644"></Entry>
-  <Entry Index="645">Ok, me dê um segundo. Aqui você vai. Vamos comer!&lt;wait&gt;</Entry>
+  <Entry Index="645">Ok, me dê um segundo. Aqui vamos nós. Vamos comer!&lt;wait&gt;</Entry>
   <Entry Index="646"></Entry>
   <Entry Index="647"></Entry>
   <Entry Index="648"></Entry>
@@ -845,7 +845,7 @@ espaço antes.&lt;wait&gt;</Entry>
 Que serviço, hein!&lt;wait&gt;</Entry>
   <Entry Index="658">Sua mochila está cheia. Vou mandar o resto para o armário.
 Que serviço, hein!&lt;wait&gt;</Entry>
-  <Entry Index="659">Seu bolso de ferramentas está cheio, sim? vou te enviar o
+  <Entry Index="659">Sua mochila está cheia, não? vou te enviar o
 descanso para a caixa de ferramentas. Que serviço, hein!&lt;wait&gt;</Entry>
   <Entry Index="660">Uau! Parece que sua mochila e sua geladeira estão
 cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
@@ -859,18 +859,18 @@ antes, sim?&lt;wait&gt;</Entry>
   <Entry Index="665"></Entry>
   <Entry Index="666"></Entry>
   <Entry Index="667"></Entry>
-  <Entry Index="668">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="668">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
 Vou pedir para Rick levar o resto para a geladeira para você mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="669">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="669">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
 Vou pedir para Rick trazer o resto para o armário para você mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="670">Uau. Parece que seu bolso de ferramentas está
+  <Entry Index="670">Ei. Parece que seu bolso de ferramentas está
 completo.&lt;wait&gt;&lt;page&gt;
 Vou pedir para Rick levar o resto para a caixa registradora.
 ferramentas mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="671">Uau. A caneta já está cheia de animais.</Entry>
-  <Entry Index="672">Uau... Sua mochila e armário estão cheios. você se importa
+  <Entry Index="671">Ei. A caneta já está cheia de animais.</Entry>
+  <Entry Index="672">Ei... Sua mochila e armário estão cheios. você se importa
 fazer um buraco primeiro?&lt;wait&gt;</Entry>
-  <Entry Index="673">Uau... Seu bolso e caixa de ferramentas
+  <Entry Index="673">Ei... Seu bolso e caixa de ferramentas
 ferramentas estão cheias. você pode fazer um buraco
 primeiro?&lt;wait&gt;</Entry>
   <Entry Index="674">Ok, dê um nome.&lt;wait&gt;</Entry>
