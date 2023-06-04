@@ -804,7 +804,7 @@ ferramentas também. Você pode fazer liberar um pouco de espaço?&lt;wait&gt;</
 Eu vou levar o resto para sua geladeira.&lt;wait&gt;</Entry>
   <Entry Index="625">Hmm. Parece que sua mochila está cheia. Não se preocupe,
 Eu vou levar o resto para o seu armário.&lt;wait&gt;</Entry>
-  <Entry Index="626">Hmm. Parece que seu mochila está cheia.
+  <Entry Index="626">Hmm. Parece que sua mochila está cheia.
 Não se preocupe, vou levar o resto para a caixa de
 ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="627">Ei. Sua mochila e sua geladeira estão cheias. você deveria
@@ -851,7 +851,7 @@ descanso para a caixa de ferramentas. Que serviço, hein!&lt;wait&gt;</Entry>
 cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
   <Entry Index="661">Uau! Parece que sua mochila e sua geladeira estão
 cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
-  <Entry Index="662">Uau! Parece que seu bolso de ferramentas e seu
+  <Entry Index="662">Uau! Parece que sua mochila e sua
 caixa de ferramentas está cheia. organize suas coisas
 antes, sim?&lt;wait&gt;</Entry>
   <Entry Index="663"></Entry>
@@ -863,15 +863,15 @@ antes, sim?&lt;wait&gt;</Entry>
 Vou pedir para Rick levar o resto para a geladeira para você mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="669">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
 Vou pedir para Rick trazer o resto para o armário para você mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="670">Ei. Parece que seu bolso de ferramentas está
-completo.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="670">Ei. Parece que sua mochila está
+cheia.&lt;wait&gt;&lt;page&gt;
 Vou pedir para Rick levar o resto para a caixa registradora.
 ferramentas mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="671">Ei. A caneta já está cheia de animais.</Entry>
   <Entry Index="672">Ei... Sua mochila e armário estão cheios. você se importa
 fazer um buraco primeiro?&lt;wait&gt;</Entry>
-  <Entry Index="673">Ei... Seu bolso e caixa de ferramentas
-ferramentas estão cheias. você pode fazer um buraco
+  <Entry Index="673">Ei... Sua mochila e caixa de ferramentas
+estão cheias. você pode fazer liberar espaço
 primeiro?&lt;wait&gt;</Entry>
   <Entry Index="674">Ok, dê um nome.&lt;wait&gt;</Entry>
   <Entry Index="675">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
