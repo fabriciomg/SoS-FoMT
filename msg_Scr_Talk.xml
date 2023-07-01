@@ -6099,145 +6099,143 @@ que estava fazendo.&lt;wait&gt;</Entry>
 Manna!"&lt;wait&gt;</Entry>
   <Entry Index="2699">Ela vai correr para o mercado e, mesmo que seja terça-feira, que é
 quando eles costumam fechar, ele implorará a Jeff:&lt;wait&gt;</Entry>
-  <Entry Index="2700">"Dame algo que dé el pego como un regalo, ¡corre!"&lt;wait&gt;</Entry>
-  <Entry Index="2701">"¡Rapidísimo! ¡Lo necesito para ayer, tío! ¡Venga, venga!"&lt;wait&gt;</Entry>
-  <Entry Index="2702">O algo así. Y después cogerá dicho regalo, se paseará
-hasta mí como si lo hubiese tenido todo el rato...
-... y me lo dará con una sonrisa de zopenco, como si nada
-hubiese pasado.&lt;wait&gt;</Entry>
-  <Entry Index="2703">¿Que qué haré con el regalo?
-Lo devolveré de inmediato, por supuesto.
-Para que me den el dinero.
-Duke no sabe ni lo que me ha comprado, así que no se dará
-cuenta si no lo tengo.&lt;wait&gt;</Entry>
-  <Entry Index="2704">¡Gracias! ¿Siempre le das unos regalos
-tan magníficos a la gente?
-Si vas a hacer regalos, deberías hacérselos
-a todo el mundo, sabes.
-La gente empezará a hablar mal si solo eres &lt;gender&gt;("generoso","generosa")
-con las personas jóvenes y solteras.
-Bueno, si te soy sincera, le caes bien a todo el mundo, así
-que probablemente no tengas de qué preocuparte. Pero
-gracias de todas formas. ¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="2705">Vaya, gracias.
-Eres bastante &lt;gender&gt;("meticuloso","meticulosa").
-No, no iba con doble intención. ¡Era un cumplido! ¡En serio!
-Vivo con un hombre prepotente y poco sensible como
-Duke, así que...
-Cuando me encuentro a gente como tú, no puedo evitar
-hacer una comparación con lo único que tengo de
-referencia. Bueno, muchas gracias.&lt;wait&gt;</Entry>
-  <Entry Index="2706">Gracias. Mmm, sí... ¿Seguro que estás adaptando
-los regalos a las preferencias de los vecinos?
-No puedes dar cualquier chisme como regalo.
-Por eso tienes que medir y probar las reacciones
-de los receptores.
-Si preguntas de frente, se cortarán y no te
-responderán la verdad, pero son gente honesta,
-así que observa sus expresiones...
-Y eso te mostrará sus verdaderos sentimientos. Mírame a
-mí como ejemplo. ¿Este regalo? Está... bien.&lt;wait&gt;</Entry>
-  <Entry Index="2707">Ay, ay, ay.
-Menudo problema.
-¡Esto no me gusta nada!
-Claro, no voy a mirarle los dientes regalados, o como sea,
-al caballo, porque me lo has regalado tú, pero...
-Preferiría algo que no ofendiese al menos tres de mis
-cinco sentidos, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="2708">Ay, ay, ay. ¿Me quieres explicar qué es esto? Voy a por
-una silla, así que prepárate
-para la explicación. Estoy esperando.
-No voy a rechazarlo porque me lo has regalado tú, pero
-otros se pondrían furiosos.
-Puede que no lo sepas, pero la gente de aquí es muy
-puritana, así que ten cuidado con las bromas así, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="2709">¡Ja, ja, ja, ja! Así que no solo eres amable, sino que también
-eres tan &lt;gender&gt;("puro","pura") como la blanca nieve.
-Sí, veo que has copiado una de las bromas clásicas de Yu.
-Aunque normalmente él intenta asustarme, no
-impresionarme.
-Aun así, no hay muchos niños en este pueblo, así que les
-dejo hacer trastadas porque me parece una monada.&lt;wait&gt;</Entry>
-  <Entry Index="2710">¡Guau, creo que paso, gracias! ¿Te has puesto como
-propósito regalarme algo que odio?
-Ah, sí, por supuesto. No tenías forma de saberlo, así que no
-podrías haberlo evitado. Bueno, pues ya lo sabes.&lt;wait&gt;</Entry>
-  <Entry Index="2711">¡¿Qué?! ¿Es para mí?
-No, no, no. ¿En serio?
-¿Es para mí de verdad? ¿Pero dónde...?
-¡Ah, ya veo! Has conseguido que Saibara lo hiciese.&lt;wait&gt;</Entry>
-  <Entry Index="2712">Parece que tiene más de un as en la manga.
-Le tendré que preguntar qué... ¿Cómo? ¿Que tengo que
-comprar una piedra preciosa para dársela?&lt;wait&gt;</Entry>
-  <Entry Index="2713">¿No crees que cobra demasiado si lo único que hace es
-montarlo todo junto?
-Madre mía, me repatea lo arrogantes que son algunas
-personas sobre sus propias habilidades.
-Su hijo le ha pedido a Saibara que se mude con él, pero se
-niega a irse del pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="2714">Aunque bien está lo que bien acaba, supongo. Por lo menos
-su nieto vive con él ahora.&lt;wait&gt;</Entry>
-  <Entry Index="2715">¡Ah! ¡Esto sí que me gusta! ¿Mmm? ¿Es para mí?
-¡Sí! Estoy como unas castañuelas. Gracias.
-Nunca imaginé que alguien me haría
-un regalo tan maravilloso.&lt;wait&gt;</Entry>
-  <Entry Index="2716">¡Ah! ¿Es para mí?
-Eres un poco &lt;gender&gt;("rarito","rarita"), ¿sabes?
-Trabajo en un viñedo, así que utilizo el olfato para
-distinguir el olor de las uvas buenas. Así que solo uso
-colonia cuando salgo.
-Pero sí que me encanta esta fragancia. Si fueses
-&lt;gender&gt;("un apuesto y valiente soltero","una bella y valiente soltera"), mis puntos de afecto
-habrían subido al máximo.&lt;wait&gt;</Entry>
-  <Entry Index="2717">¡Ah! ¿Es para mí?
-Eres un poco &lt;gender&gt;("rarito","rarita"), ¿sabes?
-Trabajo en un viñedo, así que utilizo el olfato para
-distinguir el olor de las uvas buenas. Así que solo uso
-colonia cuando salgo.
-Pero sí que me encanta esta fragancia.
-¡Mmmmm! Es para morirse. ♪&lt;wait&gt;</Entry>
-  <Entry Index="2718">¿Cocinas mucho, por casualidad?
-Te enseñaré a hacer puré de patatas. ¿Todo listo?
-Tienes que aprenderte esto de memoria.
-Tal vez deberías ir a coger algo para apuntar la receta.
-Ve, yo te espero.
-¿Mmm? ¿Que si tengo algo? Ah, no, no.
-Me encanta hablar, así que te lo diría, ¿vale? Los
-ingredientes principales son patatas, mantequilla y leche.
-¡Necesitarás una olla, un rodillo y un horno! Ah, y especias
-también.
-Asa las patatas en el horno, aplástalas y mézclalas con
-mantequilla y leche. ¿Seguro que te acordarás de todo
-esto sin escribirlo?
-No, no me estoy riendo de ti. ¡Olvídalo! Es que lo he dicho
-tan rápido que me he sorprendido a mí misma.&lt;wait&gt;</Entry>
-  <Entry Index="2719">¡Ay, no! ¡Mmmm!
-Ajá. Ya veo lo que está pasando aquí.
-Dime. ¿Quién es la persona afortunada? ¿Alguien del
-pueblo? ¿No?
-Madre mía, no me puedo creer que no me haya dado
-cuenta antes.
-Bueno, supongo que como nunca me dijiste nada, no tenía
-forma de saberlo.
-Por cierto, ¿te estás haciendo &lt;gender&gt;("el","la") interesante?
-Apenas abres la boca.&lt;wait&gt;</Entry>
-  <Entry Index="2720">Escúchame, &lt;playername&gt;.
-Nuestra hija ha empezado a ponerse en contacto con
-nosotros una vez a la semana, y todo por su cuenta.
-Hasta ahora, siempre hemos intentado forzar alguna vía
-de comunicación con ella.
-Todo esto es gracias a que Sasha habló con ella, estoy
-segura. Ah, cómo me gusta tener gente que me apoye.&lt;wait&gt;</Entry>
-  <Entry Index="2721">¡Ah! Hola, hola, hola. ♪
-¿Qué tal le va a &lt;childname&gt;, eh?
-Parece que pasas mucho tiempo fuera.
-¿Crees que los hijos se crían solos y sin supervisión?
-Supongo que es una de las formas que hay de criarlos.&lt;wait&gt;</Entry>
-  <Entry Index="2722">Y aun así, aunque los padres estén siempre presentes, tu
-retoño podría coger un día y largarse del pueblo, como
-hizo la nuestra.
-Los hijos hacen lo que les da la gana sin pararse a pensar
-en cómo les afectará a los padres, ¿sabes?&lt;wait&gt;</Entry>
+  <Entry Index="2700">"Me dê qualquer coisa aqui que funcione de presente, pronto!"&lt;wait&gt;</Entry>
+  <Entry Index="2701">"Rápido! Preciso para ONTEM, amigo! Vamos, vamos!"&lt;wait&gt;</Entry>
+  <Entry Index="2702">Ou algo assim. E então ele vai pegar aquele presente,
+passeie até mim como se ele tivesse isso o tempo todo...
+... e ele vai me dar com um sorriso estúpido, como se nada
+teria acontecido.&lt;wait&gt;</Entry>
+  <Entry Index="2703">O que farei com o presente?
+Vou devolvê-lo imediatamente, é claro.
+Para que me dêem o dinheiro.
+Duke não terá ideia do que ele me comprou,
+então ele não vai notar se eu não tiver mais.&lt;wait&gt;</Entry>
+  <Entry Index="2704">Obrigado! Você sempre dá presentes tão
+adoráveis aos habitantes da cidade?
+Se você vai dar presentes, você deve fazê-los
+para todo mundo, você sabe.
+As pessoas vão começar a falar mal se você for apenas &lt;gender&gt;("generoso","generosa")
+com jovens e solteiros.
+Bem, para ser honesto, todo mundo gosta de você, então
+você provavelmente não tem nada com que se preocupar. Mas
+obrigado mesmo assim. Me encanta!&lt;wait&gt;</Entry>
+  <Entry Index="2705">Obrigado.
+Você é bem &lt;gender&gt;("cuidadoso","cuidadosa").
+Não, eu não estava indo com dupla intenção. Foi um elogio! A sério!
+Eu moro com um homem arrogante e insensível como
+Duque, então...
+Quando conheço pessoas como você, não posso deixar de
+fazer uma comparação com a única coisa que eu tenho de
+referência. Bem, muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="2706">Obrigado. Hmmm, sim... Você está se certificando de personalizar
+seus presentes para cada uma das preferências de seus vizinhos?
+Você não pode simplesmente dar QUALQUER coisa velha de presente. É por isso
+que você precisa experimentar e avaliar as reações das pessoas.
+Se você perguntar de antemão, eles se isolarão e eles
+vão responder a verdade, mas são pessoas honestas,
+então observe suas expressões...
+E isso mostrará a você seus verdadeiros sentimentos. olhe para
+mim como exemplo. Este presente? Está bem.&lt;wait&gt;</Entry>
+  <Entry Index="2707">Ai, ai, ai.
+Que problema.
+Eu não gosto nada disso!
+Claro, não vou olhar para um cavalo de presente - ou
+seja o que for - no mês desde que veio você, mas...
+Eu preferiria algo que não ofendesse pelo menos três dos meus
+cinco sentidos, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="2708">Ai, ai, ai. Quer me explicar o que é isso? eu estou indo
+para uma cadeira, então esteja preparado
+para explicação. Estou esperando.
+Não vou rejeitá-lo porque você me deu, mas
+outros ficariam furiosos.
+Você pode não saber, mas as pessoas aqui são muito
+puritano, então cuidado com piadas assim, ok?&lt;wait&gt;</Entry>
+  <Entry Index="2709">Hahaha! Então você não é apenas gentil, mas também
+é tão &lt;gender&gt;("puro","pura") como neve branca.
+Sim, vejo que você copiou uma das piadas clássicas de Yu.
+Mesmo que ele geralmente tente me assustar, ele não
+me impressiona.
+Mesmo assim, não há muitas crianças nesta cidade, então eu
+eu deixo você fazer pegadinhas porque eu acho fofo.&lt;wait&gt;</Entry>
+  <Entry Index="2710">Uau, isso é um não difícil para mim, obrigado! Você
+Escolheu propositadamente mostrar-me algo que odeio, ou...?
+Ah sim, claro. Você não tinha como saber, então não
+poderia ter evitado. Bem, agora você sabe.&lt;wait&gt;</Entry>
+  <Entry Index="2711">Que?! É para mim?
+Não, não, não. A sério?
+É para mim de verdade? Mais onde...?
+Oh, eu lembro! Você tem Saibara para fazer isso.&lt;wait&gt;</Entry>
+  <Entry Index="2712">Parece que ele tem mais de um ás na manga.
+Vou ter que perguntar a ele o que... Como? Que tenho que
+comprar uma pedra preciosa para dar a ele?&lt;wait&gt;</Entry>
+  <Entry Index="2713">Você não acha que ele cobra demais se tudo o que ele faz é
+juntar tudo?
+Oh, Meu Deus, percebo como alguns deles são arrogantes,
+pessoas sobre suas próprias habilidades.
+Seu filho pediu a Saibara para morar com ele, mas
+se recusa a sair da cidade.&lt;wait&gt;</Entry>
+  <Entry Index="2714">Embora tudo esteja bem quando acaba bem, suponho. Pelo menos
+seu neto mora com ele agora.&lt;wait&gt;</Entry>
+  <Entry Index="2715">Oh! Isso eu gosto muito! Hum? É para mim?
+Sim! Eu sou como castanholas. Obrigado.
+Eu nunca imaginei que alguém me faria
+um presente tão maravilhoso.&lt;wait&gt;</Entry>
+  <Entry Index="2716">Ah! É para mim?
+Você é um pouco &lt;gender&gt;("estranho","estranha"), sabe?
+Eu trabalho em um vinhedo, então uso meu olfato para
+distinguir o cheiro de boas uvas. então eu só uso
+perfume quando eu sair.
+Mas eu amo essa fragrância. se você fosse
+&lt;gender&gt;("um solteirão bonito e corajoso","uma solteira linda e corajosa"), meus pontos de afeto
+estariam maximizado.&lt;wait&gt;</Entry>
+  <Entry Index="2717">Ah! É para mim?
+Você é um pouco &lt;gender&gt;("estranho","estranha"), sabe?
+Eu trabalho em um vinhedo, então uso meu olfato para
+distinguir o cheiro de boas uvas. então eu só uso
+perfume quando eu sair.
+Mas eu amo essa fragrância.
+Hummm! é para morrer. ♪&lt;wait&gt;</Entry>
+  <Entry Index="2718">Por acaso você cozinha muito?
+Vou te ensinar a fazer purê de batata. Tudo pronto?
+Você tem que memorizar isso.
+Talvez você devesse ir buscar algo para anotar a receita.
+Vá, eu espero por você.
+Hum? E se eu tiver alguma coisa? Oh, não, não.
+eu adoro conversar, então vou te contar, tudo bem? Os
+ingredientes principais são batatas, manteiga e leite.
+Você vai precisar de uma panela, um rolo e um forno! ah, e especiarias
+também.
+Asse as batatas no forno, amasse e misture com
+manteiga e leite. Tem certeza que você vai se lembrar de tudo
+isso sem escrever?
+Não, não estou rindo de você. Esqueça! é que eu disse isso
+tão rápido que me surpreendi.&lt;wait&gt;</Entry>
+  <Entry Index="2719">Ai, não! Mmmm!
+AHA. Eu vejo o que está acontecendo aqui.
+Diga-me. Quem é a pessoa sortuda? alguém da
+cidade? Não?
+Oh, Meu Deus, eu não posso acreditar que não me dei
+conta antes.
+Bem, eu acho que como você nunca me disse nada, eu não tinha
+maneira de saber.
+A propósito, você está achando &lt;gender&gt;("ele","ela") interessante?
+Você mal abre a boca.&lt;wait&gt;</Entry>
+  <Entry Index="2720">Escute-me, &lt;playername&gt;.
+Nossa filha começou a entrar em contato
+conosco uma vez por semana, e tudo por conta própria.
+Até agora, sempre tentamos forçar de alguma forma
+a comunicação com ela.
+Isso tudo graças a Sasha conversando com ela, estou
+certo. Ah, como eu gosto de ter pessoas que me apoiam.&lt;wait&gt;</Entry>
+  <Entry Index="2721">Ah! Olá, olá, olá. ♪
+Como vai? &lt;childname&gt;, heim?
+Parece que você passa muito tempo fora.
+Você acha que as crianças são criadas sozinhas e sem supervisão?
+Eu acho que é uma das maneiras de criá-las.&lt;wait&gt;</Entry>
+  <Entry Index="2722">Afinal, mesmo que os pais fiquem por perto, a criança
+poderia um dia sair da cidade, como o nosso fez.
+As crianças fazem o que querem sem parar para pensar
+como isso vai afetar os pais, sabe?&lt;wait&gt;</Entry>
   <Entry Index="2723">Pero a ti te irá bien, &lt;playername&gt;.
 Con un marido como Cliff, &lt;childname&gt; seguro que
 será feliz.
