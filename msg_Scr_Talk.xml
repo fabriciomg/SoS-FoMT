@@ -7577,795 +7577,769 @@ além dessas quatro paredes. Será genial.&lt;wait&gt;</Entry>
   <Entry Index="3202">Eu quase posso entender o que &lt;childname&gt; diz. Eu
 estou ficando melhor em entender sua linguagem corporal.&lt;wait&gt;</Entry>
   <Entry Index="3203">Posso tentar fazer alguns brinquedos para ele na ferraria.
-Seguro que a &lt;childname&gt; le encantaría tener algo
-que le haya hecho su papá.&lt;wait&gt;</Entry>
-  <Entry Index="3204">...
+Seguro que a &lt;childname&gt; adoraria ter algo
+que seu papai fez.&lt;wait&gt;</Entry>
+<Entry Index="3204">...
 ...
 ...&lt;wait&gt;</Entry>
-  <Entry Index="3205">Sejamos honestos. No te importo, ¿verdad,
+<Entry Index="3205">Sejamos honestos. Você não se importa, né,
 &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="3206">No entiendo qué se te pasa por la cabeza últimamente,
+<Entry Index="3206">Não entendo o que anda passando pela sua cabeça ultimamente,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3207">Sé que la granja es importante, pero juraría que en la
-boda nos prometimos pasar tiempo juntos. Venga.&lt;wait&gt;</Entry>
-  <Entry Index="3208">¿Es que me odias ahora, &lt;nickname&gt;?&lt;wait&gt;&lt;page&gt;
-Sé &lt;gender&gt;("sincero","sincera"). Lo puedo aceptar.&lt;wait&gt;</Entry>
-  <Entry Index="3209">No hemos hablado mucho últimamente. Así no es como
-deberían comportarse las parejas casadas.&lt;wait&gt;</Entry>
-  <Entry Index="3210">No hemos hablado mucho últimamente. Así no es como
-deberían comportarse las parejas casadas.&lt;wait&gt;</Entry>
-  <Entry Index="3211">Oh, &lt;nickname&gt;. Buenos días. Vivir en una granja
-implica levantarse con el sol, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3212">La herrería no abre hasta más tarde, así que no soy muy
+<Entry Index="3207">Eu sei que a fazenda é importante, mas eu juraria que no
+casamento prometemos passar tempo juntos. Vamos lá.&lt;wait&gt;</Entry>
+<Entry Index="3208">Você me odeia agora, &lt;nickname&gt;?&lt;wait&gt;&lt;page&gt;
+Seja &lt;gender&gt;("sincero","sincera"). Eu posso aceitar isso.&lt;wait&gt;</Entry>
+<Entry Index="3209">Nós não temos conversado muito ultimamente. Não é assim que
+casais casados deveriam ser.&lt;wait&gt;</Entry>
+<Entry Index="3210">Nós não temos conversado muito ultimamente. Não é assim que
+casais casados deveriam ser.&lt;wait&gt;</Entry>
+<Entry Index="3211">Oh, &lt;nickname&gt;. Bom dia. Morar em uma fazenda
+significa acordar com o sol, né?&lt;wait&gt;</Entry>
+<Entry Index="3212">A ferraria não abre até mais tarde, então eu não sou muito
 madrugador.&lt;wait&gt;</Entry>
-  <Entry Index="3213">&lt;gender&gt;("Bienvenido","Bienvenida") de vuelta. ¿Has terminado ya de trabajar?
-¿O vas a seguir?&lt;wait&gt;</Entry>
-  <Entry Index="3214">Debe ser duro trabajar hasta tan tarde.
-¿Por esto estás tan fuerte?&lt;wait&gt;</Entry>
-  <Entry Index="3215">Buenos días, &lt;nickname&gt;.
-Dale duro en el trabajo hoy.&lt;wait&gt;</Entry>
-  <Entry Index="3216">No soy un maestro herrero todavía, pero me voy
-acercando poco a poco.&lt;wait&gt;&lt;page&gt;
-Teno que seguirte el ritmo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3217">&lt;gender&gt;("Bienvenido","Bienvenida") a casa. ¿Has terminado por hoy? ¿O todavía
-tienes ganas de ir?&lt;wait&gt;</Entry>
-  <Entry Index="3218">Oye, ten cuidado de no tropezarte y hacerte daño si vas a
-trabajar por la noche. ¿Tus herramientas están en buen
-estado?&lt;wait&gt;</Entry>
-  <Entry Index="3219">Buenos días, &lt;nickname&gt;. ∀ ¿Cómo te sientes hoy?
-¿Has dormido bien?&lt;wait&gt;</Entry>
-  <Entry Index="3220">Antes de casarnos, &lt;nickname&gt;, nunca me imaginé
-que viviría en una granja así. La vida tiene sus cosas...&lt;wait&gt;</Entry>
-  <Entry Index="3221">Antes de casarnos, &lt;nickname&gt;, nunca me imaginé
-que viviría en una granja. Sí que da vueltas la vida, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3222">&lt;gender&gt;("Bienvenido","Bienvenida") a casa, &lt;nickname&gt;. ∀
-Nunca hay tiempo para descansar, ¿no?
-Ten cuidado cuando oscurezca.&lt;wait&gt;</Entry>
-  <Entry Index="3223">En comparación a antes de que viviésemos juntos, ya no
-tengo que preocuparme tanto por ti, porque ahora estoy
-cerca.&lt;wait&gt;</Entry>
-  <Entry Index="3224">En comparación a antes de que viviésemos juntos, ya no
-tengo que preocuparme tanto por ti, porque ahora estoy
-cerca.&lt;wait&gt;</Entry>
-  <Entry Index="3225">¿Eh? Me alegro de verte por aquí, cariño.
-¿Estabas trabajando cerca?&lt;wait&gt;</Entry>
-  <Entry Index="3226">Intenta no volver a casa demasiado tarde, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="3227">Agh, odio el campo.
-No hay absolutamente nada.
-¿De verdad que te gusta vivir aquí?&lt;wait&gt;</Entry>
-  <Entry Index="3228">Agh, tengo demasiado tiempo libre y nada que hacer.
-Quiero volver a la ciudad. ¿Tú no?&lt;wait&gt;</Entry>
-  <Entry Index="3229">¿Qué hay, &lt;playername&gt;? ¿Conoces a la chica que
-trabaja en la biblioteca?&lt;wait&gt;&lt;page&gt;
-¿Qué opinas de ella?&lt;wait&gt;</Entry>
-  <Entry Index="3230">¿Qué hay, &lt;playername&gt;? ¿Conoces a la chica que
-trabaja en la biblioteca?&lt;wait&gt;&lt;page&gt;
-¿Qué opinas de ella?&lt;wait&gt;</Entry>
-  <Entry Index="3231">Me estoy esforzando por ir a la biblioteca más a menudo.
-Últimamente me apetece más leer.&lt;wait&gt;</Entry>
-  <Entry Index="3232">Me parece increíble lo que he tardado en darme cuenta
-de lo interesantes que son los libros.&lt;wait&gt;</Entry>
-  <Entry Index="3233">Parece que Marie es novelista.
-Es genial.&lt;wait&gt;&lt;page&gt;
-Saber lo duro que trabaja en sus novelas hace que yo
-también quiera trabajar duro.&lt;wait&gt;</Entry>
-  <Entry Index="3234">Ey. Parece que te mantienes &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
-  <Entry Index="3235">¿Que crees que estoy más feliz últimamente? Bueno,
-llevas razón. Es como si se hubiese despejado una niebla, la
-verdad.&lt;wait&gt;&lt;page&gt;
-Quiero darlo todo en la herrería a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="3236">Marie es distinta de las demás chicas.&lt;wait&gt;&lt;page&gt;
-Es como... que quiero que se fije en mí.&lt;wait&gt;</Entry>
-  <Entry Index="3237">Ahora mismo mi vida se basa en trabajar, leer, dormir y
-vuelta otra vez. Pero por algún motivo me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="3238">El padre de Marie me cuenta siempre unas historias
+<Entry Index="3213">&lt;gender&gt;("Bem-vindo","Bem-vinda") de volta. Você terminou de trabalhar?
+Ou vai continuar?&lt;wait&gt;</Entry>
+<Entry Index="3214">Deve ser difícil trabalhar até tão tarde.
+É por isso que você está tão forte?&lt;wait&gt;</Entry>
+<Entry Index="3215">Bom dia, &lt;nickname&gt;.
+Trabalhe duro hoje.&lt;wait&gt;</Entry>
+<Entry Index="3216">Ainda não sou um mestre ferreiro, mas estou me
+aproximando aos poucos.&lt;wait&gt;&lt;page&gt;
+Tenho que acompanhar o seu ritmo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3217">&lt;gender&gt;("Bem-vindo","Bem-vinda") de volta para casa. Você terminou por hoje? Ou ainda
+está com vontade de ir?&lt;wait&gt;</Entry>
+<Entry Index="3218">Ei, tome cuidado para não tropeçar e se machucar se você for
+trabalhar à noite. Suas ferramentas estão em boas
+condições?&lt;wait&gt;</Entry>
+<Entry Index="3219">Bom dia, &lt;nickname&gt;. ∀ Como você está hoje?
+Dormiu bem?&lt;wait&gt;</Entry>
+<Entry Index="3220">Antes de nos casarmos, &lt;nickname&gt;, eu nunca imaginei
+que viveria em uma fazenda assim. A vida tem suas peculiaridades...&lt;wait&gt;</Entry>
+<Entry Index="3221">Antes de nos casarmos, &lt;nickname&gt;, eu nunca imaginei
+que viveria em uma fazenda. A vida dá voltas, né?&lt;wait&gt;</Entry>
+<Entry Index="3222">&lt;gender&gt;("Bem-vindo","Bem-vinda") de volta para casa, &lt;nickname&gt;. ∀
+Nunca há tempo para descansar, né?
+Tenha cuidado quando escurecer.&lt;wait&gt;</Entry>
+<Entry Index="3223">Comparado com o tempo antes de morarmos juntos,
+eu não preciso mais me preocupar tanto com você, porque agora
+estou perto.&lt;wait&gt;</Entry>
+<Entry Index="3224">Comparado com o tempo antes de morarmos juntos, eu não preciso mais
+me preocupar tanto com você, porque agora estou perto.&lt;wait&gt;</Entry>
+<Entry Index="3225">Eh? Fico feliz de te ver por aqui, querido.
+Você estava trabalhando por perto?&lt;wait&gt;</Entry>
+<Entry Index="3226">Tente não voltar para casa muito tarde, tá bom?&lt;wait&gt;</Entry>
+<Entry Index="3227">Argh, eu detesto o campo.
+Não tem absolutamente nada.
+Você realmente gosta de morar aqui?&lt;wait&gt;</Entry>
+<Entry Index="3228">Argh, tenho tempo livre demais e nada para fazer.
+Quero voltar para a cidade. E você?&lt;wait&gt;</Entry>
+<Entry Index="3229">E aí, &lt;playername&gt;? Você conhece a garota que
+trabalha na biblioteca?&lt;wait&gt;&lt;page&gt;
+O que você acha dela?&lt;wait&gt;</Entry>
+<Entry Index="3230">E aí, &lt;playername&gt;? Você conhece a garota que
+trabalha na biblioteca?&lt;wait&gt;&lt;page&gt;
+O que você acha dela?&lt;wait&gt;</Entry>
+<Entry Index="3231">Estou tentando ir mais à biblioteca ultimamente.
+Ultimamente, tenho mais vontade de ler.&lt;wait&gt;</Entry>
+<Entry Index="3232">Demorei para perceber o quanto os livros podem ser interessantes.
+É incrível.&lt;wait&gt;</Entry>
+<Entry Index="3233">Parece que a Marie é uma escritora.
+Isso é demais.&lt;wait&gt;&lt;page&gt;
+Saber o quanto ela trabalha em suas novelas me faz querer trabalhar duro também.&lt;wait&gt;</Entry>
+<Entry Index="3234">Ei. Parece que você tem estado ocupado(a).&lt;wait&gt;</Entry>
+<Entry Index="3235">Você acha que tenho estado mais feliz ultimamente? Bem,
+você está certo. Parece que uma névoa se dissipou, é a verdade.&lt;wait&gt;&lt;page&gt;
+Quero me dedicar à ferraria a partir de agora.&lt;wait&gt;</Entry>
+<Entry Index="3236">A Marie é diferente das outras garotas.&lt;wait&gt;&lt;page&gt;
+É como se... eu quisesse que ela me notasse.&lt;wait&gt;</Entry>
+<Entry Index="3237">No momento, minha vida se resume a trabalhar, ler, dormir e
+começar tudo de novo. Mas, por algum motivo, gosto disso.&lt;wait&gt;</Entry>
+  <Entry Index="3238">O pai da Marie sempre me conta umas histórias
 fascinantes.&lt;wait&gt;</Entry>
-  <Entry Index="3239">Leer es genial y tal, pero la herrería es mi pasión.&lt;wait&gt;</Entry>
-  <Entry Index="3240">Ah, hola, &lt;playername&gt;. Queda poco para la boda, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3241">No me puedo creer que vaya a suceder. Nunca pensé que
-me casaría antes de dominar lo mío.&lt;wait&gt;&lt;page&gt;
-Pero créeme, estoy deseando de que llegue. Eh.&lt;wait&gt;</Entry>
-  <Entry Index="3242">Ah, &lt;playername&gt;. Queda poco para la boda, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3243">No me puedo creer que vaya a suceder. Nunca pensé que
-me casaría antes de dominar mi trabajo.&lt;wait&gt;&lt;page&gt;
-Pero créeme, estoy deseando de que llegue. Eh.&lt;wait&gt;</Entry>
-  <Entry Index="3244">¿Necesitas algo de mí?&lt;wait&gt;</Entry>
-  <Entry Index="3245">El trabajo es capaz de echar a perder el día cuando las
-cosas no van bien, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="3246">Hola. ¿Cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="3247">Me va... bien.
-En plan, no genial, pero tampoco mal.&lt;wait&gt;</Entry>
-  <Entry Index="3248">¿Cómo están tus herramientas? No las usas cuando
-están dañadas, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3249">Pásate por la tienda. Ten en cuenta que sigo aprendiendo,
-así que aún no puedo hacer demasiado por mi cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="3250">Vives &lt;gender&gt;("solo","sola"), ¿no?
-¿Y no te sientes... no sé, vulnerable por la noche?&lt;wait&gt;</Entry>
-  <Entry Index="3251">Vives &lt;gender&gt;("solo","sola"), ¿no?
-¿Y no te sientes... no sé, vulnerable por la noche?&lt;wait&gt;</Entry>
-  <Entry Index="3252">Guau. Eres valiente, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Eres distinta a las demás chicas que conozco. Y lo digo
-como un cumplido.&lt;wait&gt;</Entry>
-  <Entry Index="3253">Guau. Eres valiente,&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Eres distinto a los demás chicos que conozco. Y lo digo
-como un cumplido.&lt;wait&gt;</Entry>
-  <Entry Index="3254">Ah, &lt;playername&gt;.
-¿Vas a tope con las tareas de la granja?&lt;wait&gt;&lt;page&gt;
-Si hay algo que pueda hacer para ayudar,
-solo tienes que decírmelo.&lt;wait&gt;</Entry>
-  <Entry Index="3255">Ah, &lt;playername&gt;.
-¿Vas a tope con las tareas de la granja?&lt;wait&gt;&lt;page&gt;
-Si hay algo que pueda hacer para ayudar,
-solo tienes que decírmelo.&lt;wait&gt;</Entry>
-  <Entry Index="3256">Estoy empezando a disfrutar de mi aprendizaje.
-Pero no es que no me lo esté tomando en serio o algo así.&lt;wait&gt;</Entry>
-  <Entry Index="3257">Es que ver todo lo que haces me motiva
-para esforzarme al máximo.&lt;wait&gt;</Entry>
-  <Entry Index="3258">Es que ver todo lo que haces me motiva para esforzarme
-al máximo.&lt;wait&gt;</Entry>
-  <Entry Index="3259">Aunque no es que la agricultura y la herrería se
-parezcan.&lt;wait&gt;</Entry>
-  <Entry Index="3260">Eres increíble, &lt;playername&gt;.
-Aunque vives &lt;gender&gt;("solo","sola"), nunca te desanimas.&lt;wait&gt;</Entry>
-  <Entry Index="3261">Eres increíble, &lt;playername&gt;.
-Aunque vives &lt;gender&gt;("solo","sola"), nunca te desanimas.&lt;wait&gt;</Entry>
-  <Entry Index="3262">Creo que es superguay.&lt;wait&gt;</Entry>
-  <Entry Index="3263">Creo que es superguay.&lt;wait&gt;</Entry>
-  <Entry Index="3264">Haga lo que haga, el abuelo siempre me critica.
-No lo soporto.&lt;wait&gt;</Entry>
-  <Entry Index="3265">Aunque ahora que lo pienso... ¿cuántos años
-tiene el abuelo?&lt;wait&gt;&lt;page&gt;
-No me puedo creer que siga con esa energía. Es raro.
-¿Cuál será su secreto?&lt;wait&gt;</Entry>
-  <Entry Index="3266">¿Eh? ¿Qué pasa? ¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="3267">¿No deberías irte a casa?&lt;wait&gt;</Entry>
-  <Entry Index="3268">Los padres de Marie son muy simpáticos.&lt;wait&gt;</Entry>
-  <Entry Index="3269">El abuelo está más feliz últimamente. Ya no me grita
-tanto.&lt;wait&gt;</Entry>
-  <Entry Index="3270">Nunca me imaginé que sería padre.&lt;wait&gt;&lt;page&gt;
-Tengo que seguir trabajando duro.&lt;wait&gt;</Entry>
-  <Entry Index="3271">No deberías esforzarte demasiado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3272">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3273">¿Qué tal está &lt;childname&gt;? Lamentablemente, este
-sitio está prohibido porque hay demasiadas cosas
-peligrosas. Como fuego.&lt;wait&gt;</Entry>
-  <Entry Index="3274">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3275">Lo siento, pero quiero centrarme en mi trabajo.&lt;wait&gt;</Entry>
-  <Entry Index="3276">¡Eh! Hola.&lt;wait&gt;</Entry>
-  <Entry Index="3277">Ahora mismo estoy trabajando. ¡Shh!
-Tengo que concentrarme, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="3278">Oh, &lt;nickname&gt;. ¿Quieres que te arregle una
-herramienta? Tienes que enseñársela al abuelo, no a mí.&lt;wait&gt;</Entry>
-  <Entry Index="3279">Ahora estoy trabajando, hablaremos después. Eh, no me
-malinterpretes. Me alegra que hayas venido a verme.&lt;wait&gt;</Entry>
-  <Entry Index="3280">Hola, &lt;nickname&gt;. ¿Cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="3281">El trabajo es un asco, lo sé, pero vamos a esforzarnos.
-Haré todo lo que pueda por ti, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3282">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Cómo te sientes hoy, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="3283">Casarme contigo es una de las mejores decisiones que he
-tomado. Haces que quiera trabajar más duro cada día.&lt;wait&gt;</Entry>
-  <Entry Index="3284">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Cómo van las cosas en la granja?&lt;wait&gt;</Entry>
-  <Entry Index="3285">Tiene que estar bien tener una familia.&lt;wait&gt;</Entry>
-  <Entry Index="3286">El abuelo no me reconoce como un herrero de pleno
-derecho.&lt;wait&gt;</Entry>
-  <Entry Index="3287">Quiero hacerle un accesorio a Marie algún día. Por eso
-me esfuerzo tanto.&lt;wait&gt;</Entry>
-  <Entry Index="3288">¡Eh! Hola.&lt;wait&gt;</Entry>
-  <Entry Index="3289">¿Cómo va el trabajo?&lt;wait&gt;&lt;page&gt;
-Compaginar el trabajo y la familia no es fácil.
-Lo hago lo mejor que puedo.&lt;wait&gt;</Entry>
-  <Entry Index="3290">¿Necesitas algo de mí?&lt;wait&gt;</Entry>
-  <Entry Index="3291">Trabajas muy duro para alguien que vive &lt;gender&gt;("solo","sola").&lt;wait&gt;</Entry>
-  <Entry Index="3292">Trabajas muy duro para alguien que vive &lt;gender&gt;("solo","sola").&lt;wait&gt;</Entry>
-  <Entry Index="3293">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3294">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3295">¿Cómo es vivir en una granja?&lt;wait&gt;&lt;page&gt;
-Ver todo lo que haces me da ganas
-de mejorar lo que hago.&lt;wait&gt;</Entry>
-  <Entry Index="3296">¿Cómo es vivir en una granja?&lt;wait&gt;&lt;page&gt;
-Ver todo lo que haces me da ganas
-de mejorar lo que hago.&lt;wait&gt;</Entry>
-  <Entry Index="3297">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Qué haces aquí?&lt;wait&gt;</Entry>
-  <Entry Index="3298">Ojalá pudiese ser bueno en esto ya. ¡Colaborad un poco,
-manos!&lt;wait&gt;</Entry>
-  <Entry Index="3299">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3300">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3301">La vida en la granja debe ser dura.
-Hasta el abuelo está impresionado
-con lo bien que lo llevas todo.&lt;wait&gt;</Entry>
-  <Entry Index="3302">Ah, hola, &lt;playername&gt;.
-La granja va... ¿granjeando?&lt;wait&gt;</Entry>
-  <Entry Index="3303">Ah, hola, &lt;playername&gt;.
-La granja va... ¿granjeando?&lt;wait&gt;</Entry>
-  <Entry Index="3304">No me puedo creer que una persona pueda hacer todo lo
-que haces, &lt;playername&gt;. Me parece impresionante,
-de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="3305">No me puedo creer que una persona pueda hacer todo lo
-que haces, &lt;playername&gt;. Me parece impresionante,
-de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="3306">Ah, &lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="3307">Ah, &lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="3308">¿No hay una lista interminable de tareas que hacer en
-una granja? Parece duro. ¿Y no te sientes &lt;gender&gt;("solo","sola")?&lt;wait&gt;</Entry>
-  <Entry Index="3309">&lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").
-Voy a subir la intensidad de mis prácticas.&lt;wait&gt;</Entry>
-  <Entry Index="3310">&lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").
-Voy a subir la intensidad de mis prácticas.&lt;wait&gt;</Entry>
-  <Entry Index="3311">Estaría guay si comprases una de mis creaciones
-algún día, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3312">Estaría guay si comprases una de mis creaciones
-algún día, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3313">¿También te ha picado el gusanillo de la lectura,
+<Entry Index="3239">Ler é legal e tal, mas a ferraria é minha paixão.&lt;wait&gt;</Entry>
+<Entry Index="3240">Ah, oi, &lt;playername&gt;. O casamento está chegando, não é?&lt;wait&gt;</Entry>
+<Entry Index="3241">Eu não consigo acreditar que está prestes a acontecer. Nunca pensei que
+casaria antes de dominar minha profissão.&lt;wait&gt;&lt;page&gt;
+Mas acredite, estou ansioso(a) para que chegue. Eh.&lt;wait&gt;</Entry>
+<Entry Index="3242">Ah, &lt;playername&gt;. O casamento está chegando, não é?&lt;wait&gt;</Entry>
+<Entry Index="3243">Eu não consigo acreditar que está prestes a acontecer. Nunca pensei que
+casaria antes de dominar meu trabalho.&lt;wait&gt;&lt;page&gt;
+Mas acredite, estou ansioso(a) para que chegue. Eh.&lt;wait&gt;</Entry>
+<Entry Index="3244">Você precisa de algo de mim?&lt;wait&gt;</Entry>
+<Entry Index="3245">O trabalho pode arruinar o dia quando as
+coisas não vão bem, né?&lt;wait&gt;</Entry>
+<Entry Index="3246">Oi. Como vai a fazenda?&lt;wait&gt;</Entry>
+<Entry Index="3247">Eu estou... bem.
+Tipo, não ótimo, mas também não mal.&lt;wait&gt;</Entry>
+<Entry Index="3248">Como estão suas ferramentas? Você não as usa quando
+estão danificadas, certo?&lt;wait&gt;</Entry>
+<Entry Index="3249">Passe pela loja. Lembre-se de que ainda estou aprendendo,
+então não posso fazer muita coisa sozinho(a) ainda.&lt;wait&gt;</Entry>
+<Entry Index="3250">Você mora &lt;gender&gt;("sozinho","sozinha"), né?
+E você não se sente... sei lá, vulnerável à noite?&lt;wait&gt;</Entry>
+<Entry Index="3251">Você mora &lt;gender&gt;("sozinho","sozinha"), né?
+E você não se sente... sei lá, vulnerável à noite?&lt;wait&gt;</Entry>
+<Entry Index="3252">Uau. Você é corajoso(a), &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Você é diferente das outras garotas que conheço. E digo
+isso como um elogio.&lt;wait&gt;</Entry>
+<Entry Index="3253">Uau. Você é corajoso(a), &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Você é diferente dos outros garotos que conheço. E digo
+isso como um elogio.&lt;wait&gt;</Entry>
+<Entry Index="3254">Ah, &lt;playername&gt;.
+Você está ocupado com as tarefas da fazenda, né?&lt;wait&gt;&lt;page&gt;
+Se tiver algo em que eu possa ajudar,
+é só me falar.&lt;wait&gt;</Entry>
+<Entry Index="3255">Ah, &lt;playername&gt;.
+Você está ocupado com as tarefas da fazenda, né?&lt;wait&gt;&lt;page&gt;
+Se tiver algo em que eu possa ajudar,
+é só me falar.&lt;wait&gt;</Entry>
+<Entry Index="3256">Estou começando a gostar do meu aprendizado.
+Mas não é que eu não esteja levando isso a sério ou algo assim.&lt;wait&gt;</Entry>
+<Entry Index="3257">É que ver tudo o que você faz me motiva
+a me esforçar ao máximo.&lt;wait&gt;</Entry>
+<Entry Index="3258">É que ver tudo o que você faz me motiva a me esforçar
+ao máximo.&lt;wait&gt;</Entry>
+<Entry Index="3259">Embora não seja como a agricultura e a ferraria
+sejam parecidas.&lt;wait&gt;</Entry>
+<Entry Index="3260">Você é incrível, &lt;playername&gt;.
+Mesmo morando &lt;gender&gt;("sozinho","sozinha"), você nunca desanima.&lt;wait&gt;</Entry>
+<Entry Index="3261">Você é incrível, &lt;playername&gt;.
+Mesmo morando &lt;gender&gt;("sozinho","sozinha"), você nunca desanima.&lt;wait&gt;</Entry>
+<Entry Index="3262">Acho isso muito legal.&lt;wait&gt;</Entry>
+<Entry Index="3263">Acho isso muito legal.&lt;wait&gt;</Entry>
+<Entry Index="3264">Não importa o que eu faça, meu avô sempre me critica.
+Eu não aguento.&lt;wait&gt;</Entry>
+<Entry Index="3265">Agora que eu penso... quantos anos
+tem o meu avô?&lt;wait&gt;&lt;page&gt;
+Eu não consigo acreditar que ele ainda tem tanta energia. É estranho.
+Qual será o segredo dele?&lt;wait&gt;</Entry>
+<Entry Index="3266">Eh? O que foi? Precisa de algo?&lt;wait&gt;</Entry>
+<Entry Index="3267">Você não deveria ir para casa?&lt;wait&gt;</Entry>
+<Entry Index="3268">Os pais da Marie são bem legais.&lt;wait&gt;</Entry>
+<Entry Index="3269">Meu avô está mais feliz ultimamente. Ele não grita
+tanto comigo.&lt;wait&gt;</Entry>
+<Entry Index="3270">Nunca imaginei que seria pai.&lt;wait&gt;&lt;page&gt;
+Tenho que continuar trabalhando duro.&lt;wait&gt;</Entry>
+<Entry Index="3271">Não deveria se esforçar tanto, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3272">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3273">Como está &lt;childname&gt;? Infelizmente, este
+local é proibido porque há muitas coisas
+perigosas, como fogo.&lt;wait&gt;</Entry>
+<Entry Index="3274">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3275">Desculpe, mas quero focar no meu trabalho.&lt;wait&gt;</Entry>
+<Entry Index="3276">Ei! Oi.&lt;wait&gt;</Entry>
+<Entry Index="3277">Agora estou trabalhando. Shh!
+Preciso me concentrar, ok?&lt;wait&gt;</Entry>
+<Entry Index="3278">Oh, &lt;nickname&gt;. Quer que eu conserte uma
+ferramenta? Você precisa mostrar ao avô, não a mim.&lt;wait&gt;</Entry>
+  <Entry Index="3279">No momento, estou trabalhando. Conversamos depois. Ah, não me
+interprete mal. Fico feliz que você tenha vindo me ver.&lt;wait&gt;</Entry>
+<Entry Index="3280">Oi, &lt;nickname&gt;. Como vai a fazenda?&lt;wait&gt;</Entry>
+<Entry Index="3281">O trabalho é uma droga, eu sei, mas vamos nos esforçar.
+Vou fazer o máximo que puder por você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3282">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Como você está hoje, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+<Entry Index="3283">Casar-me com você foi uma das melhores decisões que já
+tomei. Você me faz querer trabalhar mais duro a cada dia.&lt;wait&gt;</Entry>
+<Entry Index="3284">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Como estão as coisas na fazenda?&lt;wait&gt;</Entry>
+<Entry Index="3285">Deve ser bom ter uma família.&lt;wait&gt;</Entry>
+<Entry Index="3286">Meu avô não me reconhece como um ferreiro legítimo.&lt;wait&gt;</Entry>
+<Entry Index="3287">Quero fazer um acessório para a Marie um dia. Por isso,
+me esforço tanto.&lt;wait&gt;</Entry>
+<Entry Index="3288">Ei! Oi.&lt;wait&gt;</Entry>
+<Entry Index="3289">Como vai o trabalho?&lt;wait&gt;&lt;page&gt;
+Equilibrar trabalho e família não é fácil.
+Estou fazendo o melhor que posso.&lt;wait&gt;</Entry>
+<Entry Index="3290">Você precisa de algo de mim?&lt;wait&gt;</Entry>
+<Entry Index="3291">Você trabalha muito para alguém que vive &lt;gender&gt;("sozinho","sozinha").&lt;wait&gt;</Entry>
+<Entry Index="3292">Você trabalha muito para alguém que vive &lt;gender&gt;("sozinho","sozinha").&lt;wait&gt;</Entry>
+<Entry Index="3293">Oi, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3294">Oi, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3295">Como é viver em uma fazenda?&lt;wait&gt;&lt;page&gt;
+Ver tudo o que você faz me dá vontade
+de melhorar o que faço.&lt;wait&gt;</Entry>
+<Entry Index="3296">Como é viver em uma fazenda?&lt;wait&gt;&lt;page&gt;
+Ver tudo o que você faz me dá vontade
+de melhorar o que faço.&lt;wait&gt;</Entry>
+<Entry Index="3297">&lt;gender&gt;("Bem-vindo","Bem-vinda"). O que você está fazendo aqui?&lt;wait&gt;</Entry>
+<Entry Index="3298">Quem me dera ser bom nisso logo. Colaborem um pouco,
+mãos!&lt;wait&gt;</Entry>
+<Entry Index="3299">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3300">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3301">A vida na fazenda deve ser difícil.
+Até meu avô está impressionado
+com como você lida com tudo.&lt;wait&gt;</Entry>
+<Entry Index="3302">Ah, oi, &lt;playername&gt;.
+A fazenda está... indo bem?&lt;wait&gt;</Entry>
+<Entry Index="3303">Ah, oi, &lt;playername&gt;.
+A fazenda está... indo bem?&lt;wait&gt;</Entry>
+<Entry Index="3304">Não consigo acreditar que uma pessoa possa fazer tudo o
+que você faz, &lt;playername&gt;. É incrível, de verdade.&lt;wait&gt;</Entry>
+<Entry Index="3305">Não consigo acreditar que uma pessoa possa fazer tudo o
+que você faz, &lt;playername&gt;. É incrível, de verdade.&lt;wait&gt;</Entry>
+<Entry Index="3306">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+<Entry Index="3307">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+<Entry Index="3308">Não há uma lista interminável de tarefas a fazer em
+uma fazenda? Parece difícil. E você não se sente &lt;gender&gt;("sozinho","sozinha")?&lt;wait&gt;</Entry>
+<Entry Index="3309">&lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").
+Vou aumentar a intensidade dos meus treinos.&lt;wait&gt;</Entry>
+<Entry Index="3310">&lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").
+Vou aumentar a intensidade dos meus treinos.&lt;wait&gt;</Entry>
+<Entry Index="3311">Seria legal se você comprasse uma das minhas criações
+um dia, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3312">Seria legal se você comprasse uma das minhas criações
+um dia, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3313">Você também se interessou por leitura,
 &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Este lugar no es muy popular, pero hay libros muy buenos
-por aquí.&lt;wait&gt;</Entry>
-  <Entry Index="3314">Si encuentras un buen libro, avísame. Puede que descubra
-lo que echo en falta.&lt;wait&gt;</Entry>
-  <Entry Index="3315">"¡Los libros son geniales! ¡Los libros son pura vida!".
-Se lo escuché a alguien una vez.
-No diría lo contrario.&lt;wait&gt;</Entry>
-  <Entry Index="3316">Marie es una fuente inagotable de recomendaciones
-de buenos libros.&lt;wait&gt;</Entry>
-  <Entry Index="3317">Ah, hola, &lt;nickname&gt;. No te suelo ver por aquí. ¿Qué
-pasa?&lt;wait&gt;</Entry>
-  <Entry Index="3318">Estoy aquí como parte de mi aprendizaje.
-Lo más difícil es reflexionar sobre mis debilidades para
-que pueda mejorar.&lt;wait&gt;</Entry>
-  <Entry Index="3319">Antes, me sentía obligado a venir hasta aquí, pero es
-distinto con Marie.&lt;wait&gt;</Entry>
-  <Entry Index="3320">Es como... que no puedo concentrarme hasta que no
-aligere esta tensión antes.&lt;wait&gt;</Entry>
-  <Entry Index="3321">En nuestros días libres, el abuelo me hace escalar la
-montaña. Dice que me ayudará a desarrollar un mejor
-sentido de la concentración.&lt;wait&gt;</Entry>
-  <Entry Index="3322">Concentración... Concentración...&lt;wait&gt;</Entry>
-  <Entry Index="3323">¿Qué tipo de fuegos artificiales estarán preparando para
-mañana?&lt;wait&gt;</Entry>
-  <Entry Index="3324">¿Vas a venir a la Noche a la Luz de la Luna? Aunque
-parezca mentira, tengo muchas ganas.&lt;wait&gt;</Entry>
-  <Entry Index="3325">Ya mismo es el Derbi de Otoño. Deberías ir si tienes
-ocasión.&lt;wait&gt;</Entry>
-  <Entry Index="3326">Tengo un buen presentimiento sobre este derbi. Voy a
-ganar algo seguro. Aunque, la verdad, lo digo todos los
-años y todavía no he ganado nada...&lt;wait&gt;</Entry>
-  <Entry Index="3327">No solo participan ovejas en el Festival de la Suavidad,
-¿sabes? También suele haber bastantes alpacas y conejos
-de Angora.&lt;wait&gt;</Entry>
-  <Entry Index="3328">Puede que el Festival de la Suavidad no sea lo más
-emocionante del mundo, pero sigo interesado en saber
-quién gana.&lt;wait&gt;</Entry>
-  <Entry Index="3329">Mañana vamos a despedir este año con toda la ciudad.
-Tengo muchas ganas.&lt;wait&gt;</Entry>
-  <Entry Index="3330">Tu cara no me resulta familiar.
-Ah, eres &lt;gender&gt;("el","la") &lt;gender&gt;("nuevo","nueva") &lt;gender&gt;("cuidador","cuidadora") de esa granja. Ya veo.&lt;wait&gt;&lt;page&gt;
-Debe ser difícil gestionar una granja con tan solo un par
-de manos, pero hazlo lo mejor que puedas.&lt;wait&gt;&lt;page&gt;
-Ah, se me ha olvidado presentarme.
-Soy Saibara. Encantado de conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="3331">Ejem.&lt;wait&gt;</Entry>
-  <Entry Index="3332">Ja, ja, ja. No me puedo creer que siga recibiendo regalos
-de cumpleaños a mi edad. Gracias. Lo aceptaré.&lt;wait&gt;</Entry>
-  <Entry Index="3333">Mmm, te lo agradezco. Sientes respeto por los mayores,
-&lt;gender&gt;("chico","chica"). Gracias por pensar en un viejales como yo.&lt;wait&gt;&lt;page&gt;
-Gray podría aprender un par de cosas de ti.&lt;wait&gt;</Entry>
-  <Entry Index="3334">Bueno, gracias. Lo aceptaré con gusto.&lt;wait&gt;</Entry>
-  <Entry Index="3335">Ah, un regalo. Lo aceptaré.&lt;wait&gt;</Entry>
-  <Entry Index="3336">Lo siento, pero no lo necesito.&lt;wait&gt;</Entry>
-  <Entry Index="3337">¿Pero qué intentas hacer? Agh. Los jóvenes
-de hoy en día necesitan refinar sus modales.&lt;wait&gt;</Entry>
-  <Entry Index="3338">Es una criatura tan pequeña, y aún así se enfrenta a
-cada día con gran energía.
-Es un recordatorio para que seamos conscientes.&lt;wait&gt;</Entry>
-  <Entry Index="3339">Puaj... Lo siento, ahora estoy ocupado.
-Ve a enseñárselo a otra persona.&lt;wait&gt;</Entry>
-  <Entry Index="3340">¿Es que no estás &lt;gender&gt;("satisfecho","satisfecha") con el producto?
-No acepto devoluciones.&lt;wait&gt;</Entry>
-  <Entry Index="3341">Mmm... ¿Y qué se supone que debo hacer con esto?&lt;wait&gt;</Entry>
-  <Entry Index="3342">Ja, ja. No es algo que se vea todos los días. ¿Es colonia?&lt;wait&gt;&lt;page&gt;
-¿Y qué se consigue llevando algo así?&lt;wait&gt;</Entry>
-  <Entry Index="3343">Deberías dárselo a algún joven, no a un viejales como yo.&lt;wait&gt;&lt;page&gt;
-Eres un poco &lt;gender&gt;("rarito","rarita").&lt;wait&gt;</Entry>
-  <Entry Index="3344">Ah, antes de que se me olvide, te voy a enseñar a hacer
-algo que se llama sol invernal.&lt;wait&gt;&lt;page&gt;
-Si te apetece hacerlo, apréndete lo que te voy a contar
-de memoria.&lt;wait&gt;&lt;page&gt;
-Los ingredientes necesarios son: Piedra lunar, rosa del
-desierto, esmeralda, diamante...&lt;wait&gt;&lt;page&gt;
-... y aunque son difíciles de encontrar, también necesitarás
-diamante rosa, alejandrita y mineral legendario.&lt;wait&gt;&lt;page&gt;
-No necesitarás ningún utensilio de cocina.
-Solo tienes que poner todos los ingredientes juntos.&lt;wait&gt;</Entry>
-  <Entry Index="3345">Ya veo. ¿Una pluma azul?&lt;wait&gt;&lt;page&gt;
-No malgastes tu tiempo en enseñármela.
-Ve y dásela a quien quieres de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="3346">Ja, ja, &lt;playername&gt;.
-¿Está bien &lt;childname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="3347">Ahora soy bisabuelo.&lt;wait&gt;&lt;page&gt;
-Puede que siga cargando con estos huesos hasta que vea
-la boda de &lt;childname&gt;. Ja, ja.&lt;wait&gt;</Entry>
-  <Entry Index="3348">¿Cómo te va ahora que te has casado?&lt;wait&gt;&lt;page&gt;
-Me preocupa que ese nieto mío tan novato te tenga
-demasiado &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
-  <Entry Index="3349">¿Cómo te va ahora que te has casado?&lt;wait&gt;&lt;page&gt;
-Me preocupa que ese nieto mío tan novato te tenga
-demasiado &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
-  <Entry Index="3350">¿Ah, sí?
-Supongo que Gray ha empezado a actuar como un adulto
-ahora que se ha casado.&lt;wait&gt;</Entry>
-  <Entry Index="3351">Ah, ¿sí?&lt;wait&gt;&lt;page&gt;
-Supongo que Gray ha empezado a actuar como un adulto
-ahora que se ha casado.&lt;wait&gt;</Entry>
-  <Entry Index="3352">A quien madruga Dios le ayuda.
-La gente lleva repitiendo eso durante siglos.&lt;wait&gt;</Entry>
-  <Entry Index="3353">Las mañanas productivas son fundamentales en la
-agricultura. Si te quedas durmiendo, no serás &lt;gender&gt;("un","una") &lt;gender&gt;("buen","buena")
-&lt;gender&gt;("granjero","granjera").&lt;wait&gt;</Entry>
-  <Entry Index="3354">¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="3355">Jo, jo, jo. No tiene sentido que nos quedemos aquí.&lt;wait&gt;</Entry>
-  <Entry Index="3356">Confío en que todo te vaya bien.
-Dedícate de lleno cada día a lo que la vida te depare.&lt;wait&gt;</Entry>
-  <Entry Index="3357">Vivir es aprender. Que no se te olvide.&lt;wait&gt;</Entry>
-  <Entry Index="3358">Buenos días. Estamos teniendo un tiempo estupendo.&lt;wait&gt;</Entry>
-  <Entry Index="3359">Jo, jo. Hola, &lt;playername&gt;.
-Me voy de compras.&lt;wait&gt;</Entry>
-  <Entry Index="3360">Voy a descansar un poco.
-Si no te importa la compañía de un anciano,
-deberías venir conmigo.&lt;wait&gt;&lt;page&gt;
-Quienes trabajan duro, deben relajarse de igual forma.
-El cuerpo necesita descansar.&lt;wait&gt;</Entry>
-  <Entry Index="3361">Se está haciendo tarde. Es hora de volver a casa.&lt;wait&gt;</Entry>
-  <Entry Index="3362">Ejem... Parece que te va bien.
-Intenta no esforzarte más de la cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="3363">Qué &lt;gender&gt;("gracioso","graciosa").
-¿Qué necesitas de este anciano?&lt;wait&gt;</Entry>
-  <Entry Index="3364">Jo, jo. Hola, &lt;playername&gt;.
-He venido a comprar ingredientes para la cena.&lt;wait&gt;</Entry>
-  <Entry Index="3365">Cuando mi esposa murió, no sabía cómo cuidarme. Ahora
-soy algo más autosuficiente.&lt;wait&gt;</Entry>
-  <Entry Index="3366">&lt;playername&gt;. ¿Has terminado ya de trabajar?&lt;wait&gt;&lt;page&gt;
-Siempre me doy un baño caliente después de trabajar.
-Es parte de mi rutina diaria.&lt;wait&gt;&lt;page&gt;
-A mi edad, no creo que sea una mala costumbre.&lt;wait&gt;
-</Entry>
-  <Entry Index="3367">Hasta Gray se preocupa por mi salud. Me da vergüenza
-que se inquiete por mí, pero me alegro de que le importe.&lt;wait&gt;</Entry>
-  <Entry Index="3368">Jo, jo, pero si es &lt;playername&gt;.
-¿Quieres beber algo conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="3369">Gray ha cambiado desde que se casó contigo.
-Nos ve a mí y a su aprendizaje con una actitud diferente.&lt;wait&gt;&lt;page&gt;
-Ahora parece una persona completamente distinta...
-Aunque le sigue haciendo falta madurar un poco.&lt;wait&gt;</Entry>
-  <Entry Index="3370">¿Has probado las bebidas de aquí, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Si no lo has hecho, deberías.
-Al menos una vez.&lt;wait&gt;</Entry>
-  <Entry Index="3371">¿Has probado la leche de arroz? Yo sí, y déjame que te
-diga que está a la par que las bebidas que hay aquí.&lt;wait&gt;</Entry>
-  <Entry Index="3372">Jo, jo. Hola, &lt;playername&gt;.
-Hace muy buena noche.&lt;wait&gt;</Entry>
-  <Entry Index="3373">Ya estoy en esa edad, sabes. Tengo el deber de enseñarle
-a Gray todo lo que sé antes de dejar este mundo.&lt;wait&gt;</Entry>
-  <Entry Index="3374">Agh, este nieto...&lt;wait&gt;&lt;page&gt;
-Ahora que está casado se niega a subir a la montaña
-conmigo.&lt;wait&gt;</Entry>
-  <Entry Index="3375">Umpf. ¿Sabes qué? Yo vivía muy bien antes de que viniese.
-De hecho, ¡me gusta que me dejen solo!&lt;wait&gt;</Entry>
-  <Entry Index="3376">Ejem... ¿Vas a subir a la montaña tú también,
+Este lugar não é muito popular, mas tem ótimos livros
+aqui.&lt;wait&gt;</Entry>
+<Entry Index="3314">Se você encontrar um bom livro, me avise. Pode ser que eu descubra
+o que estou perdendo.&lt;wait&gt;</Entry>
+<Entry Index="3315">"Livros são ótimos! Livros são pura vida!".
+Eu ouvi alguém dizer isso uma vez.
+Não posso discordar.&lt;wait&gt;</Entry>
+<Entry Index="3316">A Marie é uma fonte inesgotável de recomendações
+para bons livros.&lt;wait&gt;</Entry>
+<Entry Index="3317">Ah, oi, &lt;nickname&gt;. Eu normalmente não te vejo por aqui.
+O que está acontecendo?&lt;wait&gt;</Entry>
+<Entry Index="3318">Estou aqui como parte do meu aprendizado.
+A parte mais difícil é refletir sobre minhas fraquezas
+para poder melhorar.&lt;wait&gt;</Entry>
+<Entry Index="3319">Antes, eu me sentia obrigado a vir aqui, mas é
+diferente com a Marie.&lt;wait&gt;</Entry>
+  <Entry Index="3320">É como... eu não consigo me concentrar até aliviar essa tensão antes.&lt;wait&gt;</Entry>
+<Entry Index="3321">Nos nossos dias de folga, meu avô me faz escalar a montanha.
+Ele diz que isso vai me ajudar a desenvolver um melhor sentido de concentração.&lt;wait&gt;</Entry>
+<Entry Index="3322">Concentração... Concentração...&lt;wait&gt;</Entry>
+<Entry Index="3323">Que tipo de fogos de artifício eles estarão preparando para
+amanhã?&lt;wait&gt;</Entry>
+<Entry Index="3324">Você vai vir para a Noite à Luz da Lua? Embora
+possa parecer mentira, estou realmente ansioso.&lt;wait&gt;</Entry>
+<Entry Index="3325">O Derby de Outono está quase aqui. Você deveria ir se tiver
+a chance.&lt;wait&gt;</Entry>
+<Entry Index="3326">Estou com um pressentimento bom sobre esse derby. Vou
+ganhar alguma coisa com certeza. Embora, para ser honesto, digo isso todos os
+anos e ainda não ganhei nada...&lt;wait&gt;</Entry>
+<Entry Index="3327">Não apenas ovelhas participam do Festival da Maciez,
+sabe? Também costumam ter alpacas e coelhos Angorá em grande quantidade.&lt;wait&gt;</Entry>
+<Entry Index="3328">O Festival da Maciez pode não ser a coisa mais
+emocionante do mundo, mas ainda estou interessado em saber
+quem ganha.&lt;wait&gt;</Entry>
+<Entry Index="3329">Amanhã vamos encerrar o ano com toda a cidade.
+Estou realmente ansioso.&lt;wait&gt;</Entry>
+<Entry Index="3330">Seu rosto não me parece familiar. Ah, você é o &lt;gender&gt;("novo","nova")
+&lt;gender&gt;("caseiro","caseira") da fazenda. Entendi.&lt;wait&gt;&lt;page&gt;
+Deve ser difícil administrar uma fazenda com apenas um par de mãos,
+mas faça o melhor que puder.&lt;wait&gt;&lt;page&gt;
+Ah, esqueci de me apresentar. Eu sou Saibara. Prazer em conhecê-lo.&lt;wait&gt;</Entry>
+<Entry Index="3331">Ehem.&lt;wait&gt;</Entry>
+<Entry Index="3332">Ha ha ha. Não consigo acreditar que ainda esteja recebendo
+presentes de aniversário com a minha idade. Obrigado. Vou aceitar.&lt;wait&gt;</Entry>
+<Entry Index="3333">Hmm, agradeço. Você tem respeito pelos mais velhos,
+&lt;gender&gt;("rapaz","moça"). Obrigado por pensar em um velho como eu.&lt;wait&gt;&lt;page&gt;
+O Gray poderia aprender algumas coisas com você.&lt;wait&gt;</Entry>
+<Entry Index="3334">Bom, obrigado. Vou aceitar com prazer.&lt;wait&gt;</Entry>
+<Entry Index="3335">Ah, um presente. Vou aceitar.&lt;wait&gt;</Entry>
+<Entry Index="3336">Desculpe, mas eu não preciso disso.&lt;wait&gt;</Entry>
+<Entry Index="3337">Mas o que você está tentando fazer? Ah. Os jovens
+de hoje em dia precisam aprimorar seus modos.&lt;wait&gt;</Entry>
+<Entry Index="3338">É uma criaturinha tão pequena e mesmo assim encara
+cada dia com tanta energia.
+Isso nos lembra a sermos conscientes.&lt;wait&gt;</Entry>
+<Entry Index="3339">Ugh... Desculpe, mas estou ocupado agora.
+Vá mostrar isso para outra pessoa.&lt;wait&gt;</Entry>
+<Entry Index="3340">Você não está &lt;gender&gt;("satisfeito","satisfeita") com o produto?
+Não aceito devoluções.&lt;wait&gt;</Entry>
+<Entry Index="3341">Hm... E o que eu devo fazer com isso?&lt;wait&gt;</Entry>
+<Entry Index="3342">Ha ha. Não é algo que se vê todos os dias. Isso é colônia?&lt;wait&gt;&lt;page&gt;
+E o que se ganha usando algo assim?&lt;wait&gt;</Entry>
+<Entry Index="3343">Você deveria dar isso para um jovem, não para um velho como eu.&lt;wait&gt;&lt;page&gt;
+Você é um pouco &lt;gender&gt;("esquisito","esquisita").&lt;wait&gt;</Entry>
+<Entry Index="3344">Ah, antes que eu esqueça, vou te ensinar a fazer
+algo chamado Sol Invernal.&lt;wait&gt;&lt;page&gt;
+Se você quiser fazer, aprenda o que vou te contar
+de cor.&lt;wait&gt;&lt;page&gt;
+Os ingredientes necessários são: Pedra lunar, rosa do
+deserto, esmeralda, diamante...&lt;wait&gt;&lt;page&gt;
+... e embora sejam difíceis de encontrar, você também vai precisar de
+diamante rosa, alexandrita e mineral lendário.&lt;wait&gt;&lt;page&gt;
+Você não precisa de nenhum utensílio de cozinha.
+Só precisa juntar todos os ingredientes.&lt;wait&gt;</Entry>
+<Entry Index="3345">Entendi. Uma pena azul?&lt;wait&gt;&lt;page&gt;
+Não gaste seu tempo me mostrando isso.
+Vá e dê isso para alguém que você realmente se importa.&lt;wait&gt;</Entry>
+<Entry Index="3346">Ha ha, &lt;playername&gt;.
+Está tudo bem com o &lt;childname&gt;?&lt;wait&gt;</Entry>
+<Entry Index="3347">Agora sou bisavô.&lt;wait&gt;&lt;page&gt;
+Vou continuar por aí carregando esses ossos até ver
+o casamento do &lt;childname&gt;. Ha ha.&lt;wait&gt;</Entry>
+<Entry Index="3348">Como está indo agora que você está casado?&lt;wait&gt;&lt;page&gt;
+Estou preocupado que meu neto novato esteja te
+mantendo &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
+<Entry Index="3349">Como está indo agora que você está casado?&lt;wait&gt;&lt;page&gt;
+Estou preocupado que meu neto novato esteja te
+mantendo &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
+<Entry Index="3350">Ah, sim?
+Acho que o Gray começou a agir como um adulto
+agora que se casou.&lt;wait&gt;</Entry>
+  <Entry Index="3351">Ah, sim?&lt;wait&gt;&lt;page&gt;
+Suponho que Gray começou a agir como um adulto
+agora que se casou.&lt;wait&gt;</Entry>
+<Entry Index="3352">A quem madruga, Deus ajuda.
+As pessoas têm repetido isso por séculos.&lt;wait&gt;</Entry>
+<Entry Index="3353">Manhãs produtivas são fundamentais na
+agricultura. Se você fica dormindo, não será &lt;gender&gt;("um","uma") &lt;gender&gt;("bom","boa")
+&lt;gender&gt;("fazendeiro","fazendeira").&lt;wait&gt;</Entry>
+<Entry Index="3354">Precisa de alguma coisa?&lt;wait&gt;</Entry>
+<Entry Index="3355">Ho, ho, ho. Não faz sentido ficarmos aqui parados.&lt;wait&gt;</Entry>
+<Entry Index="3356">Confio que tudo esteja indo bem para você.
+Dedique-se plenamente ao que a vida lhe trouxer a cada dia.&lt;wait&gt;</Entry>
+<Entry Index="3357">Viver é aprender. Não se esqueça disso.&lt;wait&gt;</Entry>
+<Entry Index="3358">Bom dia. Está fazendo um tempo ótimo.&lt;wait&gt;</Entry>
+<Entry Index="3359">Ho, ho. Olá, &lt;playername&gt;.
+Estou indo às compras.&lt;wait&gt;</Entry>
+<Entry Index="3360">Vou descansar um pouco.
+Se você não se importa com a companhia de um ancião,
+deveria vir comigo.&lt;wait&gt;&lt;page&gt;
+Quem trabalha duro também precisa relaxar.
+O corpo precisa de descanso.&lt;wait&gt;</Entry>
+<Entry Index="3361">Está ficando tarde. É hora de voltar para casa.&lt;wait&gt;</Entry>
+<Entry Index="3362">Ehem... Parece que as coisas vão bem para você.
+Tente não se esforçar demais.&lt;wait&gt;</Entry>
+<Entry Index="3363">Que &lt;gender&gt;("engraçado","engraçada").
+O que você precisa deste ancião?&lt;wait&gt;</Entry>
+<Entry Index="3364">Ho, ho. Olá, &lt;playername&gt;.
+Estou aqui para comprar ingredientes para o jantar.&lt;wait&gt;</Entry>
+<Entry Index="3365">Quando minha esposa faleceu, eu não sabia como me cuidar. Agora
+sou um pouco mais independente.&lt;wait&gt;</Entry>
+<Entry Index="3366">&lt;playername&gt;, você já terminou de trabalhar?&lt;wait&gt;&lt;page&gt;
+Sempre tomo um banho quente depois de trabalhar.
+É parte da minha rotina diária.&lt;wait&gt;&lt;page&gt;
+Na minha idade, não acho que seja um hábito ruim.&lt;wait&gt;</Entry>
+<Entry Index="3367">Até o Gray se preocupa com a minha saúde. Fico envergonhado
+por ele se preocupar comigo, mas fico feliz que ele se importe.&lt;wait&gt;</Entry>
+<Entry Index="3368">Ho, ho, mas é o &lt;playername&gt;.
+Quer beber algo comigo?&lt;wait&gt;</Entry>
+<Entry Index="3369">O Gray mudou desde que se casou com você.
+Ele olha para mim e para o aprendizado dele com uma atitude diferente.&lt;wait&gt;&lt;page&gt;
+Agora ele parece uma pessoa completamente diferente...
+Embora ainda precise amadurecer um pouco.&lt;wait&gt;</Entry>
+<Entry Index="3370">Você já experimentou as bebidas daqui, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Se ainda não, deveria experimentar.
+Pelo menos uma vez.&lt;wait&gt;</Entry>
+<Entry Index="3371">Já experimentou o leite de arroz? Eu sim, e deixe-me te dizer
+ que ele é tão bom quanto as bebidas daqui.&lt;wait&gt;</Entry>
+<Entry Index="3372">Ho, ho. Olá, &lt;playername&gt;.
+A noite está ótima.&lt;wait&gt;</Entry>
+<Entry Index="3373">Já estou naquela idade, sabe. Tenho a obrigação de ensinar
+tudo o que sei ao Gray antes de deixar este mundo.&lt;wait&gt;</Entry>
+<Entry Index="3374">Agh, esse neto...&lt;wait&gt;&lt;page&gt;
+Agora que ele está casado, se recusa a subir a montanha
+comigo.&lt;wait&gt;</Entry>
+<Entry Index="3375">Umpf. Sabe o quê? Eu estava muito bem antes de você chegar.
+Na verdade, gosto de ficar sozinho!&lt;wait&gt;</Entry>
+<Entry Index="3376">Ehem... Você também vai subir a montanha,
 &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Los jueves siempre cierro la tienda y subo hasta aquí.&lt;wait&gt;</Entry>
-  <Entry Index="3377">Asegúrate de relajarte de vez en cuando.&lt;wait&gt;</Entry>
-  <Entry Index="3378">¿Qué pasa?
-¿Todo bien en la granja?&lt;wait&gt;</Entry>
-  <Entry Index="3379">¿No crees que deberías dejar de perder el tiempo aquí y
-centrarte en tu granja?&lt;wait&gt;</Entry>
-  <Entry Index="3380">Eres muy &lt;gender&gt;("trabajador","trabajadora").
-Veo que has crecido mucho.&lt;wait&gt;</Entry>
-  <Entry Index="3381">Me estoy haciendo viejo, sabes.
-Tengo que nombrar a mi sucesor pronto.&lt;wait&gt;</Entry>
-  <Entry Index="3382">Mmm, la Verbena del Mochi es mañana, ¿no? Espero que
-con estas articulaciones pueda hacer mochi.&lt;wait&gt;</Entry>
-  <Entry Index="3383">¿Qué opinas, &lt;playername&gt;?&lt;wait&gt; ¿Tienes alguna idea de
-quién va a ganar el Derbi de Primavera?&lt;wait&gt;</Entry>
-  <Entry Index="3384">Sobre el derbi de mañana... ¿Por quién vas a apostar?&lt;wait&gt;</Entry>
-  <Entry Index="3385">Ahora que lo pienso, ya mismo son los Duelos de Gallinas,
-¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3386">¿Vas a ir a los Duelos de Gallinas mañana? Yo iré a
-primera hora.&lt;wait&gt;</Entry>
-  <Entry Index="3387">¿Qué opinas, &lt;playername&gt;?&lt;wait&gt; ¿Tienes alguna idea de
-quién va a ganar el Derbi de Otoño?&lt;wait&gt;</Entry>
-  <Entry Index="3388">Sobre el derbi de mañana... Yo voy a apostar por... Eh. Tal
-vez sea mejor guardarme el secreto.&lt;wait&gt;</Entry>
-  <Entry Index="3389">Ya se ha acabado otro año. Cuando eres tan mayor como
-yo, un año se pasa en un abrir y cerrar de ojos.&lt;wait&gt;</Entry>
-  <Entry Index="3390">¿Eh? ¿Y tú quién eres?&lt;wait&gt;&lt;page&gt;
-Vaya. Te has mudado a esa vieja granja, ¿no? Me llamo
-Gotts. Soy el carpintero de la zona.&lt;wait&gt;&lt;page&gt;
-Si quieres darle vida a esa vieja granja, ven a verme. Te
-construiré lo que quieras, siempre que lo pagues.&lt;wait&gt;</Entry>
-  <Entry Index="3391">¿Es... un regalo de cumpleaños?
-Yo, eh... No sé qué decir. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3392">¡Vaya, qué &lt;gender&gt;("considerado","considerada")!
-¡Gracias! Te lo agradezco.&lt;wait&gt;</Entry>
-  <Entry Index="3393">¡Ajá! Justo lo que necesitaba. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3394">Ah, perdona que te incomode. Te lo agradezco.&lt;wait&gt;</Entry>
-  <Entry Index="3395">¿Eh? ¿Para qué es esto? ¿Un regalo?
-¿Qué quieres que haga con esto?&lt;wait&gt;</Entry>
-  <Entry Index="3396">¿Eh? No necesito esta tontería.
-Toma, quédatelo. Venga.
-¿Por qué no te lo quedas?&lt;wait&gt;</Entry>
-  <Entry Index="3397">¡Ja, ja, ja! Veo a esos pequeñajos en la montaña todos los
-días, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="3398">¡Q-qué demonios!
-¡Se me va a salir el corazón del pecho!
-¡Déjalo ya!&lt;wait&gt;</Entry>
-  <Entry Index="3399">Si mi pequeña estuviese viva, estaría en la edad
-en la que le gustaría llevar este tipo de cosas.&lt;wait&gt;&lt;page&gt;
-Ajá. Lo sé. Puede que se lo dé a la chica
-esa del bazar, Karen.&lt;wait&gt;</Entry>
-  <Entry Index="3400">Es la viva imagen de algo que solía tener mi difunta
-esposa.&lt;wait&gt;&lt;page&gt;
-Ajá. Lo sé. Puede que se lo dé a la chica esa del bazar,
-Karen.&lt;wait&gt;</Entry>
-  <Entry Index="3401">Bueno... ¿Qué pasa? No lo entiendo.&lt;wait&gt;</Entry>
-  <Entry Index="3402">Umm. Gracias. Eres &lt;gender&gt;("el único","la única") que se acuerda de
-regalarme bombones.&lt;wait&gt;</Entry>
-  <Entry Index="3403">¿Sabes lo que son los okonomiyakis? Eso sí que está rico.
-Es sencillo también. Lo único que tienes que hacer es
-mezclar los ingredientes.&lt;wait&gt;&lt;page&gt;
-Si quieres, te puedo enseñar la receta.&lt;wait&gt;</Entry>
-  <Entry Index="3404">Bueno, veamos...
-Primero empiezas con la harina, ¿vale?&lt;wait&gt;&lt;page&gt;
-Después añades un poco de col. Puede que un poco de
-mochi si lo quieres hacer en plan elegante.
-También hace falta un huevo.&lt;wait&gt;</Entry>
-  <Entry Index="3405">Lo bates todo junto, y después echas aceite en la sartén y
-lo cocinas hasta que se dore.&lt;wait&gt;&lt;page&gt;
-¡Uy, casi lo olvido! Tienes que trocear la col con el cuchillo
+Toda quinta-feira eu fecho a loja e subo aqui.&lt;wait&gt;</Entry>
+<Entry Index="3377">Certifique-se de relaxar de vez em quando.&lt;wait&gt;</Entry>
+<Entry Index="3378">O que há?
+Está tudo bem na fazenda?&lt;wait&gt;</Entry>
+<Entry Index="3379">Você não acha que deveria parar de perder tempo aqui e
+se concentrar na sua fazenda?&lt;wait&gt;</Entry>
+<Entry Index="3380">Você é muito &lt;gender&gt;("trabalhador","trabalhadora").
+Vejo que cresceu bastante.&lt;wait&gt;</Entry>
+<Entry Index="3381">Estou ficando velho, sabe.
+Logo terei que nomear meu sucessor.&lt;wait&gt;</Entry>
+<Entry Index="3382">Mmm, o Festival de Mochi é amanhã, certo? Espero que
+essas articulações aguentem fazer mochi.&lt;wait&gt;</Entry>
+<Entry Index="3383">O que você acha, &lt;playername&gt;?&lt;wait&gt; Você tem alguma ideia de
+quem vai ganhar o Derby de Primavera?&lt;wait&gt;</Entry>
+<Entry Index="3384">Sobre o derby de amanhã... Em quem você vai apostar?&lt;wait&gt;</Entry>
+<Entry Index="3385">A propósito, o Festival de Luta de Galos é em breve, não é?
+&lt;wait&gt;</Entry>
+<Entry Index="3386">Você vai ao Festival de Luta de Galos amanhã?
+Eu vou bem cedo.&lt;wait&gt;</Entry>
+<Entry Index="3387">O que você acha, &lt;playername&gt;?&lt;wait&gt; Você tem alguma ideia de
+quem vai ganhar o Derby de Outono?&lt;wait&gt;</Entry>
+  <Entry Index="3388">Sobre o derby de amanhã... Eu vou apostar em... Bem.
+Talvez seja melhor eu guardar o segredo.&lt;wait&gt;</Entry>
+<Entry Index="3389">Outro ano se passou. Quando você é tão velho quanto eu,
+um ano passa num piscar de olhos.&lt;wait&gt;</Entry>
+<Entry Index="3390">Eh? E quem é você?&lt;wait&gt;&lt;page&gt;
+Hmm. Você se mudou para aquela velha fazenda, não é? Meu nome é
+Gotts. Eu sou o carpinteiro da região.&lt;wait&gt;&lt;page&gt;
+Se você quer dar vida a essa velha fazenda, venha me ver. Eu vou
+construir o que você quiser, contanto que você pague.&lt;wait&gt;</Entry>
+<Entry Index="3391">É... um presente de aniversário?
+Eu, bem... Não sei o que dizer. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3392">Wow, que &lt;gender&gt;("considerado","considerada")! 
+Obrigado! Eu agradeço.&lt;wait&gt;</Entry>
+<Entry Index="3393">Ah, é isso que eu precisava. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3394">Oh, desculpe por incomodar. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3395">Eh? O que é isso? Um presente?
+O que você quer que eu faça com isso?&lt;wait&gt;</Entry>
+<Entry Index="3396">Eh? Eu não preciso dessa bobagem.
+Pegue, fique com isso. Vamos lá.
+Por que você não fica com isso?&lt;wait&gt;</Entry>
+<Entry Index="3397">Haha, eu vejo aqueles garotinhos na montanha todos os
+dias, sabe?&lt;wait&gt;</Entry>
+<Entry Index="3398">O-oi! Meu coração vai pular para fora do meu peito!
+Pare com isso!&lt;wait&gt;</Entry>
+<Entry Index="3399">Se minha pequena estivesse viva, ela estaria na idade
+em que ela gostaria de usar esse tipo de coisa.&lt;wait&gt;&lt;page&gt;
+É, eu sei. Talvez eu dê isso para aquela garota
+do bazar, a Karen.&lt;wait&gt;</Entry>
+<Entry Index="3400">É a imagem viva de algo que minha falecida esposa costumava ter.&lt;wait&gt;&lt;page&gt;
+É, eu sei. Talvez eu dê isso para aquela garota do bazar,
+a Karen.&lt;wait&gt;</Entry>
+<Entry Index="3401">Bem... O que está acontecendo? Eu não entendo.&lt;wait&gt;</Entry>
+<Entry Index="3402">Hmm. Obrigado. Você é &lt;gender&gt;("o único","a única") que se lembra de me dar
+bombons.&lt;wait&gt;</Entry>
+<Entry Index="3403">Você sabe o que são okonomiyakis? Isso é realmente gostoso.
+É simples também. Tudo o que você precisa fazer é
+misturar os ingredientes.&lt;wait&gt;&lt;page&gt;
+Se quiser, posso te ensinar a receita.&lt;wait&gt;</Entry>
+<Entry Index="3404">Bem, vamos lá...
+Primeiro, você começa com a farinha, certo?&lt;wait&gt;&lt;page&gt;
+Depois, você adiciona um pouco de repolho. Talvez um pouco de
+mochi se quiser deixar chique.
+Também precisa de um ovo.&lt;wait&gt;</Entry>
+<Entry Index="3405">Você mistura tudo e depois coloca óleo na frigideira e
+cozinha até dourar.&lt;wait&gt;&lt;page&gt;
+Ah, quase esqueci! Você precisa cortar o repolho com a faca
 antes.
-Y ya está.&lt;wait&gt;</Entry>
-  <Entry Index="3406">Te casas, ¿eh? Cuida bien de tu familia, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="3407">Bueno, esto no es más que un rumor, pero he oído que la
-construcción de la granja &lt;linkedfarmname&gt; es
-impresionante.&lt;wait&gt;&lt;page&gt;
-Me gustaría verla en algún momento.&lt;wait&gt;</Entry>
-  <Entry Index="3408">Hace unos años, un anciano llamado o'Chuu solía vivir
-conmigo.&lt;wait&gt;&lt;page&gt;
-Le encantaba recoger y estudiar bichos, abejas y esas
-cosas. Había algo en los insectos de Ciudad Mineral que le
-fascinaba.&lt;wait&gt;&lt;page&gt;
-Le vi un día cómo salió corriendo, persiguiendo a una
-mariposa, y puf. Se fue. No ha vuelto todavía. ¿Hasta
-dónde iría siguiendo a esa cosa?&lt;wait&gt;</Entry>
-  <Entry Index="3409">Ey. Lo siento, pero estoy descansando. No acepto
-encargos. Esas son las normas.&lt;wait&gt;</Entry>
-  <Entry Index="3410">¿Mmm? Bueno, si no estás aquí para hacer negocios, ¿qué
-quieres entonces?&lt;wait&gt;</Entry>
-  <Entry Index="3411">Oh. Eres tú, &lt;playername&gt;.
-Ah, perdona.&lt;wait&gt;&lt;page&gt;
-No quería ser maleducado ni nada.&lt;wait&gt;</Entry>
-  <Entry Index="3412">Me gusta vivir aquí solo, pero a veces, cuando está todo
-muy tranquilo y silencioso, veo cosas raras.&lt;wait&gt;&lt;page&gt;
-Qué, ¿te estás asustando? Pues corre a casa antes de que
-oscurezca demasiado.&lt;wait&gt;</Entry>
-  <Entry Index="3413">Ten cuidado cuando subas a esa montaña tú &lt;gender&gt;("solo","sola"), ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="3414">No es que haya osos o lobos, pero no viene mal tener
+E é isso.&lt;wait&gt;</Entry>
+<Entry Index="3406">Você está se casando, né? Cuide bem da sua família, ok?&lt;wait&gt;</Entry>
+<Entry Index="3407">Bem, isso é apenas um boato, mas ouvi dizer que a
+construção da fazenda &lt;linkedfarmname&gt; é
+impressionante.&lt;wait&gt;&lt;page&gt;
+Eu adoraria ver em algum momento.&lt;wait&gt;</Entry>
+<Entry Index="3408">Há alguns anos, um velho chamado o'Chuu costumava morar
+comigo.&lt;wait&gt;&lt;page&gt;
+Ele adorava coletar e estudar insetos, abelhas e essas
+coisas. Havia algo nos insetos de Cidade Mineral que o fascinava.&lt;wait&gt;&lt;page&gt;
+Eu o vi um dia correndo atrás de uma
+borboleta, e poof. Ele se foi. Ainda não voltou. Até
+onde ele teria ido seguindo aquilo?&lt;wait&gt;</Entry>
+<Entry Index="3409">Ei. Desculpe, mas estou descansando. Não estou aceitando
+encomendas. Essas são as regras.&lt;wait&gt;</Entry>
+<Entry Index="3410">Hmm? Bem, se você não está aqui para fazer negócios, o que
+você quer então?&lt;wait&gt;</Entry>
+<Entry Index="3411">Oh, é você, &lt;playername&gt;.
+Ah, desculpe.&lt;wait&gt;&lt;page&gt;
+Não quero ser mal-educado nem nada.&lt;wait&gt;</Entry>
+<Entry Index="3412">Eu gosto de morar aqui sozinho, mas às vezes, quando está tudo
+muito calmo e silencioso, vejo coisas estranhas.&lt;wait&gt;&lt;page&gt;
+O que, está ficando com medo? É melhor correr para casa antes que
+fique muito escuro.&lt;wait&gt;</Entry>
+<Entry Index="3413">Tenha cuidado quando subir aquela montanha sozinho, ok?&lt;wait&gt;</Entry>
+<Entry Index="3414">Não é que haja ursos ou lobos, mas não custa nada ter
 cuidado.&lt;wait&gt;</Entry>
-  <Entry Index="3415">Ey. Parece que te mantienes &lt;gender&gt;("ocupado","ocupada").
-Buena suerte con todo.&lt;wait&gt;</Entry>
-  <Entry Index="3416">Ey. Estoy buscando árboles para hacer leña. He pensado
-en buscar algo de comer mientras tanto.&lt;wait&gt;</Entry>
-  <Entry Index="3417">Un consejo: si quieres talar unos árboles, no te pongas a
-darle a todo lo que pilles.&lt;wait&gt;&lt;page&gt;
-Sé &lt;gender&gt;("respetuoso","respetuosa") y coge solo lo que necesites. La montaña
-no hace más que compartir con nosotros sus recursos.&lt;wait&gt;</Entry>
-  <Entry Index="3418">Ey. Iba de camino a ver al alcalde. Hace tiempo que no
-hablamos, así iba a ponerme al día.&lt;wait&gt;</Entry>
-  <Entry Index="3419">Ey. Bajo al pueblo los sábados. Ya sabes, para comprar
-huevos y leche, hacer recados, cosas así.&lt;wait&gt;</Entry>
-  <Entry Index="3420">Llevo ya un tiempo en la montaña. Me volvería loco si no
-bajase a socializar de vez en cuando.&lt;wait&gt;</Entry>
-  <Entry Index="3421">Ey, &lt;playername&gt;. ¿Cómo va el trabajo?&lt;wait&gt;</Entry>
-  <Entry Index="3422">Sigue ampliando y mejorando tu granja.&lt;wait&gt;</Entry>
-  <Entry Index="3423">Ey, &lt;playername&gt;.
-¿Te gusta este sitio a ti también?&lt;wait&gt;</Entry>
-  <Entry Index="3424">Perdí a mi familia aquí hace unos años.&lt;wait&gt;&lt;page&gt;
-A Basil le gusta traer a su familia a hacer senderismo.
-Que está bien, pero le pido que no lo haga cuando ha
-nevado.&lt;wait&gt;</Entry>
-  <Entry Index="3425">Ten cuidado tú también, &lt;playername&gt;.
-¿Me has oído?&lt;wait&gt;</Entry>
-  <Entry Index="3426">Mm... Ah. &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3427">Más te vale volver antes de que sea tarde. Está
-oscureciendo.&lt;wait&gt;</Entry>
-  <Entry Index="3428">Ey. Está saliendo todo bien.&lt;wait&gt;</Entry>
-  <Entry Index="3429">Relájate un rato.
-Terminaré en un periquete.&lt;wait&gt;</Entry>
-  <Entry Index="3430">Como paso mucho tiempo aquí solo, hay veces que veo
-cosas muy raras.&lt;wait&gt;&lt;page&gt;
-Cuando vuelvo a casa, siempre me paro a pensar: "¿Ha
-pasado eso de verdad? ¿O ha sido solo un sueño?"&lt;wait&gt;</Entry>
-  <Entry Index="3431">Si vas a ir a la montaña, asegúrate de volver antes de que
-anochezca. Es peligroso estar allí de noche.&lt;wait&gt;</Entry>
-  <Entry Index="3432">Mucha gente dice que se supone que hay una diosa que
-vive en la montaña, pero nunca la he visto.&lt;wait&gt;</Entry>
-  <Entry Index="3433">Si alguna vez ves a esa diosa, ¿le darás saludos de mi
-parte? Dile que le agradezco todo lo que la montaña me
-da.&lt;wait&gt; </Entry>
-  <Entry Index="3434">¡Ah, sí! Casi se me olvida que mañana es la Verbena del
-Mochi. Supongo que no me queda más remedio que ir.&lt;wait&gt;</Entry>
-  <Entry Index="3435">¿Que ya mismo es el concurso gastronómico? Va a ser
+<Entry Index="3415">Ei. Parece que você está &lt;gender&gt;("ocupado","ocupada").
+Boa sorte com tudo.&lt;wait&gt;</Entry>
+<Entry Index="3416">Ei. Estou procurando árvores para fazer lenha. Eu estava pensando
+em procurar algo para comer enquanto isso.&lt;wait&gt;</Entry>
+<Entry Index="3417">Um conselho: se você quiser derrubar algumas árvores,
+não saia cortando tudo o que ver pela frente.&lt;wait&gt;&lt;page&gt;
+Seja &lt;gender&gt;("respeitoso","respeitosa") e pegue apenas o que precisar.
+A montanha nos fornece seus recursos, vamos compartilhar também.&lt;wait&gt;</Entry>
+  <Entry Index="3418">Ei. Estava a caminho de ver o prefeito. Já faz um tempo desde que
+nós conversamos, então eu estava pensando em me atualizar.&lt;wait&gt;</Entry>
+<Entry Index="3419">Ei. Desço para a vila aos sábados. Você sabe, para comprar
+ovos e leite, fazer recados, coisas assim.&lt;wait&gt;</Entry>
+<Entry Index="3420">Estou na montanha há um tempo. Eu enlouqueceria se não
+descendesse para socializar de vez em quando.&lt;wait&gt;</Entry>
+<Entry Index="3421">Ei, &lt;playername&gt;. Como vai o trabalho?&lt;wait&gt;</Entry>
+<Entry Index="3422">Continue expandindo e melhorando sua fazenda.&lt;wait&gt;</Entry>
+<Entry Index="3423">Ei, &lt;playername&gt;.
+Você também gosta deste lugar?&lt;wait&gt;</Entry>
+<Entry Index="3424">Eu perdi minha família aqui há alguns anos.&lt;wait&gt;&lt;page&gt;
+Basil gosta de trazer sua família para fazer trilhas.
+O que é bom, mas eu peço para ele não fazer isso quando
+neva.&lt;wait&gt;</Entry>
+<Entry Index="3425">Tenha cuidado também, &lt;playername&gt;.
+Você me ouviu?&lt;wait&gt;</Entry>
+<Entry Index="3426">Mm... Ah. &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3427">Mais vale você voltar antes que fique tarde. Está
+escurecendo.&lt;wait&gt;</Entry>
+<Entry Index="3428">Ei. Tudo está indo bem.&lt;wait&gt;</Entry>
+<Entry Index="3429">Relaxe um pouco.
+Eu terminarei em um instante.&lt;wait&gt;</Entry>
+<Entry Index="3430">Como passo muito tempo aqui sozinho, às vezes vejo
+coisas muito estranhas.&lt;wait&gt;&lt;page&gt;
+Quando volto para casa, sempre paro para pensar: "Isso
+aconteceu de verdade? Ou foi apenas um sonho?"&lt;wait&gt;</Entry>
+<Entry Index="3431">Se você for para a montanha, certifique-se de voltar antes de
+anoitecer. É perigoso ficar lá à noite.&lt;wait&gt;</Entry>
+<Entry Index="3432">Muitas pessoas dizem que há uma deusa que
+vive na montanha, mas eu nunca a vi.&lt;wait&gt;</Entry>
+<Entry Index="3433">Se você um dia encontrar essa deusa, você pode dar a ela
+cumprimentos meus? Diga a ela que eu agradeço por tudo o que a montanha me
+oferece.&lt;wait&gt;</Entry>
+<Entry Index="3434">Ah, sim! Eu quase esqueci que amanhã é o Festival do
+Mochi. Acho que não tenho escolha senão ir.&lt;wait&gt;</Entry>
+<Entry Index="3435">O concurso culinário já é logo? Vai ser
 divertido.&lt;wait&gt;</Entry>
-  <Entry Index="3436">El concurso gastronómico es mañana, ¿verdad? Estupendo.
-Tengo ganas de comer bien por una vez.&lt;wait&gt;</Entry>
-  <Entry Index="3437">Mmm. Supongo que podría llevar un par de champiñones
-de la montaña para el Festival de la Cosecha.&lt;wait&gt;</Entry>
-  <Entry Index="3438">El Festival de la Cosecha es mañana. Nos lo pasamos bien,
-toda la ciudad reunida alrededor de esa olla gigante.&lt;wait&gt;</Entry>
-  <Entry Index="3439">¿Vas a competir en el próximo derbi? Yo voy igualmente,
-así que no me importaría animarte.&lt;wait&gt;</Entry>
-  <Entry Index="3440">El derbi de mañana va a ser muy divertido. Pero ¿sabes
-qué no es tan divertido? Escoger el caballo
-por el que apostar...&lt;wait&gt;</Entry>
-  <Entry Index="3441">Unos cuantos días más y será el Festival de la Suavidad,
-¿no? ¿Vas a participar con alguno de tus peluditos?&lt;wait&gt;</Entry>
-  <Entry Index="3442">Contemplar a los animales me relaja, por eso estoy
-deseando que sea el Festival de la Suavidad.&lt;wait&gt;</Entry>
-  <Entry Index="3443">Mañana podrás comer todos los fideos soba que quieras.
-Pero no te pases más de la cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="3444">Hola, señora. ¿Eres &lt;gender&gt;("un","una") &lt;gender&gt;("viajero","viajera")?&lt;wait&gt;&lt;page&gt;
-¡¿Qué?! ¿Te has mudado a esa granja?
-¡Estupendo! Yo también vivo en una.&lt;wait&gt;&lt;page&gt;
-Soy Mei. Un placer conocerte, señora.&lt;wait&gt;</Entry>
-  <Entry Index="3445">Hola, señor. ¿Eres &lt;gender&gt;("un","una") &lt;gender&gt;("viajero","viajera")?&lt;wait&gt;&lt;page&gt;
-¡¿Qué?! ¿Te has mudado a esa granja?
-¡Estupendo! Yo también vivo en una.&lt;wait&gt;&lt;page&gt;
-Soy Mei. Un placer conocerte, señor.&lt;wait&gt;</Entry>
-  <Entry Index="3446">¡Bien, gracias! También me ha llegado un regalo
-de mamá, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="3447">Aunque pensaba que iba a venir a verme en vez de
-mandarme algo...&lt;wait&gt;</Entry>
-  <Entry Index="3448">¡Guau! ¡Gracias, señora!
-Se lo enseñaré al abuelo después.&lt;wait&gt;</Entry>
-  <Entry Index="3449">¡Guau! ¡Gracias, señor!
-Se lo enseñaré al abuelo después.&lt;wait&gt;</Entry>
-  <Entry Index="3450">Vaya, gracias. Me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="3451">Gracias, señora.&lt;wait&gt;</Entry>
-  <Entry Index="3452">Gracias, señor.&lt;wait&gt;</Entry>
-  <Entry Index="3453">No me gusta.
-Pero no se lo digas al abuelo, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="3454">¿Tengo que aceptarlo?&lt;wait&gt;</Entry>
-  <Entry Index="3455">¡Ooooh! ¿Quién es una monada?
-¡Tú! ¡Tú! ¡Ji, ji, ji!&lt;wait&gt;</Entry>
-  <Entry Index="3456">¡Aaah! ¡Qué malo!</Entry>
-  <Entry Index="3457">¡Aaah! ¡Qué malo!</Entry>
-  <Entry Index="3458">Oye... ¿Me lo vas a dar a mí?&lt;wait&gt;&lt;page&gt;
-¡Bieeeen! Lo llevaré siempre.&lt;wait&gt;</Entry>
-  <Entry Index="3459">Oye... ¿Me lo vas a dar a mí?&lt;wait&gt;&lt;page&gt;
-¡Bieeeen! Lo llevaré siempre.&lt;wait&gt;</Entry>
-  <Entry Index="3460">Oye... ¿De verdad? ¿Es para mí?&lt;wait&gt;&lt;page&gt;
-¡Bieeeen! Lo llevaré cuando crezca.&lt;wait&gt;</Entry>
-  <Entry Index="3461">Oye... ¿De verdad? ¿Es para mí?&lt;wait&gt;&lt;page&gt;
-¡Bieeeen! Lo llevaré cuando crezca.&lt;wait&gt;</Entry>
-  <Entry Index="3462">¡Vaya, colonia! Sé lo que es porque mamá la usaba mucho.&lt;wait&gt;</Entry>
-  <Entry Index="3463">Vaya, qué bonito. Eh, ¿qué es?&lt;wait&gt;</Entry>
-  <Entry Index="3464">¡Ey, adivina! ¡El otro día hablé con mamá por teléfono!&lt;wait&gt;&lt;page&gt;
-Parecía feliz.
-Me pregunto cuándo volverá.&lt;wait&gt;</Entry>
-  <Entry Index="3465">He oído que venden un osito de peluche gigante en el Valle
+<Entry Index="3436">O concurso culinário é amanhã, certo? Ótimo.
+Estou ansioso para comer bem, pelo menos uma vez.&lt;wait&gt;</Entry>
+<Entry Index="3437">Mmm. Acho que posso trazer alguns cogumelos
+da montanha para o Festival da Colheita.&lt;wait&gt;</Entry>
+<Entry Index="3438">O Festival da Colheita é amanhã. É divertido, a cidade
+inteira se reúne ao redor daquela panela gigante.&lt;wait&gt;</Entry>
+<Entry Index="3439">Você vai competir no próximo derby? Eu vou, então não me importaria em
+torcer por você.&lt;wait&gt;</Entry>
+<Entry Index="3440">O derby de amanhã vai ser muito divertido.
+Mas você sabe o que não é tão divertido? Escolher o cavalo
+em que apostar...&lt;wait&gt;</Entry>
+<Entry Index="3441">Mais alguns dias e será o Festival da Fofura, certo?
+Você vai participar com algum de seus bichinhos peludos?&lt;wait&gt;</Entry>
+<Entry Index="3442">Observar os animais me relaxa, por isso estou ansioso pelo
+Festival da Fofura.&lt;wait&gt;</Entry>
+<Entry Index="3443">Amanhã você poderá comer todos os soba que quiser.
+Mas não exagere.&lt;wait&gt;</Entry>
+<Entry Index="3444">Olá, senhora. Você é &lt;gender&gt;("um","uma") &lt;gender&gt;("viajante","viajante")?&lt;wait&gt;&lt;page&gt;
+O quê?! Você se mudou para aquela fazenda?
+Incrível! Eu também moro em uma.&lt;wait&gt;&lt;page&gt;
+Me chamo Mei. Prazer em conhecê-lo, senhora.&lt;wait&gt;</Entry>
+<Entry Index="3445">Olá, senhor. Você é &lt;gender&gt;("um","uma") &lt;gender&gt;("viajante","viajante")?&lt;wait&gt;&lt;page&gt;
+O quê?! Você se mudou para aquela fazenda?
+Incrível! Eu também moro em uma.&lt;wait&gt;&lt;page&gt;
+Me chamo Mei. Prazer em conhecê-lo, senhor.&lt;wait&gt;</Entry>
+<Entry Index="3446">Muito obrigado! Também recebi um presente
+da mamãe, sabe?&lt;wait&gt;</Entry>
+<Entry Index="3447">Embora eu pensasse que ela viria me ver em vez de
+apenas me mandar algo...&lt;wait&gt;</Entry>
+<Entry Index="3448">Uau! Obrigado, senhora!
+Mostrarei isso ao meu avô depois.&lt;wait&gt;</Entry>
+<Entry Index="3449">Uau! Obrigado, senhor!
+Mostrarei isso ao meu avô depois.&lt;wait&gt;</Entry>
+<Entry Index="3450">Bem, obrigado. Eu gosto.&lt;wait&gt;</Entry>
+<Entry Index="3451">Obrigado, senhora.&lt;wait&gt;</Entry>
+<Entry Index="3452">Obrigado, senhor.&lt;wait&gt;</Entry>
+<Entry Index="3453">Eu não gosto disso.
+Mas não conte ao meu avô, ok?&lt;wait&gt;</Entry>
+<Entry Index="3454">Eu tenho que aceitar isso?&lt;wait&gt;</Entry>
+<Entry Index="3455">Ooooh! Quem é uma gracinha?
+Você é! Você é! Hehehe!&lt;wait&gt;</Entry>
+<Entry Index="3456">Aaaah! Que maldade!</Entry>
+<Entry Index="3457">Aaaah! Que maldade!</Entry>
+  <Entry Index="3458">Ei... Você vai me dar isso?&lt;wait&gt;&lt;page&gt;
+Muito bem! Vou sempre usar isso.&lt;wait&gt;</Entry>
+<Entry Index="3459">Ei... Você vai me dar isso?&lt;wait&gt;&lt;page&gt;
+Muito bem! Vou sempre usar isso.&lt;wait&gt;</Entry>
+<Entry Index="3460">Ei... Sério? Isso é para mim?&lt;wait&gt;&lt;page&gt;
+Muito bem! Vou usar quando crescer.&lt;wait&gt;</Entry>
+<Entry Index="3461">Ei... Sério? Isso é para mim?&lt;wait&gt;&lt;page&gt;
+Muito bem! Vou usar quando crescer.&lt;wait&gt;</Entry>
+<Entry Index="3462">Wow, colônia! Eu sei o que é porque minha mãe costumava usar muito.&lt;wait&gt;</Entry>
+<Entry Index="3463">Wow, que bonito. Ei, o que é isso?&lt;wait&gt;</Entry>
+<Entry Index="3464">Ei, adivinha! Outro dia eu falei com a mamãe por telefone!&lt;wait&gt;&lt;page&gt;
+Ela parecia feliz.
+Eu me pergunto quando ela vai voltar.&lt;wait&gt;</Entry>
+<Entry Index="3465">Ouvi dizer que eles vendem um urso de pelúcia gigante no Vale
 Nomeolvides.&lt;wait&gt;&lt;page&gt;
-¡Y también se mueve a veces! ¿A que suena genial? Ojalá
-tuviese uno.&lt;wait&gt;</Entry>
-  <Entry Index="3466">¡Hola, señora!&lt;wait&gt;</Entry>
-  <Entry Index="3467">¡Hola, señor!&lt;wait&gt;</Entry>
-  <Entry Index="3468">El abuelo está muy ocupado y sus piernas no están muy
-bien, así que no puede jugar conmigo.&lt;wait&gt;</Entry>
-  <Entry Index="3469">Cuando le hablo de mamá al abuelo, se queda muy callado.&lt;wait&gt;</Entry>
-  <Entry Index="3470">Cuando el abuelo se pone triste o se enfada, me dan ganas
-de llorar a mí también.&lt;wait&gt;&lt;page&gt;
-Pero después el abuelo siempre me dice que soy una
-buena chica.&lt;wait&gt;</Entry>
-  <Entry Index="3471">Oh, el tiempo está muy feo hoy.
-No puedo salir en los días así.&lt;wait&gt;</Entry>
-  <Entry Index="3472">Ya me resfrié porque salí cuando estaba lloviendo,&lt;wait&gt;&lt;page&gt;
-así que el abuelo me dijo que no podía salir más
-con este tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="3473">Espero que mañana salga el sol.&lt;wait&gt;</Entry>
-  <Entry Index="3474">Buenas noches, señora.&lt;wait&gt;</Entry>
-  <Entry Index="3475">Buenas noches, señor.&lt;wait&gt;</Entry>
-  <Entry Index="3476">Suelo soñar con un sitio en el que hay muchísimas ovejas.&lt;wait&gt;&lt;page&gt;
-¡Son tan blanditas! 
-Me encantan esos sueños.&lt;wait&gt;</Entry>
-  <Entry Index="3477">Suelo soñar con un sitio en el que hay muchísimas ovejas.&lt;wait&gt;&lt;page&gt;
-¡Son tan blanditas! 
-Me encantan esos sueños.&lt;wait&gt;</Entry>
-  <Entry Index="3478">Algún día me gustaría dormir sobre una oveja aunque sea
-solo una vez... Buenas noches.&lt;wait&gt;</Entry>
-  <Entry Index="3479">Hoy es el día en el que el abuelo va al baño de aguas
-termales.&lt;wait&gt;</Entry>
-  <Entry Index="3480">¡Pero odio ese sitio!
-Hace demasiaaado calor.&lt;wait&gt;</Entry>
-  <Entry Index="3481">¡Ah, señora! Hola.&lt;wait&gt;</Entry>
-  <Entry Index="3482">¡Ah, señor! Hola.&lt;wait&gt;</Entry>
-  <Entry Index="3483">Dicen que hay un campo de flores por ahí arriba.&lt;wait&gt;&lt;page&gt;
-Pero no puedo ir porque el abuelo dice que es peligroso.&lt;wait&gt;</Entry>
-  <Entry Index="3484">¡Hola, señora!&lt;wait&gt;&lt;page&gt;
-¿No crees que el señor Carter es superamable?&lt;wait&gt;&lt;page&gt;
-Habla mucho conmigo y los aperitivos que hace están
-muuuy ricos.&lt;wait&gt;</Entry>
-  <Entry Index="3485">¡Hola, señor!&lt;wait&gt;&lt;page&gt;
-¿No crees que el señor Carter es superamable?&lt;wait&gt;&lt;page&gt;
-Habla mucho conmigo y los aperitivos que hace están
-muuuy ricos.&lt;wait&gt;</Entry>
-  <Entry Index="3486">A mí también me cae bien Yu, pero...
-Hay veces que también le odio.&lt;wait&gt;</Entry>
-  <Entry Index="3487">Ah, hola, señora. ¿Quieres jugar conmigo?&lt;wait&gt;&lt;page&gt;</Entry>
-  <Entry Index="3488">Ah, hola, señor. ¿Quieres jugar conmigo?&lt;wait&gt;&lt;page&gt;
-¿Tienes que trabajar? Ooooh...&lt;wait&gt;</Entry>
-  <Entry Index="3489">¿Tienes que trabajar? Ooooh...&lt;wait&gt;</Entry>
-  <Entry Index="3490">Trabajo, trabajo, trabajo.
-Los adultos siempre están ocupados trabajando.&lt;wait&gt;&lt;page&gt;
-¿Y por qué Carter siempre juega conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="3491">Me encantan los animales.
-¿A ti también?&lt;wait&gt;</Entry>
-  <Entry Index="3492">Me encantan los animales.
-¿A ti también?&lt;wait&gt;</Entry>
-  <Entry Index="3493">El abuelo habla mucho con los animales.&lt;wait&gt;&lt;page&gt;
-Me pregunto si yo también podré hablar con ellos cuando
-sea mayor.&lt;wait&gt;</Entry>
-  <Entry Index="3494">Oye, ¿conoces a mi mamá?&lt;wait&gt;&lt;page&gt;
-Es muy simpática, como tú.
-Aunque se ha ido.
-Pero estoy segura de que va a venir a verme.&lt;wait&gt;</Entry>
-  <Entry Index="3495">Oye, ¿conoces a mi mamá?&lt;wait&gt;&lt;page&gt;
-Es muy simpática, como tú.
-Aunque ya no está aquí.
-Pero estoy segura de que va a venir a verme.&lt;wait&gt;</Entry>
-  <Entry Index="3496">El abuelo me habla de muchas cosas.&lt;wait&gt;&lt;page&gt;
-Aunque a veces me da un poco de sueño cuando le escucho.&lt;wait&gt;</Entry>
-  <Entry Index="3497">¡Yo también quiero hacer mochi! ¡Me encaaaaanta el
-mochi! ¡Está tan rico!&lt;wait&gt;</Entry>
-  <Entry Index="3498">¿Te gustan los caballos, señora? ¿Ah, sí? ¡A mí también!&lt;wait&gt;</Entry>
-  <Entry Index="3499">¿Te gustan los caballos, señor? ¿Ah, sí? ¡A mí también!&lt;wait&gt;</Entry>
-  <Entry Index="3500">¡Mañana podremos ver muuuchos caballos! ¡Qué ganas
-tengo!&lt;wait&gt;</Entry>
-  <Entry Index="3501">¡Creo que ya mismo es el Festival de la Vaca! ¿Qué tipo de
-vacas crees que llevarán?&lt;wait&gt;</Entry>
-  <Entry Index="3502">¡El abuelo siempre está muy ocupado los días antes del
-Festival de la Vaca, quiero esforzarme mucho para
-ayudarle!&lt;wait&gt;</Entry>
-  <Entry Index="3503">¿Vas a participar en el concierto también?&lt;wait&gt;</Entry>
-  <Entry Index="3504">¿Vas a participar en el concierto también?&lt;wait&gt;</Entry>
-  <Entry Index="3505">¡Me encanta escuchar música! ¿Qué tipo de música habrá
-en el concierto de mañana? ¿Lo sabes?&lt;wait&gt;</Entry>
-  <Entry Index="3506">¡Pronto será el Festival de la Suavidad! Mirar fijamente
-a los ojos a una oveja da un poco de miedo,
-¡pero son tan cucas!&lt;wait&gt;</Entry>
-  <Entry Index="3507">El abuelo va a estar superocupado en el Festival de la
-Suavidad de mañana... ¡Así que yo también lo estaré!&lt;wait&gt;</Entry>
-  <Entry Index="3508">Jo, jo. ¿Eres &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Me llamo Mugi. Encantado de conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="3509">¿Qué? ¿Un regalo de cumpleaños?&lt;wait&gt;&lt;page&gt;
-Ja, ja... Así que por eso Mei cogió unas flores y me las dio
-antes.&lt;wait&gt;</Entry>
-  <Entry Index="3510">Es lo que más me gusta. Gracias.
-Con mucho gusto lo acepto.&lt;wait&gt;</Entry>
-  <Entry Index="3511">¿Pero qué es esto? No tienes que hacer nada especial por
-mí. Aunque lo aprecio.&lt;wait&gt;</Entry>
-  <Entry Index="3512">Gracias. Lo aceptaré.&lt;wait&gt;</Entry>
-  <Entry Index="3513">Eh, gracias...&lt;wait&gt;&lt;page&gt;
-Pero darle esto a un viejales como yo
-no le viene bien a nadie.&lt;wait&gt;</Entry>
-  <Entry Index="3514">He de decir que no has acertado con esto. ¿Y qué se
-supone que tengo que hacer con eso exactamente?&lt;wait&gt;</Entry>
-  <Entry Index="3515">¡Jo, jo! ¿Has venido a enseñármelo? Espero que cuando
-Mei crezca sea igual de amable que tú.&lt;wait&gt;</Entry>
-  <Entry Index="3516">Los zorros son criaturas aterradoras.
-¿Qué harías si uno te atrapa en una artera trampa?&lt;wait&gt;</Entry>
-  <Entry Index="3517">Jo, jo, qué preciosidad. Puede que se lo dé a Mei cuando
-crezca. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3518">¡Jo, jo! Esto sería un buen regalo para Mei cuando crezca.
-Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3519">¡Jo, jo! Qué aroma más agradable.&lt;wait&gt;</Entry>
-  <Entry Index="3520">¿Eh? ¿Es para mí?&lt;wait&gt;</Entry>
-  <Entry Index="3521">Ah, ¡es verdad! Déjame que te enseñe cómo hacer helado.&lt;wait&gt;&lt;page&gt;
-Mei se empeñó en que aprendiese a hacerlo. Recuerda
-todo lo que te voy a decir, ¿vale?&lt;wait&gt;&lt;page&gt;
-Necesitas leche, un huevo y condimento.
-En cuanto a utensilios, necesitarás unas varillas de batir
-y una cazuela.&lt;wait&gt;&lt;page&gt;
-El helado nos deja helados, como dicen por ahí. Jo, jo.
-Deberías intentarlo algún día.&lt;wait&gt;</Entry>
-  <Entry Index="3522">Jo, jo, una pluma azul. ¿Vas a pedirle matrimonio a
-alguien? Buena suerte.&lt;wait&gt;</Entry>
-  <Entry Index="3523">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3524">¿Conoces un sitio llamado Valle Olvidado?&lt;wait&gt;&lt;page&gt;
-Parece que en una granja de allí vive alguien a quien se le
-dan muy bien los caballos.&lt;wait&gt;</Entry>
-  <Entry Index="3525">Allí en el Valle Olvidado vive una tortuga que solía
-pertenecer a un dibujante de cómics de hace tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="3526">Me gusta ir a visitar al alcalde los lunes a su casa.&lt;wait&gt;</Entry>
-  <Entry Index="3527">En los días como hoy suelo ir al baño de aguas termales.
-Me alegro de que haya salido el sol.&lt;wait&gt;</Entry>
-  <Entry Index="3528">Me siento mucho mejor ahora. Un buen remojo en el baño
-de aguas termales sienta bien tanto al cuerpo como al
-alma.&lt;wait&gt;</Entry>
-  <Entry Index="3529">Iba a ir al baño de aguas termales, pero parece que el
-tiempo dice que no. Qué mala pata.&lt;wait&gt;</Entry>
-  <Entry Index="3530">¿Qué haces por aquí?&lt;wait&gt;</Entry>
-  <Entry Index="3531">Aquí solo estamos mi nieta y yo. 
-Nada de tu interés, seguro.&lt;wait&gt;</Entry>
-  <Entry Index="3532">Cada mañana voy a ver cómo están los animales. Las
-cosas se pueden descontrolar si te olvidas de ellas.&lt;wait&gt;</Entry>
-  <Entry Index="3533">Los perros sí que son el mejor amigo del ser humano.
-Se hacen más inteligentes cuando juegas con ellos, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="3534">¿Cómo van las cosas por casa? ¿Has metido dentro a las
-vacas y a las gallinas?&lt;wait&gt;</Entry>
-  <Entry Index="3535">Ten cuidado de no resfriarte.&lt;wait&gt;</Entry>
-  <Entry Index="3536">¿Eh? ¿Has venido a visitarme?&lt;wait&gt;</Entry>
-  <Entry Index="3537">Ven a vernos de vez en cuando.&lt;wait&gt;</Entry>
-  <Entry Index="3538">¿Le va bien a tu granja? Seguro que es toda una odisea
-volver a llevarla a su antiguo esplendor. Buena suerte.&lt;wait&gt;</Entry>
-  <Entry Index="3539">Aunque algo me dice que eres capaz de hacer todo lo que
-te propongas.&lt;wait&gt;</Entry>
-  <Entry Index="3540">Parece difícil ser alcalde.
-La política y la administración son cosas que nunca
-llevaría bien.&lt;wait&gt;</Entry>
-  <Entry Index="3541">Por cierto, el padre de Thomas también fue alcalde. Me
-pregunto si Harris irá por el mismo camino algún día.&lt;wait&gt;</Entry>
-  <Entry Index="3542">¿Cómo estarán Saibara y Ellen? Deberíamos juntarnos
-algún día.&lt;wait&gt;</Entry>
-  <Entry Index="3543">&lt;playername&gt;, la vida es breve. Deberías hacer
-tantos amigos como puedas.&lt;wait&gt;</Entry>
-  <Entry Index="3544">¿Todo va bien?
-¿Te estás pensando también si meterte en el baño de
-aguas termales?&lt;wait&gt;</Entry>
-  <Entry Index="3545">A Mei no le gustan los ambientes caldeados. Literalmente
-tampoco, claro. Siempre me espera fuera.&lt;wait&gt;</Entry>
-  <Entry Index="3546">Uf, nada como un buen remojón para que desaparezca el
-dolor de estos viejos huesos.&lt;wait&gt;&lt;page&gt;
-¡Es un verdadero lujo tener un baño de aguas termales a
-la vuelta de la esquina!&lt;wait&gt;</Entry>
-  <Entry Index="3547">Sabes, si no tuviese la suerte de tener un baño de aguas
-termales tan cerca...&lt;wait&gt;&lt;page&gt;
-Es posible que hubiese tenido que dejar la agricultura.
-Estoy muy agradecido.&lt;wait&gt;</Entry>
-  <Entry Index="3548">Los niños de hoy en día se quedan hasta muy tarde.
-Me cuesta mucho acostar a Mei.&lt;wait&gt;</Entry>
-  <Entry Index="3549">Creo que me voy a ir a dormir pronto. Nos vemos mañana.&lt;wait&gt;</Entry>
-  <Entry Index="3550">¿Estás cuidando de tus animales? Son la mejor forma de
-juzgar a una persona, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="3551">&lt;playername&gt;. Si tienes tiempo libre, ¿podrías jugar
-con Mei?&lt;wait&gt;</Entry>
-  <Entry Index="3552">Hablo con los animales todos los días. Desarrollar la
-confianza con el ganado es una parte esencial de ser
-granjero.&lt;wait&gt;</Entry>
-  <Entry Index="3553">¿Cómo le irá a Ellen? Seguro que agradece que la visites,
-&lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3554">Aunque han pasado muchos años, la emoción de apostar en
-el derbi no se ha perdido. ¡Por cierto, todavía tengo que
-hacer la apuesta de este año!&lt;wait&gt;</Entry>
-  <Entry Index="3555">¡Los caballos de esta temporada del derbi son todos
-espléndidos! ¿Tienes algún favorito?&lt;wait&gt;</Entry>
-  <Entry Index="3556">Solo las gallinas más fuertes pueden ganar los Duelos de
-Gallinas. En mi opinión, hace falta que el ave y el dueño se
-compenetren bien para llevarse el premio.&lt;wait&gt;</Entry>
-  <Entry Index="3557">La cuestión es... ¿qué gallina se alzará vencedora este
-año?&lt;wait&gt;</Entry>
-  <Entry Index="3558">¡He estado tan ocupado con los preparativos del Festival
-de la Vaca que ni siquiera he visto qué vacas van a
+E ele até se move às vezes! Não soa incrível? Eu gostaria
+de ter um.&lt;wait&gt;</Entry>
+<Entry Index="3466">Olá, senhora!&lt;wait&gt;</Entry>
+<Entry Index="3467">Olá, senhor!&lt;wait&gt;</Entry>
+<Entry Index="3468">O avô está muito ocupado e suas pernas não estão muito
+bem, então ele não pode brincar comigo.&lt;wait&gt;</Entry>
+<Entry Index="3469">Quando falo para o avô sobre a mamãe, ele fica muito quieto.&lt;wait&gt;</Entry>
+<Entry Index="3470">Quando o avô fica triste ou bravo, me dá vontade
+de chorar também.&lt;wait&gt;&lt;page&gt;
+Mas depois o avô sempre me diz que sou uma
+boa menina.&lt;wait&gt;</Entry>
+<Entry Index="3471">Oh, o tempo está muito ruim hoje.
+Não posso sair em dias assim.&lt;wait&gt;</Entry>
+<Entry Index="3472">Já peguei um resfriado por sair quando estava chovendo,&lt;wait&gt;&lt;page&gt;
+então o avô disse que não posso sair mais
+com esse tempo.&lt;wait&gt;</Entry>
+<Entry Index="3473">Espero que amanhã faça sol.&lt;wait&gt;</Entry>
+<Entry Index="3474">Boa noite, senhora.&lt;wait&gt;</Entry>
+<Entry Index="3475">Boa noite, senhor.&lt;wait&gt;</Entry>
+<Entry Index="3476">Costumo sonhar com um lugar cheio de ovelhas.&lt;wait&gt;&lt;page&gt;
+Elas são tão fofinhas!
+Adoro esses sonhos.&lt;wait&gt;</Entry>
+<Entry Index="3477">Costumo sonhar com um lugar cheio de ovelhas.&lt;wait&gt;&lt;page&gt;
+Elas são tão fofinhas!
+Adoro esses sonhos.&lt;wait&gt;</Entry>
+<Entry Index="3478">Algum dia gostaria de dormir em cima de uma ovelha, mesmo
+que seja só uma vez... Boa noite.&lt;wait&gt;</Entry>
+<Entry Index="3479">Hoje é o dia em que o avô vai às termas.&lt;wait&gt;</Entry>
+<Entry Index="3480">Mas eu odeio aquele lugar!
+Fica muuuuito quente.&lt;wait&gt;</Entry>
+<Entry Index="3481">Ah, senhora! Olá.&lt;wait&gt;</Entry>
+<Entry Index="3482">Ah, senhor! Olá.&lt;wait&gt;</Entry>
+<Entry Index="3483">Dizem que há um campo de flores lá em cima.&lt;wait&gt;&lt;page&gt;
+Mas não posso ir porque o avô diz que é perigoso.&lt;wait&gt;</Entry>
+<Entry Index="3484">Olá, senhora!&lt;wait&gt;&lt;page&gt;
+Você não acha o Sr. Carter muito gentil?&lt;wait&gt;&lt;page&gt;
+Ele fala muito comigo e os petiscos que ele faz são
+deliciosos.&lt;wait&gt;</Entry>
+<Entry Index="3485">Olá, senhor!&lt;wait&gt;&lt;page&gt;
+Você não acha o Sr. Carter muito gentil?&lt;wait&gt;&lt;page&gt;
+Ele fala muito comigo e os petiscos que ele faz são
+deliciosos.&lt;wait&gt;</Entry>
+<Entry Index="3486">Eu também gosto do Yu, mas...
+Às vezes eu também o odeio.&lt;wait&gt;</Entry>
+<Entry Index="3487">Ah, olá, senhora. Quer brincar comigo?&lt;wait&gt;&lt;page&gt;</Entry>
+<Entry Index="3488">Ah, olá, senhor. Quer brincar comigo?&lt;wait&gt;&lt;page&gt;
+Você tem que trabalhar? Ooooh...&lt;wait&gt;</Entry>
+<Entry Index="3489">Você tem que trabalhar? Ooooh...&lt;wait&gt;</Entry>
+<Entry Index="3490">Trabalho, trabalho, trabalho.
+Adultos estão sempre ocupados trabalhando.&lt;wait&gt;&lt;page&gt;
+E por que o Carter sempre brinca comigo?&lt;wait&gt;</Entry>
+<Entry Index="3491">Eu amo animais.
+E você?&lt;wait&gt;</Entry>
+<Entry Index="3492">Eu amo animais.
+E você?&lt;wait&gt;</Entry>
+<Entry Index="3493">O avô fala muito com os animais.&lt;wait&gt;&lt;page&gt;
+Me pergunto se eu também poderei falar com eles quando
+crescer.&lt;wait&gt;</Entry>
+<Entry Index="3494">Ei, você conhece minha mãe?&lt;wait&gt;&lt;page&gt;
+Ela é muito legal, assim como você.
+Embora ela tenha ido embora.
+Mas tenho certeza de que ela virá me ver.&lt;wait&gt;</Entry>
+<Entry Index="3495">Ei, você conhece minha mãe?&lt;wait&gt;&lt;page&gt;
+Ela é muito legal, assim como você.
+Embora ela não esteja mais aqui.
+Mas tenho certeza de que ela virá me ver.&lt;wait&gt;</Entry>
+<Entry Index="3496">O avô fala sobre muitas coisas.&lt;wait&gt;&lt;page&gt;
+Embora às vezes eu sinta um pouco de sono quando o escuto.&lt;wait&gt;</Entry>
+  <Entry Index="3497">Também quero fazer mochi! Eu aaamo mochi! É tão gostoso!&lt;wait&gt;</Entry>
+<Entry Index="3498">Você gosta de cavalos, senhora? Ah, sim? Eu também!&lt;wait&gt;</Entry>
+<Entry Index="3499">Você gosta de cavalos, senhor? Ah, sim? Eu também!&lt;wait&gt;</Entry>
+<Entry Index="3500">Amanhã poderemos ver muuuitos cavalos! Mal posso esperar!&lt;wait&gt;</Entry>
+<Entry Index="3501">Acho que já está quase na hora do Festival da Vaca! Que tipo de
+vacas você acha que vão trazer?&lt;wait&gt;</Entry>
+<Entry Index="3502">O avô sempre está superocupado nos dias antes do
+Festival da Vaca, então quero me esforçar muito para
+ajudá-lo!&lt;wait&gt;</Entry>
+<Entry Index="3503">Você também vai participar do concurso?&lt;wait&gt;</Entry>
+<Entry Index="3504">Você também vai participar do concurso?&lt;wait&gt;</Entry>
+<Entry Index="3505">Adoro ouvir música! Que tipo de música você acha que terá
+no concerto de amanhã? Você sabe?&lt;wait&gt;</Entry>
+<Entry Index="3506">Logo será o Festival da Fofura! Olhar nos olhos de uma
+ovelha dá um pouco de medo, mas elas são tão fofas!&lt;wait&gt;</Entry>
+<Entry Index="3507">O avô estará superocupado no Festival da Fofura amanhã...
+Então, eu também estarei!&lt;wait&gt;</Entry>
+<Entry Index="3508">Hehe, hehe. Você é &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Me chamo Mugi. Prazer em conhecê-lo.&lt;wait&gt;</Entry>
+<Entry Index="3509">O quê? Um presente de aniversário?&lt;wait&gt;&lt;page&gt;
+Haha, é por isso que a Mei pegou umas flores e me deu antes.&lt;wait&gt;</Entry>
+<Entry Index="3510">É o que mais gosto. Obrigado.
+Aceito com prazer.&lt;wait&gt;</Entry>
+<Entry Index="3511">Mas o que é isso? Você não precisa fazer nada especial por
+mim. Embora eu aprecie.&lt;wait&gt;</Entry>
+<Entry Index="3512">Obrigado. Vou aceitar.&lt;wait&gt;</Entry>
+<Entry Index="3513">Eh, obrigado...&lt;wait&gt;&lt;page&gt;
+Mas dar isso para um velho como eu
+não vai fazer bem a ninguém.&lt;wait&gt;</Entry>
+<Entry Index="3514">Tenho que dizer que você errou com isso. E o que exatamente
+devo fazer com isso?&lt;wait&gt;</Entry>
+<Entry Index="3515">Hehe, hehe! Você veio me mostrar isso? Espero que, quando
+a Mei crescer, ela seja tão gentil quanto você.&lt;wait&gt;</Entry>
+<Entry Index="3516">Raposas são criaturas assustadoras.
+O que você faria se fosse pego por uma em uma armadilha ardilosa?&lt;wait&gt;</Entry>
+<Entry Index="3517">Hehe, hehe, que lindo. Talvez eu dê isso para a Mei quando
+ela crescer. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3518">Hehe, hehe! Isso seria um bom presente para a Mei quando
+ela crescer. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3519">Hehe, hehe! Que cheiro agradável.&lt;wait&gt;</Entry>
+<Entry Index="3520">Eh? Isso é para mim?&lt;wait&gt;</Entry>
+<Entry Index="3521">Ah, é verdade! Deixe-me te ensinar a fazer sorvete.&lt;wait&gt;&lt;page&gt;
+A Mei insistiu que eu aprendesse a fazer. Lembre-se
+de tudo o que vou te dizer, ok?&lt;wait&gt;&lt;page&gt;
+Você vai precisar de leite, um ovo e temperos.
+Quanto aos utensílios, você precisará de um fouet
+e uma panela.&lt;wait&gt;&lt;page&gt;
+O sorvete nos deixa congelados, como dizem por aí. Hehe.
+Você deveria tentar algum dia.&lt;wait&gt;</Entry>
+<Entry Index="3522">Hehe, hehe, uma pena azul. Você vai pedir alguém em casamento?
+Boa sorte.&lt;wait&gt;</Entry>
+<Entry Index="3523">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3524">Você conhece um lugar chamado Vale Esquecido?&lt;wait&gt;&lt;page&gt;
+Parece que em uma fazenda lá vive alguém que é muito
+bom com cavalos.&lt;wait&gt;</Entry>
+<Entry Index="3525">Lá no Vale Esquecido vive uma tartaruga que costumava
+pertencer a um quadrinista antigo.&lt;wait&gt;</Entry>
+<Entry Index="3526">Gosto de visitar o prefeito em sua casa nas segundas-feiras.&lt;wait&gt;</Entry>
+<Entry Index="3527">Em dias como hoje, costumo ir às termas.
+Estou feliz que o sol tenha saído.&lt;wait&gt;</Entry>
+<Entry Index="3528">Agora me sinto muito melhor. Um bom banho nas termas
+faz bem tanto para o corpo quanto para a alma.&lt;wait&gt;</Entry>
+<Entry Index="3529">Eu ia nas termas, mas parece que o tempo não está bom. Que azar.&lt;wait&gt;</Entry>
+<Entry Index="3530">O que você está fazendo por aqui?&lt;wait&gt;</Entry>
+<Entry Index="3531">Apenas minha neta e eu estamos aqui. 
+Nada do seu interesse, com certeza.&lt;wait&gt;</Entry>
+<Entry Index="3532">Todas as manhãs, vou ver como estão os animais. As
+coisas podem ficar fora de controle se você esquecer delas.&lt;wait&gt;</Entry>
+<Entry Index="3533">Cães realmente são o melhor amigo do homem.
+Eles ficam mais inteligentes quando você brinca com eles, sabe?&lt;wait&gt;</Entry>
+<Entry Index="3534">Como estão as coisas em casa? Você já colocou as
+vacas e galinhas dentro?&lt;wait&gt;</Entry>
+<Entry Index="3535">Cuide para não pegar um resfriado.&lt;wait&gt;</Entry>
+  <Entry Index="3536">Eh? Você veio me visitar?&lt;wait&gt;</Entry>
+<Entry Index="3537">Venha nos ver de vez em quando.&lt;wait&gt;</Entry>
+<Entry Index="3538">Sua fazenda está indo bem? Tenho certeza de que é toda uma odisséia
+trazê-la de volta ao seu antigo esplendor. Boa sorte.&lt;wait&gt;</Entry>
+<Entry Index="3539">Embora algo me diga que você é capaz de fazer tudo o que
+você se propõe.&lt;wait&gt;</Entry>
+<Entry Index="3540">Parece difícil ser prefeito.
+Política e administração são coisas que eu nunca
+seria bom em lidar.&lt;wait&gt;</Entry>
+<Entry Index="3541">A propósito, o pai de Thomas também foi prefeito. Fico me
+perguntando se o Harris seguirá o mesmo caminho algum dia.&lt;wait&gt;</Entry>
+<Entry Index="3542">Como estarão Saibara e Ellen? Devemos nos reunir
+algum dia.&lt;wait&gt;</Entry>
+<Entry Index="3543">&lt;playername&gt;, a vida é curta. Você deveria fazer
+tantos amigos quanto puder.&lt;wait&gt;</Entry>
+<Entry Index="3544">Está tudo bem?
+Você também está pensando em entrar nas termas, não é?&lt;wait&gt;</Entry>
+<Entry Index="3545">A Mei não gosta de ambientes quentes. Literalmente,
+é claro. Ela sempre me espera do lado de fora.&lt;wait&gt;</Entry>
+<Entry Index="3546">Ufa, nada como um bom mergulho para fazer a dor desses
+ossos velhos desaparecer.&lt;wait&gt;&lt;page&gt;
+É um verdadeiro luxo ter uma fonte termal ao virar da esquina!&lt;wait&gt;</Entry>
+<Entry Index="3547">Sabe, se eu não tivesse a sorte de ter uma fonte termal tão perto...&lt;wait&gt;&lt;page&gt;
+Provavelmente eu teria que abandonar a agricultura.
+Estou muito grato.&lt;wait&gt;</Entry>
+<Entry Index="3548">As crianças de hoje em dia ficam acordadas até tarde.
+É difícil fazer a Mei dormir.&lt;wait&gt;</Entry>
+<Entry Index="3549">Acho que vou dormir cedo hoje. Até amanhã.&lt;wait&gt;</Entry>
+<Entry Index="3550">Você está cuidando dos seus animais? Eles são a melhor maneira de
+julgar uma pessoa, sabe?&lt;wait&gt;</Entry>
+<Entry Index="3551">&lt;playername&gt;, se você tiver um tempo livre, poderia brincar
+com a Mei?&lt;wait&gt;</Entry>
+<Entry Index="3552">Eu falo com os animais todos os dias. Construir
+confiança com o gado é uma parte essencial de ser
+um fazendeiro.&lt;wait&gt;</Entry>
+<Entry Index="3553">Como será que Ellen está? Tenho certeza de que ela
+aprecia a sua visita, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="3554">Embora muitos anos tenham se passado, a emoção de apostar
+no derby não foi perdida. A propósito, ainda tenho que fazer a minha aposta
+deste ano!&lt;wait&gt;</Entry>
+<Entry Index="3555">Os cavalos desta temporada de corrida estão todos
+incríveis! Você tem algum favorito?&lt;wait&gt;</Entry>
+<Entry Index="3556">Apenas as galinhas mais fortes podem ganhar as
+Lutas de Galos. Na minha opinião, é necessário que a ave e o dono estejam
+bem alinhados para levar o prêmio.&lt;wait&gt;</Entry>
+<Entry Index="3557">A questão é... qual galinha sairá vencedora este
+ano?&lt;wait&gt;</Entry>
+<Entry Index="3558">Estive tão ocupado com os preparativos para o
+Festival da Vaca que nem sequer vi quais vacas vão
 participar!&lt;wait&gt;</Entry>
-  <Entry Index="3559">Uf, estos huesos se están quejando de tantos preparativos
-para el festival... Pero sé que mañana todo habrá
-merecido la pena.&lt;wait&gt;</Entry>
-  <Entry Index="3560">Aunque han pasado muchos años, la emoción de apostar en
-el derbi no se ha perdido. ¡Por cierto, todavía tengo que
-hacer la apuesta de este año!&lt;wait&gt;</Entry>
-  <Entry Index="3561">¡Los caballos de esta temporada del derbi son todos
-espléndidos! ¿Tienes algún favorito?&lt;wait&gt;</Entry>
-  <Entry Index="3562">¡Hay varios tipos de animales que pueden participar en el
-Festival de la Suavidad, así que habrá
-diferentes bichejos compitiendo!&lt;wait&gt;</Entry>
-  <Entry Index="3563">Mañana es el Festival de la Suavidad. ¡Espero que lo
-disfrutes tanto como yo!&lt;wait&gt;</Entry>
+<Entry Index="3559">Nossos ossos estão se queixando de tanto preparo para
+o festival... Mas sei que amanhã tudo terá valeu a pena.&lt;wait&gt;</Entry>
+<Entry Index="3560">Embora muitos anos tenham se passado, a emoção de apostar
+no derby não foi perdida. A propósito, ainda tenho que fazer a minha aposta
+deste ano!&lt;wait&gt;</Entry>
+<Entry Index="3561">Os cavalos desta temporada de corrida estão todos
+incríveis! Você tem algum favorito?&lt;wait&gt;</Entry>
+<Entry Index="3562">Há vários tipos de animais que podem participar do
+Festival da Maciez, então haverá diferentes criaturas competindo!&lt;wait&gt;</Entry>
+<Entry Index="3563">Amanhã é o Festival da Maciez. Espero que você
+aproveite tanto quanto eu!&lt;wait&gt;</Entry>
   <Entry Index="3564">0</Entry>
   <Entry Index="3565">←</Entry>
   <Entry Index="3566">Kai</Entry>
@@ -8387,7 +8361,7 @@ disfrutes tanto como yo!&lt;wait&gt;</Entry>
   <Entry Index="3582">Jeff</Entry>
   <Entry Index="3583">Sasha</Entry>
   <Entry Index="3584">Dudley</Entry>
-  <Entry Index="3585">Volver</Entry>
+  <Entry Index="3585">Voltar</Entry>
   <Entry Index="3586">0</Entry>
   <Entry Index="3587">Basil</Entry>
   <Entry Index="3588">Anna</Entry>
@@ -8408,174 +8382,156 @@ disfrutes tanto como yo!&lt;wait&gt;</Entry>
   <Entry Index="3603">Bon Vivant</Entry>
   <Entry Index="3604">Huang</Entry>
   <Entry Index="3605">0</Entry>
-  <Entry Index="3606">Arándano</Entry>
-  <Entry Index="3607">Menta</Entry>
-  <Entry Index="3608">Calabaza</Entry>
-  <Entry Index="3609">Ciruela</Entry>
-  <Entry Index="3610">0</Entry>
-  <Entry Index="3611">Cereza</Entry>
-  <Entry Index="3612">Agua</Entry>
-  <Entry Index="3613">Sol</Entry>
-  <Entry Index="3614">Retoño</Entry>
-  <Entry Index="3615">0</Entry>
-  <Entry Index="3616">Lou</Entry>
-  <Entry Index="3617">Van</Entry>
-  <Entry Index="3618">Salir</Entry>
-  <Entry Index="3619">Soy Bon Vivant, un crítico culinario de cierto renombre y
-un aficionado de todo lo gastronómico. Un placer.&lt;wait&gt;</Entry>
-  <Entry Index="3620">¿Un regalo de cumpleaños para mí?
-¡Qué apetitosamente altruista de tu parte!&lt;wait&gt;</Entry>
-  <Entry Index="3621">¡Mmm! Un plato de una pinta exquisitamente deliciosa. Mi
-mente ya ha empezado a saborearlo. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3622">Ah, una ofrenda claramente comestible.
-Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3623">¡Noto un potencial culinario sensacional! Te lo agradezco
-mucho.&lt;wait&gt;</Entry>
-  <Entry Index="3624">¿Un plato... fallido? ¡Ah, menudo dolor!
-¡Qué sacrificio! ¡Debes intentar respetar más los
+<Entry Index="3606">Mirtilo</Entry>
+<Entry Index="3607">Hortelã</Entry>
+<Entry Index="3608">Abóbora</Entry>
+<Entry Index="3609">Ameixa</Entry>
+<Entry Index="3610">0</Entry>
+<Entry Index="3611">Cereja</Entry>
+<Entry Index="3612">Água</Entry>
+<Entry Index="3613">Sol</Entry>
+<Entry Index="3614">Rebento</Entry>
+<Entry Index="3615">0</Entry>
+<Entry Index="3616">Lou</Entry>
+<Entry Index="3617">Van</Entry>
+<Entry Index="3618">Sair</Entry>
+<Entry Index="3619">Eu sou Bon Vivant, um crítico culinário de certo renome e
+um entusiasta de tudo que é gastronômico. Um prazer.&lt;wait&gt;</Entry>
+<Entry Index="3620">Um presente de aniversário para mim?
+Que deliciosamente altruísta de sua parte!&lt;wait&gt;</Entry>
+<Entry Index="3621">Mmm! Um prato com aparência deliciosamente requintada. Minha
+mente já começou a saboreá-lo. Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3622">Ah, uma oferta claramente comestível.
+Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3623">Sinto um potencial culinário sensacional! Agradeço muito.&lt;wait&gt;</Entry>
+<Entry Index="3624">Um prato... fracassado? Ah, que dor!
+Que sacrifício! Você deve tentar respeitar mais os
 ingredientes!&lt;wait&gt;</Entry>
-  <Entry Index="3625">No necesito medicina, gracias.
-Estoy muy sano.
-Puedes llevártela.&lt;wait&gt;</Entry>
-  <Entry Index="3626">Vivo con una máxima: si no me lo puedo comer, me resulta
-inútil.&lt;wait&gt;</Entry>
-  <Entry Index="3627">Ajá. Una ofrenda de bombones por el día de San Valentín,
-¿no? Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3628">Gracias. Lo disfrutaré.&lt;wait&gt;</Entry>
-  <Entry Index="3629">¡Anda! Deberíamos hablar de esto alejados de ojos
-curiosos. Vayamos a retirarnos a la privacidad de tu
-morada.&lt;wait&gt;</Entry>
-  <Entry Index="3630">Bueno, ¿qué propósito tiene que me hayas enseñado tal
-exquisito regalo simbólico?&lt;wait&gt;</Entry>
-  <Entry Index="3631">¿Acaso tú, &lt;gender&gt;("un novato culinario","una novata culinaria") que no ha dominado
-todavía el arte de la cocina, se cree &lt;gender&gt;("digno","digna") de casarse
-conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="3632">¿Acaso tú, &lt;gender&gt;("un charlatán culinario","una charlatana culinaria") que no ha ganado
-todavía ningún concurso gastronómico, se cree &lt;gender&gt;("digno","digna") de
-casarse conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="3633">¿Acaso tú, &lt;gender&gt;("un cocinero principiante","una cocinera principiante") que tan solo ha
-ganado algún que otro concurso gastronómico, se cree
-&lt;gender&gt;("digno","digna") de casarse conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="3634">Volveré el año que viene con el paladar refinado en busca
-de un festín bien sazonado.&lt;wait&gt;</Entry>
-  <Entry Index="3635">Una vez más, hay pocos participantes masculinos este año.
-El amplio mundo de la cocina es para todo el mundo, sin
-importar su género.&lt;wait&gt;</Entry>
-  <Entry Index="3636">Mañana es la Noche Estrellada.
-Vuelve a casa antes de las 18:00.&lt;wait&gt;</Entry>
-  <Entry Index="3637">Madre mía, ¡qué sorpresa que estés embarazada!&lt;wait&gt;</Entry>
-  <Entry Index="3638">Y pensar que dentro de poco tendremos a nuestro
-pequeño pinche al que dirigir.&lt;wait&gt;</Entry>
-  <Entry Index="3639">Al igual que los mejores sabores deben desarrollarse con
-el tiempo, nuestro pequeñín debe madurar antes de llegar
-a este mundo.&lt;wait&gt;</Entry>
-  <Entry Index="3640">Asegúrate de llevar una dieta equilibrada y sana.&lt;wait&gt;</Entry>
-  <Entry Index="3641">Creo que nuestro pequeño hará su primera aparición en
-cualquier momento.&lt;wait&gt;</Entry>
-  <Entry Index="3642">Sea niña o niño, estoy seguro de que tendrá buena mano
-en la cocina.&lt;wait&gt;</Entry>
-  <Entry Index="3643">Me han dicho que nacerá mañana.&lt;wait&gt;</Entry>
-  <Entry Index="3644">Deberías irte a descansar pronto para que estés
-preparada para el gran día.&lt;wait&gt;</Entry>
-  <Entry Index="3645">Buenos días.&lt;wait&gt;</Entry>
-  <Entry Index="3646">Quiero darle un estilo de vida sano y completo para
-&lt;childname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3647">Buenos días.&lt;wait&gt;</Entry>
-  <Entry Index="3648">Poco a poco, &lt;childname&gt; se va haciendo cada vez
-más mayor.&lt;wait&gt;</Entry>
-  <Entry Index="3649">Los críos crecen tan rápido.
-Me recuerda a un montón de mi masa de pan favorita
-mientras leva.&lt;wait&gt;</Entry>
-  <Entry Index="3650">Creo &lt;childname&gt; está aprendiendo a quedarse de
-pie.&lt;wait&gt;</Entry>
-  <Entry Index="3651">No le estarás dando a &lt;childname&gt; muchas chuches
-repletas de azúcar, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="3652">Ah, mira.
-&lt;childname&gt; ha aprendido a andar.&lt;wait&gt;</Entry>
-  <Entry Index="3653">&lt;childname&gt; ha crecido tanto.&lt;wait&gt;</Entry>
-  <Entry Index="3654">Cuando &lt;childname&gt; haya crecido lo suficiente, le
-enseñaré mis impresionantes habilidades culinarias y mi
-conocimiento.&lt;wait&gt;</Entry>
-  <Entry Index="3655">Me temo que mi afecto por ti es bastante bajo. Está por
-debajo del nivel tres incluso.&lt;wait&gt;</Entry>
-  <Entry Index="3656">Si te acuerdas, dije que mi afecto por ti estaba ahora por
-debajo del nivel tres.&lt;wait&gt;</Entry>
-  <Entry Index="3657">El leve aroma del afecto estremece mi nariz. Pondría mi
-interés por ti en un nivel cuatro.&lt;wait&gt;</Entry>
-  <Entry Index="3658">Si te acuerdas, dije que mi afecto por ti estaba por
-alrededor del nivel cuatro.&lt;wait&gt;</Entry>
-  <Entry Index="3659">Estoy empezando a notar que anhelo tu compañía. Diría
-que un anhelo del nivel cinco, más o menos.&lt;wait&gt;</Entry>
-  <Entry Index="3660">Si te acuerdas, dije que mi afecto por ti estaba por
-alrededor del nivel cinco.&lt;wait&gt;</Entry>
-  <Entry Index="3661">Estás empezando a ser un sabor sin el que no podría vivir.
-Diría que mi afecto por ti está al menos en el nivel seis.&lt;wait&gt;</Entry>
-  <Entry Index="3662">Si te acuerdas, dije que mi afecto por ti estaba por
-alrededor del nivel seis.&lt;wait&gt;</Entry>
-  <Entry Index="3663">Eres ambrosía para mi paladar.
-Mis sentimientos por ti han superado mi amor por
-cualquier exquisitez culinaria.&lt;wait&gt;</Entry>
-  <Entry Index="3664">Si te acuerdas, dije que ahora tienes mi máximo afecto.&lt;wait&gt;</Entry>
-  <Entry Index="3665">Oh. Hola, &lt;playername&gt;. ¿Qué te trae hasta mí hoy?&lt;wait&gt;</Entry>
-  <Entry Index="3666">La energía que irradia esta montaña
-tranquiliza mucho mi alma.&lt;wait&gt;</Entry>
-  <Entry Index="3667">El piar de los pájaros...
-El suave borboteo del arroyo...
-El susurro del viento...&lt;wait&gt;&lt;page&gt;
-Cuando visito la montaña sola, la naturaleza habla y yo
-debo escuchar. ¿No es maravilloso?&lt;wait&gt;</Entry>
-  <Entry Index="3668">A veces, cuando estoy sola en mi tienda de campaña,
-siento una presencia ajena a este plano.&lt;wait&gt;&lt;page&gt;
-Las ondas que transmite son diferentes a las de los
-humanos y los animales. Estoy convencida de que tiene que
-ser un espíritu de la montaña.&lt;wait&gt;</Entry>
-  <Entry Index="3669">Oh. Hola, &lt;playername&gt;.
-¿Estás disfrutando del esplendor de la montaña?&lt;wait&gt;</Entry>
-  <Entry Index="3670">Sé que tus obligaciones en la granja te mantienen
-&lt;gender&gt;("ocupado","ocupada"), pero es importante cambiar de perspectiva.&lt;wait&gt;</Entry>
-  <Entry Index="3671">¿Tienes cultivos en tu granja? Algunos granjeros
-prefieren utilizar abonos y químicos para obtener
-verduras de calidad.&lt;wait&gt;&lt;page&gt;
-En mi opinión, creo que es mejor que las verduras crezcan
-de forma natural, con una interacción mínima por parte
-de los humanos.&lt;wait&gt;</Entry>
-  <Entry Index="3672">Los abonos que he visto que se utilizan en este
-pueblo son totalmente naturales, así que no me
-preocupan demasiado.&lt;wait&gt;</Entry>
-  <Entry Index="3673">A veces veo al señor Gotts en la montaña. Verle me
-recuerda lo dura que puede ser la señora madre
-naturaleza.&lt;wait&gt;</Entry>
-  <Entry Index="3674">&lt;playername&gt;, tú vas a la montaña a cortar árboles
-de vez en cuando, ¿no?&lt;wait&gt;&lt;page&gt;
-No se te puede criticar por tomar cuanto necesites, pero
-recuerda respetar a los espíritus que desarraigas.&lt;wait&gt;</Entry>
-  <Entry Index="3675">La amable gente de este pueblo tiene temas de
-conversación excelentes. Le tienen mucho aprecio
-a la madre naturaleza.&lt;wait&gt;</Entry>
-  <Entry Index="3676">Este pueblo es maravillosamente libre, todo el mundo vive
-en orden y armonía con los demás. Me parece genial.&lt;wait&gt;</Entry>
-  <Entry Index="3677">Siempre te he visto como alguien que me entiende por
-quien soy, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Y creo que estoy empezando a entender lo que la
-agricultura significa de verdad para ti.&lt;wait&gt;</Entry>
-  <Entry Index="3678">Sea mujer u hombre, anciano o joven, tú o yo, todos vivimos
-gracias a los generosos regalos de la madre naturaleza.&lt;wait&gt;</Entry>
-  <Entry Index="3679">Oh. Hola, &lt;playername&gt;.
-¿Qué tal te ha ido?&lt;wait&gt;</Entry>
-  <Entry Index="3680">¿Cómo está tu marido?
-¿Vuestras energías están en sincronía?&lt;wait&gt;</Entry>
-  <Entry Index="3681">¿Cómo está tu esposa?
-¿Vuestras energías están en sincronía?&lt;wait&gt;</Entry>
-  <Entry Index="3682">Parece que estáis disfrutando la vida más que nunca.
-Supongo que el dicho "dos mejor que uno" es cierto.&lt;wait&gt;</Entry>
-  <Entry Index="3683">&lt;playername&gt;, me da la sensación de que eres de &lt;gender&gt;("los","las")
-que trata bien a su marido. Las vibraciones que percibo
-en tu aura me lo confirman.&lt;wait&gt;</Entry>
-  <Entry Index="3684">&lt;playername&gt;, me da la sensación de que eres de &lt;gender&gt;("los","las")
-que trata bien a su esposa. Las vibraciones que percibo
-en tu aura me lo confirman.&lt;wait&gt;</Entry>
-  <Entry Index="3685">Recuerda, &lt;playername&gt;: ya no estás &lt;gender&gt;("solo","sola"). Cuida de
-tu salud, por el bien de tu pareja.&lt;wait&gt;</Entry>
+<Entry Index="3625">Não preciso de remédios, obrigado.
+Estou muito saudável.
+Você pode ficar com eles.&lt;wait&gt;</Entry>
+<Entry Index="3626">Eu vivo com uma máxima: se não posso comer, é inútil para mim.&lt;wait&gt;</Entry>
+<Entry Index="3627">Ahá. Uma oferta de chocolates para o Dia dos Namorados,
+não é? Obrigado.&lt;wait&gt;</Entry>
+<Entry Index="3628">Obrigado. Vou aproveitar.&lt;wait&gt;</Entry>
+<Entry Index="3629">Vamos! Deveríamos discutir isso longe de olhos
+curiosos. Vamos nos retirar para a privacidade de sua
+casa.&lt;wait&gt;</Entry>
+<Entry Index="3630">Bem, qual é o propósito de você ter me apresentado esse
+delicioso presente simbólico?&lt;wait&gt;</Entry>
+<Entry Index="3631">Você, um &lt;gender&gt;("novato","novata") na culinária que ainda não dominou
+a arte, acha que é &lt;gender&gt;("digno","digna") de se casar comigo?&lt;wait&gt;</Entry>
+<Entry Index="3632">Você, um &lt;gender&gt;("charlatão culinário","charlatã culinária") que ainda não venceu
+nenhuma competição culinária, acha que é &lt;gender&gt;("digno","digna") de se casar comigo?&lt;wait&gt;</Entry>
+<Entry Index="3633">Você, um &lt;gender&gt;("cozinheiro principiante","cozinheira principiante") que só venceu
+algumas competições culinárias, acha que é &lt;gender&gt;("digno","digna") de se casar comigo?&lt;wait&gt;</Entry>
+<Entry Index="3634">Eu voltarei no próximo ano com o paladar mais refinado
+em busca de um banquete bem temperado.&lt;wait&gt;</Entry>
+<Entry Index="3635">Mais uma vez, há poucos participantes masculinos este ano.
+O vasto mundo da culinária é para todos, não importa o gênero.&lt;wait&gt;</Entry>
+<Entry Index="3636">Amanhã é a Noite Estrelada.
+Volte para casa antes das 18:00.&lt;wait&gt;</Entry>
+<Entry Index="3637">Meu Deus, que surpresa você estar grávida!&lt;wait&gt;</Entry>
+<Entry Index="3638">E pensar que em breve teremos nosso
+pequeno ajudante para comandar.&lt;wait&gt;</Entry>
+<Entry Index="3639">Assim como os melhores sabores devem se desenvolver com
+o tempo, nosso pequenino deve amadurecer antes de vir
+ao mundo.&lt;wait&gt;</Entry>
+<Entry Index="3640">Certifique-se de manter uma dieta equilibrada e saudável.&lt;wait&gt;</Entry>
+<Entry Index="3641">Acho que nosso pequeno fará sua primeira
+aparição a qualquer momento.&lt;wait&gt;</Entry>
+<Entry Index="3642">Seja menino ou menina, tenho certeza de que terá habilidades
+culinárias excepcionais.&lt;wait&gt;</Entry>
+<Entry Index="3643">Me disseram que ele/ela nascerá amanhã.&lt;wait&gt;</Entry>
+<Entry Index="3644">Você deveria ir descansar cedo para estar
+pronta para o grande dia.&lt;wait&gt;</Entry>
+<Entry Index="3645">Bom dia.&lt;wait&gt;</Entry>
+<Entry Index="3646">Quero dar a &lt;childname&gt; um estilo de vida saudável e completo.&lt;wait&gt;</Entry>
+<Entry Index="3647">Bom dia.&lt;wait&gt;</Entry>
+<Entry Index="3648">&lt;childname&gt; está ficando cada vez mais velho(a).&lt;wait&gt;</Entry>
+<Entry Index="3649">As crianças crescem tão rápido.
+Me lembra muito o meu pão favorito quando está crescendo.&lt;wait&gt;</Entry>
+<Entry Index="3650">Acho que &lt;childname&gt; está aprendendo a ficar de pé.&lt;wait&gt;</Entry>
+<Entry Index="3651">Você não está dando muitos doces cheios de açúcar para &lt;childname&gt;, né?&lt;wait&gt;</Entry>
+<Entry Index="3652">Ah, olhe.
+&lt;childname&gt; aprendeu a andar.&lt;wait&gt;</Entry>
+<Entry Index="3653">&lt;childname&gt; cresceu tanto.&lt;wait&gt;</Entry>
+<Entry Index="3654">Quando &lt;childname&gt; estiver crescido o suficiente, vou ensinar minhas
+incríveis habilidades culinárias e conhecimento a ele/ela.&lt;wait&gt;</Entry>
+  <Entry Index="3655">Temo que meu afeto por você é bastante baixo. Está abaixo
+do nível três, até.&lt;wait&gt;</Entry>
+<Entry Index="3656">Se você se lembra, eu disse que meu afeto por
+você estava agora abaixo do nível três.&lt;wait&gt;</Entry>
+<Entry Index="3657">O leve aroma do afeto agita meu nariz. Eu colocaria meu
+interesse em você em um nível quatro.&lt;wait&gt;</Entry>
+<Entry Index="3658">Se você se lembra, eu disse que meu afeto por você estava por
+volta do nível quatro.&lt;wait&gt;</Entry>
+<Entry Index="3659">Estou começando a perceber que anseio por sua companhia. Diria
+que meu desejo está no nível cinco, mais ou menos.&lt;wait&gt;</Entry>
+<Entry Index="3660">Se você se lembra, eu disse que meu afeto por você estava por
+volta do nível cinco.&lt;wait&gt;</Entry>
+<Entry Index="3661">Você está se tornando um sabor sem o qual eu não poderia viver.
+Diria que meu afeto por você está pelo menos no nível seis.&lt;wait&gt;</Entry>
+<Entry Index="3662">Se você se lembra, eu disse que meu afeto por você estava por
+volta do nível seis.&lt;wait&gt;</Entry>
+<Entry Index="3663">Você é ambrosia para meu paladar.
+Meus sentimentos por você superaram meu amor por
+qualquer iguaria culinária.&lt;wait&gt;</Entry>
+<Entry Index="3664">Se você se lembra, eu disse que agora você tem meu máximo afeto.&lt;wait&gt;</Entry>
+<Entry Index="3665">Oh. Olá, &lt;playername&gt;. O que te traz até aqui hoje?&lt;wait&gt;</Entry>
+<Entry Index="3666">A energia que emana desta montanha
+acalma minha alma.&lt;wait&gt;</Entry>
+<Entry Index="3667">O chilrear dos pássaros...
+O suave murmúrio do riacho...
+O sussurro do vento...&lt;wait&gt;&lt;page&gt;
+Quando visito a montanha sozinha, a natureza fala e eu
+devo ouvir. Não é maravilhoso?&lt;wait&gt;</Entry>
+<Entry Index="3668">Às vezes, quando estou sozinha na minha tenda,
+sinto a presença de algo além deste plano.&lt;wait&gt;&lt;page&gt;
+As ondas que ela emana são diferentes das de humanos e animais.
+Estou convencida de que é um espírito da montanha.&lt;wait&gt;</Entry>
+<Entry Index="3669">Oh. Olá, &lt;playername&gt;.
+Você está apreciando a esplendorosa montanha?&lt;wait&gt;</Entry>
+<Entry Index="3670">Eu sei que suas obrigações na fazenda o(a) mantêm ocupado(a),
+mas é importante mudar de perspectiva.&lt;wait&gt;</Entry>
+<Entry Index="3671">Você tem culturas em sua fazenda? Alguns agricultores
+preferem usar adubos e produtos químicos para obter
+vegetais de qualidade.&lt;wait&gt;&lt;page&gt;
+Na minha opinião, acredito que é melhor os vegetais crescerem
+naturalmente, com o mínimo de interferência humana.&lt;wait&gt;</Entry>
+<Entry Index="3672">Os adubos que vi sendo usados nesta vila são totalmente naturais,
+então não me preocupo muito.&lt;wait&gt;</Entry>
+<Entry Index="3673">Às vezes, vejo o Sr. Gotts na montanha. Vê-lo me
+lembra quão dura a mãe natureza pode ser.&lt;wait&gt;</Entry>
+<Entry Index="3674">&lt;playername&gt;, você vai à montanha cortar árvores
+de vez em quando, não é?&lt;wait&gt;&lt;page&gt;
+Você não pode ser criticado por pegar o que precisa, mas
+lembre-se de respeitar os espíritos que você desaloja.&lt;wait&gt;</Entry>
+<Entry Index="3675">A gentil gente desta vila tem tópicos de
+conversa excelentes. Eles têm um grande apreço
+pela mãe natureza.&lt;wait&gt;</Entry>
+<Entry Index="3676">Esta vila é maravilhosamente livre, todos vivem
+em ordem e harmonia uns com os outros. Acho incrível.&lt;wait&gt;</Entry>
+<Entry Index="3677">Sempre vi você como alguém que me entende pelo
+que sou, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+E acredito que estou começando a entender o que a
+agricultura realmente significa para você.&lt;wait&gt;</Entry>
+<Entry Index="3678">Seja mulher ou homem, velho ou jovem, você ou eu, todos nós vivemos
+graças aos generosos presentes da mãe natureza.&lt;wait&gt;</Entry>
+<Entry Index="3679">Oh. Olá, &lt;playername&gt;.
+Como tem sido para você?&lt;wait&gt;</Entry>
+<Entry Index="3680">Como está seu marido?
+Suas energias estão em sintonia?&lt;wait&gt;</Entry>
+  <Entry Index="3681">Como está sua esposa?
+Suas energias estão em sintonia?&lt;wait&gt;</Entry>
+  <Entry Index="3682">Parece que vocês estão desfrutando da vida mais do que nunca.
+Acho que o ditado "dois é melhor que um" é verdadeiro.&lt;wait&gt;</Entry>
+  <Entry Index="3683">&lt;playername&gt;, sinto que você é do tipo que trata bem seu marido.
+As vibrações que sinto de sua aura confirmam isso.&lt;wait&gt;</Entry>
+  <Entry Index="3684">&lt;playername&gt;, sinto que você é do tipo que trata bem sua esposa.
+As vibrações que sinto de sua aura confirmam isso.&lt;wait&gt;</Entry>
+  <Entry Index="3685">Lembre-se, &lt;playername&gt;: você não está mais sozinho. Cuide
+de sua saúde, pelo bem do seu parceiro.&lt;wait&gt;</Entry>
   <Entry Index="3686">Passar tempo com seu marido é bom, mas também
 você deve reservar um tempo para visitar a mãe natureza
 e absorver suas energias.&lt;wait&gt;</Entry>
@@ -8643,8 +8599,8 @@ Obrigado! Você me conhece tão bem.&lt;wait&gt;</Entry>
   <Entry Index="3710">Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="3711">É para mim? Bem... Quando algo é dado, o que
 importa é a intenção...&lt;wait&gt;</Entry>
-  <Entry Index="3712">Eu gostaria que você não tivesse me colocado nessa situação. Se você insiste,
-acho que vou ter que aceitar. Hmm.&lt;wait&gt;</Entry>
+  <Entry Index="3712">Eu gostaria que você não tivesse me colocado nessa situação.
+Se você insiste, acho que vou ter que aceitar. Hmm.&lt;wait&gt;</Entry>
   <Entry Index="3713">Pelas estrelas do céu e da terra que pisamos!
 Você lembrou do meu aniversário!
 Obrigado.&lt;wait&gt;</Entry>
@@ -8657,8 +8613,8 @@ natureza... mas eu não gosto de nada. Sinto muito.&lt;wait&gt;</Entry>
 para outra pessoa.&lt;wait&gt;</Entry>
   <Entry Index="3718">Um presente para o meu aniversário? Então você lembrou!
 Não posso recusar nada que você me ofereça. Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="3719">Não preciso de algo assim, embora talvez possa dá-lo a outra pessoa
-pessoa.&lt;wait&gt;</Entry>
+  <Entry Index="3719">Não preciso de algo assim, embora talvez possa
+dá-lo a outra pessoa.&lt;wait&gt;</Entry>
   <Entry Index="3720">Uma... pena azul? Se não me engano, não é um símbolo que
 implica um pedido de casamento?&lt;wait&gt;</Entry>
   <Entry Index="3721">Hum? Oh, você tem um olhar muito sério. diga-me o que 
