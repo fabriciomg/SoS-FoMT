@@ -962,12 +962,12 @@ positiva.&lt;wait&gt;</Entry>
   <Entry Index="432">Nossa, você sentiu que eu estava pensando em você?
 Achei que você poderia querer companhia.
 Vamos, sente-se e assista.&lt;wait&gt;</Entry>
-  <Entry Index="433">Bom dia, &lt;playername&gt;. Amanhã o Concerto Anual
-acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="433">Bom dia, &lt;playername&gt;. Amanhã o Evento
+Musical Anual acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
 Vim para perguntar se você gostaria se apresentar conosco.
 Você gostaria?&lt;wait&gt;</Entry>
-  <Entry Index="434">Bom dia, &lt;playername&gt;. Amanhã o Concerto Anual
-acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="434">Bom dia, &lt;playername&gt;. Amanhã o Evento
+Musical acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
 Vim para perguntar se você gostaria se apresentar conosco.
 Você gostaria?&lt;wait&gt;</Entry>
   <Entry Index="435">Participar</Entry>
@@ -983,14 +983,14 @@ Se você tiver tempo, venha ver a nossa apresentação
 na igreja.&lt;wait&gt;</Entry>
   <Entry Index="440">Eu estava te esperando. Todo mundo está lá dentro.
 Vamos entrar.&lt;wait&gt;</Entry>
-  <Entry Index="441">Perdão, mas vamos ter um concerto, então
+  <Entry Index="441">Perdão, mas vamos ter um musical, então
 objetos externos não estão permitidos na igreja.&lt;wait&gt;&lt;page&gt;
 Peço perdão, mas poderia deixar de lado o que
 tem nas mãos?&lt;wait&gt;</Entry>
   <Entry Index="442">Que maravilha. A música é perfeita para relaxar.&lt;wait&gt;</Entry>
   <Entry Index="443">Lalala~ ♪ Laaa lala~ ♪ Bem, isso soa bem.
 Estou pronta para cantar.&lt;wait&gt;</Entry>
-  <Entry Index="444">Este concerto é realizado graças à ajuda
+  <Entry Index="444">Este evento musical é realizado graças à ajuda
 de todos. É mais divertido do que se grandes
 profissionais viessem.&lt;wait&gt;</Entry>
   <Entry Index="445">Mesmo se eu errar, Elly estará lá para me ajudar.
@@ -1010,11 +1010,11 @@ enquanto os integrantes da banda se preparam.&lt;wait&gt;</Entry>
 venha falar comigo.&lt;wait&gt;</Entry>
   <Entry Index="454">Mmm. Não acho que possa tocar se tiver algo nas
 mãos. Por favor, guarde isso.&lt;wait&gt;</Entry>
-  <Entry Index="455">Você não irá participar do concerto, certo? Então,
+  <Entry Index="455">Você não irá participar do musucal, certo? Então,
 sente-se e aproveite. Tenho certeza que irá mexer com você.&lt;wait&gt;</Entry>
-  <Entry Index="456">Quero cantar no concerto quando eu crescer.&lt;wait&gt;</Entry>
+  <Entry Index="456">Quero cantar no evento musical quando eu crescer.&lt;wait&gt;</Entry>
   <Entry Index="457">Adorei. Voltarei no ano que vem.&lt;wait&gt;</Entry>
-  <Entry Index="458">Que grande concerto. Estou ansioso para repetir no
+  <Entry Index="458">Que grande show. Estou ansioso para repetir no
 ano que vem.&lt;wait&gt;</Entry>
   <Entry Index="459">Bom dia, &lt;playername&gt;. Todo mundo se reunirá
 amanhã às 10:00 da manhã para celebrar o
@@ -2365,10 +2365,10 @@ e o Gotts.&lt;wait&gt;</Entry>
   <Entry Index="1101">Popuri Abóbora</Entry>
   <Entry Index="1102">Festa da Abóbora 2</Entry>
   <Entry Index="1103">   ７／   ７</Entry>
-  <Entry Index="1104">Véspera do Concerto</Entry>
-  <Entry Index="1105">Concerto</Entry>
+  <Entry Index="1104">Véspera do Musical</Entry>
+  <Entry Index="1105">Musical na igreja</Entry>
   <Entry Index="1106">Presentes de Noite Estrelada</Entry>
-  <Entry Index="1107">Ouvi izer que as melhores vistas são do topo da
+  <Entry Index="1107">Ouvi dizer que as melhores vistas são do topo da
 montanha.
 Você quer vir ver a lua comigo?&lt;wait&gt;</Entry>
   <Entry Index="1108">Oh, adivinhe! É a Noite de Luar! Vamos ver
