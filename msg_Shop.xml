@@ -413,8 +413,8 @@ Uma cama grande pode ser colocada.</Entry>
   <Entry Index="316">Banheiro</Entry>
   <Entry Index="317">Use para restaurar a resistência e aliviar
 cansaço. Levará 30 minutos.</Entry>
-  <Entry Index="318">Curral</Entry>
-  <Entry Index="319">Expanda a caneta para suportar até
+  <Entry Index="318">Galinheiro</Entry>
+  <Entry Index="319">Expanda o galinheiro para suportar até
 8 animais.</Entry>
   <Entry Index="320">Celeiro</Entry>
   <Entry Index="321">Expanda seu celeiro para acomodar
@@ -1022,9 +1022,9 @@ Venha buscar sua &lt;string0&gt; quando
 o tempo especificado expirou.&lt;wait&gt;</Entry>
   <Entry Index="790">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar a maionese no seu curral, assim­
+Quando terminar, vou colocar o fabricador de maionese no seu galinheiro,­
 não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="791">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+  <Entry Index="791">Muito bom. Estes são o adamantita e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
 Quando terminar, vou colocar a máquina de queijo no seu
 celeiro, então não se preocupe.&lt;wait&gt;</Entry>
