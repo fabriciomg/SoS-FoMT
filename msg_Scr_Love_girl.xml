@@ -25,9 +25,9 @@ conhecer você.&lt;wait&gt;</Entry>
 alguém se mudou para aquela fazenda. É você, certo?&lt;wait&gt;&lt;page&gt;
 Você é &lt;playername&gt;? Eu sou Rick. É um prazer
 conhecer você.&lt;wait&gt;</Entry>
-  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio fazer 
 compras, eu acho.&lt;wait&gt;</Entry>
-  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio fazer 
 compras, eu acho.&lt;wait&gt;</Entry>
   <Entry Index="15">Claro! Fique a vontade, se tiver alguma dúvida 
 me pergunte, estarei por perto.&lt;wait&gt;</Entry>
@@ -55,10 +55,10 @@ seus gostos.&lt;wait&gt;</Entry>
   <Entry Index="28">Ah, e boa sorte com o trabalho na fazenda.
 Se houver alguma coisa que eu possa fazer para ajudar,
 é só em dizer.&lt;wait&gt;</Entry>
-  <Entry Index="29">Ovos cozidos são fáceis de fazer. Você aepnas
+  <Entry Index="29">Ovos cozidos são fáceis de fazer. Você apenas
 precisa colocar um ovo em água fervente,
 e pronto!&lt;wait&gt;</Entry>
-  <Entry Index="30">Ovos cozidos são fáceis de fazer. Você aepnas
+  <Entry Index="30">Ovos cozidos são fáceis de fazer. Você apenas
 precisa colocar um ovo em água fervente,
 e pronto! A Popuri os adora.&lt;wait&gt;</Entry>
   <Entry Index="31">Gosto de ovos cozidos porque são fáceis
