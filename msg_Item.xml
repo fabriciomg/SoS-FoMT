@@ -2,23 +2,23 @@
 <Entries Count="1218">
   <Entry Index="0">Foice de Ferro</Entry>
   <Entry Index="1">Uma lâmina curva de ferro usada para
-cortar ervas daninhas. Tome cuidado para não
+cortar Plantas daninhas. Tome cuidado para não
 cortar suas colheitas!</Entry>
   <Entry Index="2">Foice de Cobre</Entry>
   <Entry Index="3">Uma lâmina curva de cobre usada para
-cortar ervas daninhas. Tome cuidado para não
+cortar Plantas daninhas. Tome cuidado para não
 cortar suas colheitas!</Entry>
   <Entry Index="4">Foice de Prata</Entry>
   <Entry Index="5">Uma lâmina curva de prata usada para
-cortar ervas daninhas. Tome cuidado para não
+cortar Plantas daninhas. Tome cuidado para não
 cortar suas colheitas!</Entry>
   <Entry Index="6">Foice de Ouro</Entry>
   <Entry Index="7">Uma lâmina curva de ouro usada para
-cortar ervas daninhas. Viu como brilha? Tome cuidado
+cortar Plantas daninhas. Viu como brilha? Tome cuidado
 para não cortar suas colheitas!</Entry>
   <Entry Index="8">Foice de Mithril</Entry>
   <Entry Index="9">Uma lâmina curva de mithril usada para
-cortar ervas daninhas. Tome cuidado para não
+cortar Plantas daninhas. Tome cuidado para não
 cortar suas colheitas!</Entry>
   <Entry Index="10">Foice Amaldiçoada</Entry>
   <Entry Index="11">Uma lâmina curva que não pode ser desequipada!
@@ -29,27 +29,27 @@ ferramenta.</Entry>
 Por algum motivo, você se sente bem quando a usa.</Entry>
   <Entry Index="14">Foice Mítica</Entry>
   <Entry Index="15">Uma lâmina curva feita de um minério
-mítico, usada para cortar ervas daninhas. 
+mítico, usada para cortar Plantas daninhas. 
 Tome cuidado para não cortar suas colheitas!</Entry>
   <Entry Index="16">Enxada de Ferro</Entry>
   <Entry Index="17">Uma ferramenta de ferro usada para
-lavrar a terra. Inclusive com sementes ou ervas recém
+lavrar a terra. Inclusive com sementes ou Plantas recém
 cortadas.</Entry>
   <Entry Index="18">Enxada de Cobre</Entry>
   <Entry Index="19">Uma ferramenta de cobre usada para lavrar
-a terra. Inclusive com sementes ou ervas recém
+a terra. Inclusive com sementes ou Plantas recém
 cortadas..</Entry>
   <Entry Index="20">Enxada de Prata</Entry>
   <Entry Index="21">Uma ferramenta de prata usada para lavrar
-a terra. Inclusive com sementes ou ervas recém
+a terra. Inclusive com sementes ou Plantas recém
 cortadas.</Entry>
   <Entry Index="22">Enxada de Ouro</Entry>
   <Entry Index="23">Uma ferramenta de ouro usda para lavrar 
-a terra. Inclusive com sementes ou ervas recém
+a terra. Inclusive com sementes ou Plantas recém
 cortadas. Viu como brilha?</Entry>
   <Entry Index="24">Enxada de Mithril</Entry>
   <Entry Index="25">Uma ferramenta de mithril que se usa para
-lavrar. Inclusive com sementes ou erva recém
+lavrar. Inclusive com sementes ou Planta recém
 cortadas.</Entry>
   <Entry Index="26">Enxada Amaldiçoada</Entry>
   <Entry Index="27">Uma enxada que não pode ser desequipada!
@@ -61,7 +61,7 @@ A maldição se foi! Por algum motivo, você se
 sente bem quando o usa.</Entry>
   <Entry Index="30">Enxada Mítica</Entry>
   <Entry Index="31">Uma enxeda feita de um minério mítico, usada
-para lavrar a terra. Inclusive com sementes ou ervas recém
+para lavrar a terra. Inclusive com sementes ou Plantas recém
 cortadas.</Entry>
   <Entry Index="32">Machado de Ferro</Entry>
   <Entry Index="33">Um machado de ferro usado para cortar
@@ -305,7 +305,7 @@ grávidas.</Entry>
   <Entry Index="176">Kit de Procriação para Alpacas</Entry>
   <Entry Index="177">Faz com que as alpacas adultas fiquem
 grávidas.</Entry>
-  <Entry Index="178">Flor Preservada</Entry>
+  <Entry Index="178">Flor PresPlantada</Entry>
   <Entry Index="179">Usada para demonstrar seus sentimentos à
 pessoa da qual gosta. Primeiro convém
 assegurar-se de que o sentimento é mútuo.</Entry>
@@ -484,38 +484,38 @@ ser comido... Mas não é muito aconselhável.</Entry>
   <Entry Index="298">Cogumelo Matsutake</Entry>
   <Entry Index="299">Um fungo raro que cresce perto das
 montanhas. Se encontrar um, está com sorte!</Entry>
-  <Entry Index="300">Erva Zzul</Entry>
+  <Entry Index="300">Planta Azul</Entry>
   <Entry Index="301">Cresce perto das montanhas e recupera um
 pouco de resistência ao comê-la. Se enviada com frequência,
 pode acontecer algo bom.</Entry>
-  <Entry Index="302">Erva Verde</Entry>
+  <Entry Index="302">Planta Verde</Entry>
   <Entry Index="303">Cresce perto das montanhas e, ao comê-la,
 alivia um pouco de fadiga. Se enviada com frequência,
 pode acontecer algo bom.</Entry>
-  <Entry Index="304">Erva Vermelha</Entry>
+  <Entry Index="304">Planta Vermelha</Entry>
   <Entry Index="305">Cresce perto dos bosques e florestas. É venenosa,
 de modo que não é recomendável comê-la.</Entry>
-  <Entry Index="306">Erva Amarela</Entry>
+  <Entry Index="306">Planta Amarela</Entry>
   <Entry Index="307">Cresce perto das zonas costeiras. Ao comê-la,
 diminuirá sua resistência, mas aliviará a
 sua fadiga.</Entry>
-  <Entry Index="308">Erva Laranja</Entry>
+  <Entry Index="308">Planta Laranja</Entry>
   <Entry Index="309">Cresce perto das zonas costeiras. Comê-la não
 tem efeito, de modo que é usada como ingrediente
 para cozinhar.</Entry>
-  <Entry Index="310">Erva Roxa</Entry>
+  <Entry Index="310">Planta Roxa</Entry>
   <Entry Index="311">Cresce perto das zonas costeiras. Ao comê-la,
 recuperará um pouco de sua resistência e aliviará
 a sua fadiga.</Entry>
-  <Entry Index="312">Erva Índigo</Entry>
+  <Entry Index="312">Planta Índigo</Entry>
   <Entry Index="313">Cresce perto das zonas costeiras. Ao comê-la
 recuperará um pouco de resistência.</Entry>
-  <Entry Index="314">Erva Preta</Entry>
+  <Entry Index="314">Planta Preta</Entry>
   <Entry Index="315">Cresce perto das minas. Ao comê-la,
 recuperará um pouco de resistência e te aliviará
 a fadiga.</Entry>
-  <Entry Index="316">Erva Branca</Entry>
-  <Entry Index="317">Uma erva rara que cresce perto das bosques
+  <Entry Index="316">Planta Branca</Entry>
+  <Entry Index="317">Uma Planta rara que cresce perto das bosques
 e florestas. Ao comê-la, recuperará um pouco
 de resistência e te aliviará a fadiga.</Entry>
   <Entry Index="318">Flor Misteriosa</Entry>
@@ -559,7 +559,7 @@ usa como ingrediente para cozinhar.</Entry>
   <Entry Index="345">Pode ser comido ou usado como
 ingrediente para cozinhar.</Entry>
   <Entry Index="346">Folhas de Chá Relaxantes</Entry>
-  <Entry Index="347">Uma erva medicinal rara. O chá preparado com
+  <Entry Index="347">Uma Planta medicinal rara. O chá preparado com
 estas folhas te ajudará a relaxar.</Entry>
   <Entry Index="348">Maçã SUGDW</Entry>
   <Entry Index="349">O nome oficial é "Maçã
@@ -1434,7 +1434,7 @@ algo inusitado...</Entry>
 será revelada...</Entry>
   <Entry Index="934">Sol de Primavera</Entry>
   <Entry Index="935">Um prato preparado com diferentes tipos
-de ervas. Um momento... Isso não é comestível.
+de Plantas. Um momento... Isso não é comestível.
 O que é isso?!</Entry>
   <Entry Index="936">Sol de Verão</Entry>
   <Entry Index="937">Um prato preparado com diferentes produtos
@@ -1460,7 +1460,7 @@ Entregue-o a alguém como presente!</Entry>
   <Entry Index="948">Broche</Entry>
   <Entry Index="949">Um acessório fabricado pelo ferreiro.
 Entregue-o a alguém como presente!</Entry>
-  <Entry Index="950">Erva Daninha</Entry>
+  <Entry Index="950">Planta Daninha</Entry>
   <Entry Index="951">Cresce no campo desde a primavera até o
 outono. Pode ser vendido, mas ninguém
 pagará muito por ela.</Entry>
@@ -1515,7 +1515,7 @@ seguramente te fará derramar alguma
 lagrimasinha.</Entry>
   <Entry Index="980">Flores Prensadas de Elly</Entry>
   <Entry Index="981">Elly secou e prensou essas flores para
-conservá-las. Ternura é emitida destas
+consPlanta-las. Ternura é emitida destas
 pétalas prensadas.</Entry>
   <Entry Index="982">Disco 1</Entry>
   <Entry Index="983">Título: Começo das Estações - Tema de Primavera.
