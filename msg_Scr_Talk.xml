@@ -605,12 +605,12 @@ nascerem..&lt;wait&gt;</Entry>
 Tenho que admitir, estou um pouco asustada.&lt;wait&gt;&lt;page&gt;
 Mamãe me disse que realmente dói muito quando um bebê está nascendo.&lt;wait&gt;</Entry>
   <Entry Index="262">Hmm...&lt;wait&gt;</Entry>
-  <Entry Index="263">¡&lt;nickname&gt;! Adivinhe, adivinhou? É amanhã!
+  <Entry Index="263">&lt;nickname&gt;! Adivinhe, adivinhou? É amanhã!
 O bebê vai nascer AMANHÃ!!&lt;wait&gt;&lt;page&gt;
 Fui hoje à Clínica e a Elly disse-me!&lt;wait&gt;</Entry>
   <Entry Index="264">Ahhh!, Veja se não é coisa mais fofa?&lt;wait&gt;</Entry>
   <Entry Index="265">&lt;childname&gt; é tão fofo quanto fofo pode ser, hein?&lt;wait&gt;</Entry>
-  <Entry Index="266">¡Ji, ji, ji! Esse é o meu precioso bebê! Quanto mais crescem,
+  <Entry Index="266">Hahaha! Esse é o meu precioso bebê! Quanto mais crescem,
 mais fofos eles ficam!&lt;wait&gt;</Entry>
   <Entry Index="267">Aposto que &lt;childname&gt; parece exatamente como você
 quando era um bebê, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
@@ -620,7 +620,7 @@ Isso é tão fofo! ∀&lt;wait&gt;</Entry>
   <Entry Index="269">Eu faria qualquer coisa pelo(a) &lt;childname&gt;! E seria a
 primeira vez que me sinto assim por alguém! não acontece com você
 o mesmo, não? &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="270">Woow! ¡&lt;childname&gt;, isso é tão incrível! ∀ Quero dizer,
+  <Entry Index="270">Woow! &lt;childname&gt;, isso é tão incrível! ∀ Quero dizer,
 levantando e andando já? Quem é meu pequeno gênio?
 Huh? ♪&lt;wait&gt;&lt;page&gt;
 Não se sente &lt;gender&gt;("orgulhoso","orgulhosa"), &lt;nickname&gt;?&lt;wait&gt;</Entry>
@@ -675,13 +675,13 @@ Deixe-me roubar uma mordida. Ei! Ei ei.&lt;wait&gt;</Entry>
   <Entry Index="295">Rick é super exigente com sua comida. É sempre
 muito queimado, ou muito salgado, ou muito ALGO.
 Eu me sinto mal pela pobre Karen.&lt;wait&gt;</Entry>
-  <Entry Index="296">Oh! ¡&lt;nickname&gt;, Bem víndo! Você nunca vai adivinhar o que
+  <Entry Index="296">Oh! &lt;nickname&gt;, Bem víndo! Você nunca vai adivinhar o que
 Mamãe me disse. Aparentemente, meu rosto parece muito mais gentil.&lt;wait&gt;&lt;page&gt;
 Acho que as pessoas estão certas quando dizem que 
 ter um bebê muda você.&lt;wait&gt;</Entry>
   <Entry Index="297">Você não precisa se preocupar TANTO assim, você sabe. eu serei
 bem. Estou me certificando de não me esforçar muito.&lt;wait&gt;</Entry>
-  <Entry Index="298">Oh! ¡&lt;nickname&gt;, Bem víndo! Como vai o(a)
+  <Entry Index="298">Oh! &lt;nickname&gt;, Bem víndo! Como vai o(a)
 &lt;childname&gt;?&lt;wait&gt;&lt;page&gt;
 Por favor, não me diga que nosso docinho estava chorando porque mamãe não
 estava lá!&lt;wait&gt;</Entry>
@@ -698,10 +698,10 @@ Que idiota você é, &lt;nickname&gt;!&lt;wait&gt;</Entry>
   <Entry Index="305">Oh! Oi, &lt;nickname&gt;. Como vai?&lt;wait&gt;</Entry>
   <Entry Index="306">Estou fazendo o meu melhor hoje. Isso significa que você deve
 fazer O SEU melhor hoje também, ok?.&lt;wait&gt;</Entry>
-  <Entry Index="307">¡&lt;nickname&gt;, Bem víndo! He! he!&lt;wait&gt;</Entry>
+  <Entry Index="307">&lt;nickname&gt;, Bem víndo! He! he!&lt;wait&gt;</Entry>
   <Entry Index="308">Rapaz, é estranho. Quem teria pensado que minha esposa estaria visitando
 eu no trabalho e que me faria ficar envergonhado tanto?&lt;wait&gt;</Entry>
-  <Entry Index="309">¡&lt;nickname&gt;, Bem víndo! Hum, adivinhem? Estou
+  <Entry Index="309">&lt;nickname&gt;, Bem víndo! Hum, adivinhem? Estou
 trabalhando muito duro hoje! Você acha que estou indo bem?
 Ei? Ei uh?&lt;wait&gt;</Entry>
   <Entry Index="310">Desde que você veio, &lt;nickname&gt;, vou tentar fazer
@@ -807,7 +807,7 @@ te admiro.&lt;wait&gt;</Entry>
   <Entry Index="359">&lt;playername&gt;, O que você acha sobre mim?&lt;wait&gt;</Entry>
   <Entry Index="360">Todo mundo me trata como se eu fosse uma garotinha.
 Você acha que ainda sou tão pequena?&lt;wait&gt;</Entry>
-  <Entry Index="361">Oh! ¡&lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
+  <Entry Index="361">Oh! &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
 Uau... Você me trata como se eu fosse um adulto. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="362">Sempre gostei de gente legal...&lt;wait&gt;&lt;page&gt;
 Mas estou me acostumando com a ideia de que as pessoas
@@ -1345,7 +1345,7 @@ manhãs e quando você chega em casa à noite.&lt;wait&gt;</Entry>
 feliz de ter casado com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="596">Não há nada como estar cercado pela sua família. Estou tão
 feliz de ter casado com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="597">¡&lt;nickname&gt;! Ouça, seu corpo não está em condições de sair
+  <Entry Index="597">&lt;nickname&gt;! Ouça, seu corpo não está em condições de sair
 correndo pela cidade assim. Você sabe perfeitamente.&lt;wait&gt;</Entry>
   <Entry Index="598">Estou feliz que você veio me ver,
 mas não se esforce demais.&lt;wait&gt;</Entry>
@@ -1442,10 +1442,10 @@ Como vai você?&lt;wait&gt;</Entry>
 em seus objetivos...&lt;wait&gt;</Entry>
   <Entry Index="638">Ultimamente, tenho pensado muito em você. No que você faz,
 em seus objetivos...&lt;wait&gt;</Entry>
-  <Entry Index="639">¡&lt;playername&gt;!
+  <Entry Index="639">&lt;playername&gt;!
 Como a vida na fazenda está te tratando?
 Você está trabalhando demais?&lt;wait&gt;</Entry>
-  <Entry Index="640">¡&lt;playername&gt;!
+  <Entry Index="640">&lt;playername&gt;!
 Como a vida na fazenda está te tratando?
 Você está trabalhando demais?&lt;wait&gt;</Entry>
   <Entry Index="641">Você é o que me inspira a continuar dando o meu melhor a cada
@@ -1796,7 +1796,7 @@ bonita para mim? Não me decepcione agora, ouviu? Estou
 falando sério.&lt;wait&gt;</Entry>
   <Entry Index="788">1... 2... 3... Hmm? Deve ser por volta das 17:00... Espera,
 São quase 18:00?! Ei?!&lt;wait&gt;</Entry>
-  <Entry Index="789">Ei! ¡&lt;playername&gt;! Estou tentando trabalhar,
+  <Entry Index="789">Ei! &lt;playername&gt;! Estou tentando trabalhar,
 sabia?&lt;wait&gt;</Entry>
   <Entry Index="790">>Ei! Já terminou de arrumar aquela caixa?
 bonita para mim? Não me decepcione agora, ouviu? Estou
@@ -2003,7 +2003,7 @@ Estou cansado.&lt;wait&gt;</Entry>
 Hum? Eu pareço com raiva?&lt;wait&gt;</Entry>
   <Entry Index="868">Essa é a sua imaginação!
 Só estou um pouco exausto.&lt;wait&gt;</Entry>
-  <Entry Index="869">¡&lt;gender&gt;("Bem vindo","Bem, vinda")!
+  <Entry Index="869">&lt;gender&gt;("Bem vindo","Bem, vinda")!
 Chega tarde.&lt;wait&gt;</Entry>
   <Entry Index="870">Você teve muito trabalho ultimamente? Faz dias
 que não nos falamos.&lt;wait&gt;</Entry>
@@ -2516,7 +2516,7 @@ festas de chá sem parar!&lt;wait&gt;</Entry>
   <Entry Index="1157">&lt;gender&gt;("Bem vindo","Bem vinda"). Que aborrecimento! Eu gostaria de ter algo para
 fazer!&lt;wait&gt;</Entry>
   <Entry Index="1158">&lt;gender&gt;("Bem vindo","Bem vinda")! Você quer jogar comigo?&lt;wait&gt;</Entry>
-  <Entry Index="1159">OK! ¡&lt;playername&gt; está aqui! ¡&lt;playername&gt;
+  <Entry Index="1159">OK! &lt;playername&gt; está aqui! &lt;playername&gt;
 está aqui! Eu sabia que você viria!&lt;wait&gt;</Entry>
   <Entry Index="1160">Eu não gosto de estraga-prazeres.&lt;wait&gt;</Entry>
   <Entry Index="1161">Jogar é sempre melhor do que trabalhar!&lt;wait&gt;</Entry>
@@ -2612,8 +2612,8 @@ vir nos visitar, &lt;playername&gt;.&lt;wait&gt;</Entry>
 Porque na primavera celebramos as festas do chá!&lt;wait&gt;</Entry>
   <Entry Index="1204">Só enviamos convites para nossos melhores amigos.&lt;wait&gt;</Entry>
   <Entry Index="1205">Nas nossas festas de chá há sempre chá e petiscos.&lt;wait&gt;</Entry>
-  <Entry Index="1206">¡&lt;gender&gt;("Bem vindo","Bem vinda")! Fico feliz em te ver.&lt;wait&gt;</Entry>
-  <Entry Index="1207">Ebaaa! ¡&lt;playername&gt; está aqui!&lt;wait&gt;</Entry>
+  <Entry Index="1206">&lt;gender&gt;("Bem vindo","Bem vinda")! Fico feliz em te ver.&lt;wait&gt;</Entry>
+  <Entry Index="1207">Ebaaa! &lt;playername&gt; está aqui!&lt;wait&gt;</Entry>
   <Entry Index="1208">Tive a sensação de que você voltaria em breve!
 Senti uma espécie de cócegas no estômago..&lt;wait&gt;</Entry>
   <Entry Index="1209">Cozinhar é amor. Cozinhar é vida.&lt;wait&gt;</Entry>
@@ -2688,7 +2688,7 @@ festas do chá.&lt;wait&gt;</Entry>
 festas de chá o tempo todo.&lt;wait&gt;</Entry>
   <Entry Index="1247">Tenho fome...&lt;wait&gt;</Entry>
   <Entry Index="1248">Você me trouxe algo delicioso para comer?&lt;wait&gt;</Entry>
-  <Entry Index="1249">Ebaaaa! ¡&lt;playername&gt; está aqui!
+  <Entry Index="1249">Ebaaaa! &lt;playername&gt; está aqui!
 Você tem um presente para mim hoje?
 Talvez algo... delicioso?&lt;wait&gt;</Entry>
   <Entry Index="1250">Você sempre aparece quando estou com fome,
@@ -2834,9 +2834,9 @@ Oh, eh... Entendo.
 Entre você e eu...&lt;wait&gt;&lt;page&gt;
 Duke era um verdadeiro valentão na escola quando era
 menino. Eu não gostava dele naquela época, muito menos agora.&lt;wait&gt;</Entry>
-  <Entry Index="1306">&lt;playername&gt;! ¡Oi, Olá!
+  <Entry Index="1306">&lt;playername&gt;! Oi, Olá!
 Como vai a fazenda?&lt;wait&gt;</Entry>
-  <Entry Index="1307">&lt;playername&gt;! ¡Oi, Olá!
+  <Entry Index="1307">&lt;playername&gt;! Oi, Olá!
 Como vai a fazenda?&lt;wait&gt;</Entry>
   <Entry Index="1308">Aah, eu gostaria de poder ir ver um pouco &lt;childname&gt;. Agora
 eu penso sobre isso, e me sinto um pouco doente...&lt;wait&gt;&lt;page&gt;
@@ -3670,7 +3670,7 @@ Você quer que conversemos em particular em sua casa,
 Amável. A quem você vai dar?&lt;wait&gt;</Entry>
   <Entry Index="1688">Oh! &lt;playername&gt;...
 O-oi... por que não vamos a sua casa?&lt;wait&gt;</Entry>
-  <Entry Index="1689">¡Oh! &lt;playername&gt;...
+  <Entry Index="1689">Oh! &lt;playername&gt;...
 O-oi... por que não vamos a sua casa?&lt;wait&gt;</Entry>
   <Entry Index="1690">Incrível! Parabéns.
 É melhor você ir agora.&lt;wait&gt;&lt;page&gt;
@@ -3714,7 +3714,7 @@ dormindo!&lt;wait&gt;</Entry>
 vez mais definido. Nós temos uma pequena pessoa crescendo diante dos 
 nossos olhos.&lt;wait&gt;</Entry>
   <Entry Index="1709">Papai diz que se parece com ele quando tinha sua idade!&lt;wait&gt;&lt;page&gt;
-Mas vamos ser realistas: ¡&lt;childname&gt; parece com você
+Mas vamos ser realistas: &lt;childname&gt; parece com você
 e a mim!&lt;wait&gt;</Entry>
   <Entry Index="1710">&lt;childname&gt; amo a &lt;dogname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1711">Não se preocupe. Você ainda é a pessoa favorita de
@@ -5112,7 +5112,7 @@ TODO MUNDO está falando de você, certo?&lt;wait&gt;</Entry>
   <Entry Index="2285">Que? Você não fez nada? Não ,não. Deve ser uma piada.
 você deve ter feito ALGUMA COISA, não?&lt;wait&gt;</Entry>
   <Entry Index="2286">Espere...!&lt;wait&gt;</Entry>
-  <Entry Index="2287">Não... ¡NÃO!&lt;wait&gt;</Entry>
+  <Entry Index="2287">Não... NÃO!&lt;wait&gt;</Entry>
   <Entry Index="2288">Céus! Não pode ser!&lt;wait&gt;</Entry>
   <Entry Index="2289">Você quer usurpar minha posição como prefeito de Mineral
 Town? Não! Eu não vou permitir isso, você me ouviu? Eu não vou permitir isso!&lt;wait&gt;&lt;page&gt;
@@ -9109,7 +9109,7 @@ vai se parecer? Eu quero descobrir.
 Você também, &lt;nickname&gt;?&lt;wait&gt;</Entry>
   <Entry Index="3929">Ugh... Agh... Com esses... chutes, acho que
 vou dar à luz logo.&lt;wait&gt;</Entry>
-  <Entry Index="3930">¡&lt;nickname&gt;! Você também fará o seu melhor!
+  <Entry Index="3930">&lt;nickname&gt;! Você também fará o seu melhor!
 &lt;gender&gt;("Nós dois","Nós duas") nos sairemos muito bem!&lt;wait&gt;</Entry>
   <Entry Index="3931">Os bebês são muito fofos, não são?&lt;wait&gt;</Entry>
   <Entry Index="3932">&lt;childname&gt; é a coisa mais fofa do mundo,
