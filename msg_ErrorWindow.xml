@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entries Count="10">
-  <Entry Index="0">Oh não! A minha Mochila está cheia. Não há espaço para colocar
-isto.</Entry>
-  <Entry Index="1">Oh não! O Bolso da Ferramenta está cheio.
+  <Entry Index="0">Ah não! A minha Mochila está cheia. Não há espaço 
+para colocar isto.</Entry>
+  <Entry Index="1">Ah não! O Mochila está cheia.
 Não há espaço para colocar isto.</Entry>
   <Entry Index="2">Opa! Não posso entrar com o cavalo.</Entry>
   <Entry Index="3">Isto deve ser algo que o meu Mascote trouxe.</Entry>
   <Entry Index="4">Eu não posso enviar isso.</Entry>
   <Entry Index="5">Eu encontrei: %ls!</Entry>
-  <Entry Index="6">Oh não! Minha Mochila está cheia. Como eu não tenho espaço para
-mais peixe, eu não posso pescar.</Entry>
-  <Entry Index="7">Oh não! Acho que não posso descer aqui.</Entry>
+  <Entry Index="6">Ah não! Minha Mochila está cheia. Como eu não tenho 
+espaço para mais peixe, eu não posso pescar.</Entry>
+  <Entry Index="7">Ah não! Acho que não posso descer aqui.</Entry>
   <Entry Index="8">Eu não posso comer agora.</Entry>
   <Entry Index="9">Não posso colocar mais.</Entry>
 </Entries>
