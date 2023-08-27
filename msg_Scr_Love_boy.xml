@@ -316,11 +316,11 @@ cliente esperando. A comida não vai fugir.&lt;wait&gt;</Entry>
 passar para dar olá?&lt;wait&gt;</Entry>
   <Entry Index="158">Ha ha ha. Bem, que adorável de sua parte.&lt;wait&gt;</Entry>
   <Entry Index="159">Ha ha ha. Bem, que adorável de sua parte.&lt;wait&gt;</Entry>
-  <Entry Index="160">¡&lt;playername&gt;Fico feliz em te ver! Venha e
+  <Entry Index="160">&lt;playername&gt;Fico feliz em te ver! Venha e
 descanse um pouco.&lt;wait&gt;</Entry>
   <Entry Index="161">Sim. Não poderia ter chegado em melhor hora. De fato,
 não sabe a sorte quem tem.&lt;wait&gt;</Entry>
-  <Entry Index="162">¡&lt;playername&gt;Fico feliz em te ver! Venha e
+  <Entry Index="162">&lt;playername&gt;Fico feliz em te ver! Venha e
 descanse um pouco.&lt;wait&gt;</Entry>
   <Entry Index="163">Karen, &lt;playername&gt;, tive uma idéia.&lt;wait&gt;&lt;page&gt;
 Por que você não deixa ele provar o que preparou?&lt;wait&gt;</Entry>
@@ -357,7 +357,7 @@ dizer. Experimente!&lt;wait&gt;</Entry>
   <Entry Index="183">O que houve? Se você não se apressar, vai esfriar.&lt;wait&gt;</Entry>
   <Entry Index="184">AAAAH! &lt;playername&gt;, O que está acontecendo!?
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
-  <Entry Index="185">¡AAAAH! &lt;playername&gt;, O que está acontecendo!?
+  <Entry Index="185">AAAAH! &lt;playername&gt;, O que está acontecendo!?
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
   <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
   <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
@@ -524,7 +524,7 @@ para sempre, &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
 para sempre, &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
   <Entry Index="246">Bom. E agora, para comemorar este grande dia,
 Vamos tirar uma foto em grupo. Todos venham aqui!&lt;wait&gt;</Entry>
-  <Entry Index="247">¡Paa taa taa! ♪ ¡&lt;playername&gt;, parabéns!&lt;wait&gt;&lt;page&gt;
+  <Entry Index="247">Paa taa taa! ♪ &lt;playername&gt;, parabéns!&lt;wait&gt;&lt;page&gt;
 Deixe-me tocar os sinos da fortuna te
 abençoar. Tachan! ♪&lt;wait&gt;</Entry>
   <Entry Index="248">Ah! As coisas finalmente se acalmaram.
@@ -673,9 +673,9 @@ de outra coisa.&lt;wait&gt;</Entry>
   <Entry Index="315">Oh, minha cara... É um problema sacerdotal.
 Eu queria que todos pudessem brincar juntos e
 se divertir, mas...&lt;wait&gt;</Entry>
-  <Entry Index="316">¡Ajá, &lt;playername&gt;! Você chegou em uma ótima
+  <Entry Index="316">Ajá, &lt;playername&gt;! Você chegou em uma ótima
 hora!&lt;wait&gt;</Entry>
-  <Entry Index="317">¡Ajá, &lt;playername&gt;! Você chegou em uma ótima
+  <Entry Index="317">Ajá, &lt;playername&gt;! Você chegou em uma ótima
 hora!&lt;wait&gt;</Entry>
   <Entry Index="318">Oh, Olá, &lt;playername&gt;. nós estávamos procurando
 alguém para brincar com esses dois.&lt;wait&gt;&lt;page&gt;
@@ -790,12 +790,12 @@ Talvez eles te escutem.&lt;wait&gt;</Entry>
   <Entry Index="371">Acho que Rick está certo.</Entry>
   <Entry Index="372">Vocês estão fazendo mal a Lillia.</Entry>
   <Entry Index="373">Viu só? Até &lt;playername&gt; concorda comigo.&lt;wait&gt;</Entry>
-  <Entry Index="374">¡&lt;playername&gt;! Poderia não se intrometer em nossos
+  <Entry Index="374">&lt;playername&gt;! Poderia não se intrometer em nossos
 assuntos particulares? É falta de educação.&lt;wait&gt;</Entry>
   <Entry Index="375">Você não precisa criar uma regra só porque
 &lt;playername&gt; não concorda com você, Rick!&lt;wait&gt;</Entry>
   <Entry Index="376">Agh...&lt;wait&gt;</Entry>
-  <Entry Index="377">¡&lt;playername&gt;! Poderia não se intrometer em nossos
+  <Entry Index="377">&lt;playername&gt;! Poderia não se intrometer em nossos
 assuntos particulares? É falta de educação.&lt;wait&gt;</Entry>
   <Entry Index="378">&lt;playername&gt;, obrigada por ficar do meu lado. Eu
 estou feliz por você ter concordado comigo.&lt;wait&gt;</Entry>
@@ -807,7 +807,7 @@ Obrigada, querida. Obrigada.&lt;wait&gt;</Entry>
   <Entry Index="382">O QUE?! Mas... Mas por quê?&lt;wait&gt;</Entry>
   <Entry Index="383">Viu só? Até &lt;playername&gt; concorda
 que o nosso pai está errado.&lt;wait&gt;</Entry>
-  <Entry Index="384">Agh! ¡&lt;playername&gt;, não acredito! Eu achava
+  <Entry Index="384">Agh! &lt;playername&gt;, não acredito! Eu achava
 que você era mais &lt;gender&gt;("legal","legal")!&lt;wait&gt;</Entry>
   <Entry Index="385">Ei, Popuri. Não fale assim do
 &lt;playername&gt; só porque você está errada.&lt;wait&gt;</Entry>
@@ -878,7 +878,7 @@ Desde que formamos um casal, passar o tempo com você tem
 sido cada vez mais divertido.&lt;wait&gt;&lt;page&gt;
 Eu desejava que pudesse ser assim para sempre... E agora
 meu desejo se tornou realidade.&lt;wait&gt;</Entry>
-  <Entry Index="412">¡Sim, sim, sim! É incrível! Estou muito feliz
+  <Entry Index="412">Sim, sim, sim! É incrível! Estou muito feliz
 nesse momento!&lt;wait&gt;&lt;page&gt;
 Desde que formamos um casal, passar o tempo com você tem
 sido cada vez mais divertido.&lt;wait&gt;&lt;page&gt;
@@ -979,7 +979,7 @@ espera o amanhã.&lt;wait&gt;</Entry>
   <Entry Index="447">Ei, &lt;nickname&gt;. ∀ Hoje é o primeiro dia do resto de
 nossas vidas. Estou morrendo de vontade de saber o que nos
 espera o amanhã.&lt;wait&gt;</Entry>
-  <Entry Index="448">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
+  <Entry Index="448">&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
   <Entry Index="449">Não vi você por aqui antes. Ah, você é o
 &lt;playername&gt;, certo?</Entry>
   <Entry Index="450">Não vi você por aqui antes. Ah, você é a
@@ -1463,10 +1463,10 @@ A sua única resposta é um beicinho.&lt;wait&gt;</Entry>
   <Entry Index="692">Acho que é a idade.&lt;wait&gt;</Entry>
   <Entry Index="693">Talvez ela fale com alguém da mesma
 idade, certo?&lt;wait&gt;</Entry>
-  <Entry Index="694">Já sei! ¡&lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
+  <Entry Index="694">Já sei! &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
 Você poderia encontrar uma maneira de descobrir
 qual é o problema?&lt;wait&gt;</Entry>
-  <Entry Index="695">¡Ya sé! ¡&lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
+  <Entry Index="695">Ya sé! &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
 Você poderia encontrar uma maneira de descobrir
 qual é o problema?&lt;wait&gt;</Entry>
   <Entry Index="696">Você é &lt;gender&gt;("o","a") &lt;gender&gt;("único","única") que pode descobrir. Por favor.
@@ -1776,7 +1776,7 @@ a Elly cozinha, então não me importei, mas...&lt;wait&gt;&lt;page&gt;
 De agora em diante, levarei em consideração as preferências
 de Yu e ensinarei a Elly como cozinhar.&lt;wait&gt;</Entry>
   <Entry Index="842">Gracias, &lt;playername&gt;.
-Ah, ¡antes de que te vayas!&lt;wait&gt;</Entry>
+Ah, antes de que te vayas!&lt;wait&gt;</Entry>
   <Entry Index="843">Obrigada, &lt;playername&gt;.
 Ah, antes de ir!&lt;wait&gt;</Entry>
   <Entry Index="844">Para agradecer, gostaria de lhe dar estas flores
@@ -2407,7 +2407,7 @@ Não foi legal. Sinto muito, &lt;playername&gt;.&lt;wait&gt;</Entry>
 me deixando como um apito! Yippee!&lt;wait&gt;&lt;page&gt;
 Claro que quero ser sua namorada. Desde que você
 não sinta que está se conformando!&lt;wait&gt;</Entry>
-  <Entry Index="1102">¡Então eu não estava sonhando! Você está
+  <Entry Index="1102">Então eu não estava sonhando! Você está
 me deixando como um apito! Yippee!&lt;wait&gt;&lt;page&gt;
 Claro que quero ser sua namorada. Desde que você
 não sinta que está se conformando!&lt;wait&gt;</Entry>
