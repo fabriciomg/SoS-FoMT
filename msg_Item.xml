@@ -608,8 +608,7 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="374">Suco de Frutas</Entry>
   <Entry Index="375">[Bebida]
 Um suco feito a partir da mistura de várias
-frutas. Pode ser bebido, mas não pode ser
-vendido.</Entry>
+frutas. Pode ser bebido, mas não pode ser vendido.</Entry>
   <Entry Index="376">Suco de Vegetais</Entry>
   <Entry Index="377">[Bebida]
 Um suco feito a partir da mistura de várias
@@ -672,10 +671,11 @@ ser vendido.</Entry>
   <Entry Index="415">[Doces]
 Um prato doce de batatas-doces. Pode ser comido,
 mas não pode ser vendido.</Entry>
-  <Entry Index="416">Batata-doce Assada</Entry>
+  <Entry Index="416">Batata-doce assada</Entry>
   <Entry Index="417">[Doces]
-Um prato de batata-doce assado. Clássico aperitivo de inverno!
-Pode ser comida, mas não enviada.</Entry>
+Um prato de batata-doce assada. Clássico 
+aperitivo de inverno! Pode ser comida
+mas não vendida.</Entry>
   <Entry Index="418"></Entry>
   <Entry Index="419"></Entry>
   <Entry Index="420">Ovo Frito</Entry>
