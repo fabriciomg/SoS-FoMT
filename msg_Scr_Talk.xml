@@ -1307,7 +1307,7 @@ incapaz de se comunicar no nível mais básico?&lt;wait&gt;</Entry>
   <Entry Index="579">Bom Dia...&lt;wait&gt;</Entry>
   <Entry Index="580">Você tem muito trabalho de novo? Isso é bom, mas não
 esqueça de reservar um tempo para o seu marido, ok?&lt;wait&gt;</Entry>
-  <Entry Index="581">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
+  <Entry Index="581">&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 Você já terminou o trabalho?&lt;wait&gt;</Entry>
   <Entry Index="582">Que falta de consideração da minha parte.
 Sinto muito...&lt;wait&gt;&lt;page&gt;</Entry>
@@ -7607,8 +7607,8 @@ Trabalhe duro hoje.&lt;wait&gt;</Entry>
 <Entry Index="3216">Ainda não sou um mestre ferreiro, mas estou me
 aproximando aos poucos.&lt;wait&gt;&lt;page&gt;
 Tenho que acompanhar o seu ritmo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-<Entry Index="3217">&lt;gender&gt;("Bem-vindo","Bem-vinda") de volta para casa. Você terminou por hoje? Ou ainda
-está com vontade de ir?&lt;wait&gt;</Entry>
+<Entry Index="3217">&lt;gender&gt;("Bem-vindo","Bem-vinda") de volta para casa. Você 
+terminou por hoje? Ou ainda está com vontade de ir?&lt;wait&gt;</Entry>
 <Entry Index="3218">Ei, tome cuidado para não tropeçar e se machucar se você for
 trabalhar à noite. Suas ferramentas estão em boas
 condições?&lt;wait&gt;</Entry>
