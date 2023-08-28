@@ -235,7 +235,7 @@ gritou: "Duke, me faz TRÊS CAIXAS de vinho!".&lt;wait&gt;&lt;page&gt;
 E três caixas eu fiz. Cada garrafa naquela prateleira é
 parte do lote. Venha, me ajude a pegá-las.&lt;wait&gt;</Entry>
   <Entry Index="118">Felizmente terá que beber com moderação... sinto muito,
-&lt;playername&gt;. Não sabia que eram tantas. ¿Me
+&lt;playername&gt;. Não sabia que eram tantas. Me
 ajuda a levá-las?&lt;wait&gt;</Entry>
   <Entry Index="119">O papai foi realmente longe demais... E como você espera
 que levemos tudo isso só nós dois?&lt;wait&gt;</Entry>
@@ -513,7 +513,7 @@ que construam um belo futuro juntos.&lt;wait&gt;</Entry>
 &lt;gender&gt;("juntos","juntas"), sem dúvida!</Entry>
   <Entry Index="241">Karen, você é a melhor filha que eu poderia ter tido.
 Eu sempre vou te amar. Seja gentil com &lt;playername&gt;,
-¿vale?&lt;wait&gt;</Entry>
+vale?&lt;wait&gt;</Entry>
   <Entry Index="242">Parabéns &lt;gender&gt;("aos dois","as duas")! Espero que tenham um
 ótimo futuro!&lt;wait&gt;</Entry>
   <Entry Index="243">Você está muito elegante! Tenho certeza que terá uma linda
@@ -568,9 +568,9 @@ no mercado durante o dia. Você se importa?&lt;wait&gt;</Entry>
   <Entry Index="270">Perfeito! Amanhã nossa nova vida começa &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
   <Entry Index="271">Ah... Certo. Se você insiste. A partir de amanhã,
 vou passar o dia aqui em casa.&lt;wait&gt;</Entry>
-  <Entry Index="272">E, uh... ¿&lt;nickname&gt;? Estou ansiosa para ficar pelo
+  <Entry Index="272">E, uh... &lt;nickname&gt;? Estou ansiosa para ficar pelo
 resto da minha vida ao seu lado. ∀&lt;wait&gt;</Entry>
-  <Entry Index="273">E, uh... ¿&lt;nickname&gt;? Estou ansiosa para ficar pelo
+  <Entry Index="273">E, uh... &lt;nickname&gt;? Estou ansiosa para ficar pelo
 resto da minha vida ao seu lado. ∀&lt;wait&gt;</Entry>
   <Entry Index="274">Ah! Nãooooo!&lt;wait&gt;</Entry>
   <Entry Index="275">Espere, garota! Volte! Você não pode sair daqui!&lt;wait&gt;</Entry>
@@ -1017,7 +1017,7 @@ Algo fantástico espera por você.&lt;wait&gt;</Entry>
 Afunde seus dentes antes que esfrie.&lt;wait&gt;</Entry>
   <Entry Index="469">Vá em frente, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="470">Vá em frente, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="471">O que achou?&lt;wait&gt;</Entry> <Entry Index="472">¿Está rico, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="471">O que achou?&lt;wait&gt;</Entry> <Entry Index="472">Está rico, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="473">Está bom, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="474">Sim? Ótimo, que bom que gostou!&lt;wait&gt;</Entry>
   <Entry Index="475">Eu sabia que você conseguiria, papai!&lt;wait&gt; Perfeito!&lt;wait&gt;</Entry>
@@ -3661,7 +3661,7 @@ mulheres unidas.&lt;wait&gt;</Entry>
 na frente de todas aquelas pessoas...&lt;wait&gt;&lt;page&gt;
 Mas valeu a pena saber que todos nos desejavam
 o melhor.&lt;wait&gt;&lt;page&gt;
-Y ahora... estamos &lt;gender&gt;("casados","casadas") de verdad, ¿no?&lt;wait&gt;</Entry>
+Y ahora... estamos &lt;gender&gt;("casados","casadas") de verdad, no?&lt;wait&gt;</Entry>
   <Entry Index="1512">Eu estava muito nervosa em ficar
 na frente de todas aquelas pessoas...&lt;wait&gt;&lt;page&gt;
 Mas valeu a pena saber que todos nos desejavam
