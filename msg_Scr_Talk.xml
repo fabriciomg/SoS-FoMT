@@ -469,7 +469,7 @@ de seus animais para o sucesso! Embora eu suponha que
 isso vale para todos os animais, não?&lt;wait&gt;</Entry>
   <Entry Index="202">Hmm? Acho que ainda não nos conhecemos.
 Oi! Eu sou a Popuri! Qual é o seu nome?&lt;wait&gt;&lt;page&gt;
-Ahh, ¿&lt;playername&gt;, Hã? É um prazer te conhecer.&lt;wait&gt;</Entry>
+Ahh, &lt;playername&gt;, Hã? É um prazer te conhecer.&lt;wait&gt;</Entry>
   <Entry Index="203">Ohh, Ual! Você tem um presente de aniversário para mim? Eee!
 Muito obrigado, &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
   <Entry Index="204">Ohh, Ual! Isso é para mim? Você sabia que hoje é
@@ -1564,9 +1564,9 @@ Porque Mineral Town em si é um lugar muito legal...&lt;wait&gt;</Entry>
 Hm?... Vinho não dorme?
 Eu acho o contrario.&lt;wait&gt;</Entry>
   <Entry Index="690">Ah, &lt;playername&gt;.
-De volta à rotina diária. ¿Y tú?&lt;wait&gt;</Entry>
+De volta à rotina diária. E você?&lt;wait&gt;</Entry>
   <Entry Index="691">Ah, &lt;playername&gt;.
-De volta à rotina diária. ¿Y tú?&lt;wait&gt;</Entry>
+De volta à rotina diária. E você?&lt;wait&gt;</Entry>
   <Entry Index="692">Você gosta de vinho, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="693">Você gosta de vinho, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="694">O trabalho me mantém ocupado, mas é um bom
@@ -1778,7 +1778,7 @@ para mim? Não me decepcione agora, ouviu? eu digo isso
 seriamente.&lt;wait&gt;</Entry>
   <Entry Index="781">Obrigado, amigo! eu aprecio isso. Estou ansioso pelo
 envio amanhã.&lt;wait&gt;</Entry>
-  <Entry Index="782">Ei, &lt;playername&gt;. ¿&lt;gender&gt;("Preparado","Preparada") para descansar 
+  <Entry Index="782">Ei, &lt;playername&gt;. &lt;gender&gt;("Preparado","Preparada") para descansar 
 depois de um dia duro de trabalho?&lt;wait&gt;&lt;page&gt;
 Huh! Com certeza você dedica suas horas. Com muito
 gosto, além do mais.&lt;wait&gt;</Entry>
@@ -2470,7 +2470,7 @@ dia com os amigos.&lt;wait&gt;</Entry>
   <Entry Index="1128">Espero que você venha nos visitar mesmo quando a primavera acabar.&lt;wait&gt;</Entry>
   <Entry Index="1129">Não estou triste. Só estou apenas tímido...&lt;wait&gt;</Entry>
   <Entry Index="1130">&lt;gender&gt;("Bem vindo...","Bem vinda...").</Entry>
-  <Entry Index="1131">Hm, ¿&lt;playername&gt;? Você não vai vestir &lt;gender&gt;("mandão","mandona")
+  <Entry Index="1131">Hm, &lt;playername&gt;? Você não vai vestir &lt;gender&gt;("mandão","mandona")
 em mim, vai?&lt;wait&gt;</Entry>
   <Entry Index="1132">Se você quiser me pedir um favor, &lt;playername&gt;, estou 
 ouvindo.&lt;wait&gt;</Entry>
