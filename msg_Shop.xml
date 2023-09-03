@@ -981,13 +981,13 @@ pouco espaço antes.&lt;wait&gt;</Entry>
   <Entry Index="752"></Entry>
   <Entry Index="753"></Entry>
   <Entry Index="754"></Entry>
-  <Entry Index="755">Você entregou sua &lt;string0&gt;, seu
-&lt;cadeia1&gt; e você &lt;string2&gt;, e você tem
-solicitado para melhorar sua &lt;string3&gt;.&lt;wait&gt;</Entry>
+<Entry Index="755">Você entregou &lt;string0&gt;, &lt;string1&gt;,
+e &lt;string2&gt; para o &lt;string3&gt;
+upgrade.&lt;wait&gt;</Entry>
   <Entry Index="756">Martelo</Entry>
   <Entry Index="757">Enxada</Entry>
   <Entry Index="758">Foice</Entry>
-  <Entry Index="759">Chuveiro</Entry>
+  <Entry Index="759">Regador</Entry>
   <Entry Index="760">Machado</Entry>
   <Entry Index="761">Vara de pesca</Entry>
   <Entry Index="762"></Entry>
@@ -1000,7 +1000,7 @@ solicitado para melhorar sua &lt;string3&gt;.&lt;wait&gt;</Entry>
   <Entry Index="769">Enxada</Entry>
   <Entry Index="770">Machado</Entry>
   <Entry Index="771">Martelo</Entry>
-  <Entry Index="772">Chuveiro</Entry>
+  <Entry Index="772">Regador</Entry>
   <Entry Index="773">Vara de pesca</Entry>
   <Entry Index="774">Dias restantes</Entry>
   <Entry Index="775">-</Entry>
@@ -1018,8 +1018,8 @@ solicitado para melhorar sua &lt;string3&gt;.&lt;wait&gt;</Entry>
   <Entry Index="787"></Entry>
   <Entry Index="788">Solicitar processamento?</Entry>
   <Entry Index="789">Ah! Eu vou trabalhar agora. Você se importa de sair?&lt;wait&gt;&lt;page&gt;
-Venha buscar sua &lt;string0&gt; quando
-o tempo especificado expirou.&lt;wait&gt;</Entry>
+Venha buscar a(o) &lt;string0&gt; quando
+o tempo especificado acabar.&lt;wait&gt;</Entry>
   <Entry Index="790">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
 Quando terminar, vou colocar o fabricador de maionese no seu galinheiro,­
