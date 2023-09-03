@@ -466,7 +466,7 @@ em uma máquina de queijo.</Entry>
 em uma máquina de queijo.</Entry>
   <Entry Index="286">Maçã</Entry>
   <Entry Index="287">A fruta da macieira. Pode ser comida ou
-enviada.</Entry>
+vendido.</Entry>
   <Entry Index="288">Mel</Entry>
   <Entry Index="289">Mel de uma colméia. Pode ser comido ou vendido.</Entry>
   <Entry Index="290">Broto de Bambú</Entry>
@@ -474,7 +474,7 @@ enviada.</Entry>
 Pode ser comido ou vendido.</Entry>
   <Entry Index="292">Uva Silvestre</Entry>
   <Entry Index="293">Uma fruta que cresce perto das montanhas. Pode
-ser comida ou enviada.</Entry>
+ser comida ou vendido.</Entry>
   <Entry Index="294">Cogumelo</Entry>
   <Entry Index="295">Um fungo que cresce perto das montanhas. Pode
 ser comido ou vendido.</Entry>
@@ -486,11 +486,11 @@ ser comido... Mas não é muito aconselhável.</Entry>
 montanhas. Se encontrar um, está com sorte!</Entry>
   <Entry Index="300">Planta Azul</Entry>
   <Entry Index="301">Cresce perto das montanhas e recupera um
-pouco do vigor ao comê-la. Se enviada
+pouco do vigor ao comê-la. Se vendido
 com frequência, pode acontecer algo bom.</Entry>
   <Entry Index="302">Planta Verde</Entry>
   <Entry Index="303">Cresce perto das montanhas e, ao comê-la,
-alivia um pouco de fadiga. Se enviada com frequência,
+alivia um pouco de fadiga. Se vendido com frequência,
 pode acontecer algo bom.</Entry>
   <Entry Index="304">Planta Vermelha</Entry>
   <Entry Index="305">Cresce perto dos bosques e florestas. É venenosa,
@@ -600,7 +600,7 @@ Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="370">Okonomiyaki</Entry>
   <Entry Index="371">Uma saborosa panqueca preparada a partir de uma
 massa de farinha de trigo e água que depois é frita.
-Pode ser comida, mas não pode ser enviada.</Entry>
+Pode ser comida, mas não pode ser vendido.</Entry>
   <Entry Index="372">Sanduíche</Entry>
   <Entry Index="373">Prato que consiste em vários ingredientes
 colocados entre duas fatias de pão. Pode
@@ -608,12 +608,11 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="374">Suco de Frutas</Entry>
   <Entry Index="375">[Bebida]
 Um suco feito a partir da mistura de várias
-frutas. Pode ser bebido, mas não pode ser vendido.</Entry>
+frutas. Pode ser bebida, mas não vendida.</Entry>
   <Entry Index="376">Suco de Vegetais</Entry>
   <Entry Index="377">[Bebida]
 Um suco feito a partir da mistura de várias
-verduras. Pode ser bebido, mas não pode ser
-vendido.</Entry>
+verduras. Pode ser bebida, mas não vendida.</Entry>
   <Entry Index="378">Suco Misto</Entry>
   <Entry Index="379">[Bebida]
 Uma mistura de sucos de frutas e verduras.
@@ -621,13 +620,13 @@ Pode ser bebido, mas não vendido.</Entry>
   <Entry Index="380">Batida de Frutas</Entry>
   <Entry Index="381">[Bebida]
 Uma mistura de suco de frutas e leite. Pode
-ser bebida, mas não pode ser enviada.</Entry>
+ser bebida, mas não pode ser vendido.</Entry>
   <Entry Index="382"></Entry>
   <Entry Index="383"></Entry>
   <Entry Index="384">Batida Mista</Entry>
   <Entry Index="385">[Bebida]
 Uma mistura de sucos de frutas e verduras com
-leite. Pode ser bebida, mas não pode ser enviada.</Entry>
+leite. Pode ser bebida, mas não vendida.</Entry>
   <Entry Index="386">Leite de Morango</Entry>
   <Entry Index="387">[Bebida]
 Uma bebida batida com morango e leite. Pode ser
@@ -641,7 +640,7 @@ bebido, mas não pode ser vendido.</Entry>
   <Entry Index="394">Batata Frita</Entry>
   <Entry Index="395">Um prato de batatas descascadas fritas e
 cortadas em pedaços. Irresistivel! Pode ser comida, mas
-não enviada.</Entry>
+não vendida.</Entry>
   <Entry Index="396"></Entry>
   <Entry Index="397"></Entry>
   <Entry Index="398">Ketchup</Entry>
@@ -650,7 +649,7 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="400">Pipoca</Entry>
   <Entry Index="401">Grãos de milho que se abrem ao tostarlos em uma
 frigideira. É divertido mastigá-los. Pode ser
-comida, mas não pode ser enviada.</Entry>
+comida, mas não pode ser vendido.</Entry>
   <Entry Index="402"></Entry>
   <Entry Index="403"></Entry>
   <Entry Index="404">Milho Assado</Entry>
@@ -696,7 +695,7 @@ mas não pode ser vendido.</Entry>
   <Entry Index="430">Manteiga</Entry>
   <Entry Index="431">Preparada a partir de leite batido. Serve de ingrediente
 para muitos pratos. Pode ser comida, mas não pode ser
-enviada.</Entry>
+vendido.</Entry>
   <Entry Index="432">Bolo de Queijo</Entry>
   <Entry Index="433">[Doces]
 Uma sobremesa de queijo ao forno. Delicioso. Pode
@@ -714,7 +713,7 @@ comido, mas não pode ser vendido.</Entry>
   <Entry Index="440">Maçã Assada</Entry>
   <Entry Index="441">[Doces]
 Uma maçã assada, doce e ácida. É quente! Pode
-ser comida, mas não enviada.</Entry>
+ser comida, mas não vendido.</Entry>
   <Entry Index="442">Arroz com Cogumelos</Entry>
   <Entry Index="443">[Bolinho de Arroz]
 Um prato de arroz com cogumelos. Pode ser comido,
@@ -833,7 +832,7 @@ comido, mas não pode ser vendido.</Entry>
   <Entry Index="512">Folhas de Elly</Entry>
   <Entry Index="513">Uma planta medicinal que recupera muita
 resistência e alivia bastante a fadiga. Podem
-ser comidas, mas não pode ser enviadas.</Entry>
+ser comidas, mas não pode ser vendidos.</Entry>
   <Entry Index="514"></Entry>
   <Entry Index="515"></Entry>
   <Entry Index="516"></Entry>
@@ -961,13 +960,13 @@ ser vendido.</Entry>
 ingrediente de cozinha ou vendido.</Entry>
   <Entry Index="598">Pimenta</Entry>
   <Entry Index="599">Um cultivo de outono. Pode ser comida, usada como
-ingrediente de cozinha ou enviada.</Entry>
+ingrediente de cozinha ou vendido.</Entry>
   <Entry Index="600">Laranja</Entry>
   <Entry Index="601">Uma fruta da laranjeira. Pode ser comido ou
 vendido.</Entry>
   <Entry Index="602">Castanha</Entry>
   <Entry Index="603">O fruto de um castanheira. Pode ser comida ou
-enviada. Tem cuidado com sua casca espinhosa!</Entry>
+vendido. Tem cuidado com sua casca espinhosa!</Entry>
   <Entry Index="604">Purê de Batatas</Entry>
   <Entry Index="605">Um prato básico de batatas fervidas e depois
 trituradas. Pode ser comido, mas não pode ser
@@ -978,7 +977,7 @@ Uma sobremesa feita de ovos, leite e farinha de trigo.
 Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="608">Aqua Pazza</Entry>
   <Entry Index="609">Um prato de peixe escalfado em caldo. Pode
-ser comida, mas não pode ser enviada.</Entry>
+ser comida, mas não pode ser vendido.</Entry>
   <Entry Index="610">Ajillo</Entry>
   <Entry Index="611">Uma fritura à que se acrescentam vários
 ingredientes. Cuidado, é quente! Pode ser comido,
@@ -990,10 +989,10 @@ Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="614">Paella</Entry>
   <Entry Index="615">[Bolinho de Arroz]
 Prato cozido a fogo baixo com carne e
-verduras. Pode ser comida, mas não enviada.</Entry>
+verduras. Pode ser comida, mas não vendido.</Entry>
   <Entry Index="616">Sopa de Peixe</Entry>
   <Entry Index="617">Um prato de peixe estufado em caldo. Pode
-ser comida, mas não pode ser enviada.</Entry>
+ser comida, mas não pode ser vendido.</Entry>
   <Entry Index="618">Tofu de Amêndoas</Entry>
   <Entry Index="619">[Doces]
 Uma sobremesa feita com leite. Doce e delicioso. Pode
@@ -1008,7 +1007,7 @@ ser vendido.</Entry>
   <Entry Index="624">Tigela de Frutos do Mar</Entry>
   <Entry Index="625">[Bolinho de Arroz]
 Prato de arroz com rodelas de peixe fresco.
-Pode ser comida, mas não enviada.</Entry>
+Pode ser comida, mas não vendido.</Entry>
   <Entry Index="626">Oden</Entry>
   <Entry Index="627">Um estufado no que se misturam vários
 ingredientes. A melhor parte é o mochi! Pode
@@ -1016,7 +1015,7 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="628">Napolitana</Entry>
   <Entry Index="629">Um prato de massa com molho de tomate.
 Após comer, deixa a boca vermelha! Pode ser
-comida, mas não pode ser enviada.</Entry>
+comida, mas não pode ser vendido.</Entry>
   <Entry Index="630">Ovos Benedict</Entry>
   <Entry Index="631">Um sofisticado prato cujo ingrediente
 principal são os ovos. Pode ser comido,
@@ -1041,14 +1040,14 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="642">Bagna Cauda</Entry>
   <Entry Index="643">Um prato que enriquece o sabor de todas as
 verduras. Pode ser comida, mas não pode ser
-enviada.</Entry>
+vendido.</Entry>
   <Entry Index="644">Carbonara</Entry>
   <Entry Index="645">Um prato de uma deliciosa massa com queijo.
-Pode ser comida, mas não pode ser enviada.</Entry>
+Pode ser comida, mas não pode ser vendido.</Entry>
   <Entry Index="646">Pizza Margarita</Entry>
   <Entry Index="647">Uma clássica pizza italiana com uma base
 de molho de tomate. Pode ser comida, mas não pode
-ser enviada.</Entry>
+ser vendido.</Entry>
   <Entry Index="648">Risoto de Queijo</Entry>
   <Entry Index="649">Um sofisticado prato de queijo e arroz. Pode ser
 comido, mas não pode ser vendido.</Entry>
@@ -1062,18 +1061,18 @@ ser comido, mas não vendido.</Entry>
   <Entry Index="654">Madaleine</Entry>
   <Entry Index="655">[Doces]
 Bolinho fofo com formato de concha. Pode
-ser comida, mas não pode ser enviada.</Entry>
+ser comida, mas não pode ser vendido.</Entry>
   <Entry Index="656">Torta de Morango</Entry>
   <Entry Index="657">[Doces]
 Uma torta de morango. Pode ser comida, mas não
-pode ser enviada.</Entry>
+pode ser vendido.</Entry>
   <Entry Index="658">Bibimbap</Entry>
   <Entry Index="659">[Bolinho de Arroz]
 Saboroso prato de arroz com ovos passados por água.
 Pode ser comido, mas não vendido.</Entry>
   <Entry Index="660">Pizza de Legumes</Entry>
   <Entry Index="661">Uma pizza italiana com legumes. Pode ser
-comida, mas não pode ser enviada.</Entry>
+comida, mas não pode ser vendido.</Entry>
   <Entry Index="662">Gratinado de Cogumelos</Entry>
   <Entry Index="663">Champinhons ao forno gratinados. Cuidado,
 queimam! Pode ser comido, mas não vendido.</Entry>
@@ -1096,7 +1095,7 @@ forte. Pode ser comido, mas não vendido.</Entry>
   <Entry Index="672">Casca Cristalizadas</Entry>
   <Entry Index="673">[Doces]
 Aperitivo de casca de laranja coberta de açúcar.
-Pode ser comida, mas não enviada.</Entry>
+Pode ser comida, mas não vendido.</Entry>
   <Entry Index="674">Folhado de laranja</Entry>
   <Entry Index="675">[Pão]
 Um bolo de pão e laranjas. Pode ser comido,
@@ -1298,44 +1297,44 @@ ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="851"></Entry>
   <Entry Index="852">Flor da Lua</Entry>
   <Entry Index="853">Uma flor que floresce na primavera.
-Não pode ser comida, mas pode ser enviada.</Entry>
+Não pode ser comida, mas pode ser vendido.</Entry>
   <Entry Index="854">Flor de Gato Rosa</Entry>
   <Entry Index="855">Uma flor que floresce no verão.
-Não pode ser comida, mas pode ser enviada.</Entry>
+Não pode ser comida, mas pode ser vendido.</Entry>
   <Entry Index="856">Flor Vermelha Mágica Azul</Entry>
   <Entry Index="857">Uma flor azul que nasce das sementes de flor
 vermelha mágica. Não pode ser comida, mas pode ser
-enviada. Floresce no outono.</Entry>
+vendido. Floresce no outono.</Entry>
   <Entry Index="858">Verdadeira Flor Vermelha Mágica</Entry>
   <Entry Index="859">Flor de Outono que nasce das sementes de uma
 flor vermelha mágica. Não pode ser comida, mas pode
-ser enviada.</Entry>
+ser vendido.</Entry>
   <Entry Index="860">Flor de Brinquedo</Entry>
   <Entry Index="861">Uma flor que floresce na primavera.
-Não pode ser comida, mas pode ser enviada.</Entry>
+Não pode ser comida, mas pode ser vendido.</Entry>
   <Entry Index="862">Lã (S)</Entry>
   <Entry Index="863">Lã tosquiada de uma ovelha. Fofa.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="864">Lã (M)</Entry>
   <Entry Index="865">Lã tosquiada de uma ovelha com um nível de
 carinho relativamente alto. Fofa e suave.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="866">Lã (L)</Entry>
   <Entry Index="867">Lã tosquiada de uma ovelha com um nível de
 carinho muito alto. Fofa e muito suave.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="868">Lã (G)</Entry>
   <Entry Index="869">Lã tosquiada de uma ovelha com um nível de
 carinho muito alto. Fofa e extremamente suave.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="870">Lã (P)</Entry>
   <Entry Index="871">Lã tosquiada de uma ovelha com um nível de
 carinho muito alto. Superfofa e suave.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="872">Lã (X)</Entry>
   <Entry Index="873">Lã tosquiada de uma ovelha com um nível de
 carinho muito alto. Da melhor qualidade.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="874">Novelo de Lã (S)</Entry>
   <Entry Index="875">Faz-se processando lã ou pêlo (S) na
 máquina de lã.</Entry>
@@ -1734,27 +1733,27 @@ Pode ser vendido
 .</Entry>
   <Entry Index="1120">Fibra de Alpaca (S)</Entry>
   <Entry Index="1121">Fibra tosquiada de uma alpaca. fofinha.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="1122">Fibra de Alpaca (M)</Entry>
   <Entry Index="1123">Fibra tosquiada de uma alpaca com um nível
 de afeto relativamente alto. Fofa e macia.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="1124">Fibra de Alpaca (L)</Entry>
   <Entry Index="1125">Fibra tosquiada de uma alpaca com um nível
 de afeto muito alto. Fofa e muito macia.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="1126">Fibra de Alpaca (G)</Entry>
   <Entry Index="1127">Fibra tosquiada de uma Alpaca com um nível
 de afeto muito alto. Fofa e extremamente
-macia. Pode ser enviada.</Entry>
+macia. Pode ser vendido.</Entry>
   <Entry Index="1128">Fibra de Alpaca (P)</Entry>
   <Entry Index="1129">Fibra tosquiada de uma alpaca com um nível
 de afeto muito alto. Superfofa e macia.
-Pode ser enviada.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="1130">Fibra de Alpaca (X)</Entry>
   <Entry Index="1131">Fibra tosquiada de uma alpaca com um nível
 de afeto muito alto. Macia como a seda, de
-primerísima qualidade. Pode ser enviada.</Entry>
+primerísima qualidade. Pode ser vendido.</Entry>
   <Entry Index="1132">Material</Entry>
   <Entry Index="1133">Precisará muitas destas pedras quando
 tiver que fazer ampliações na casa.</Entry>
@@ -1779,7 +1778,7 @@ o forno e para criar cercas. Muito versátil.</Entry>
   <Entry Index="1146">Flor do Sol</Entry>
   <Entry Index="1147">Uma nova espécie de flor de outono que se
 foi descoberta recentemente. Não pode ser
-comida, mas pode ser enviada.</Entry>
+comida, mas pode ser vendido.</Entry>
   <Entry Index="1148">Bebida Favorita do Van</Entry>
   <Entry Index="1149">Seja o que for, seria uma boa ideia
 presenta-la ao Van.</Entry>
