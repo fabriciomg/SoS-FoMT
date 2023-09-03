@@ -531,7 +531,7 @@ finamente.</Entry>
   <Entry Index="404">Galinha</Entry>
   <Entry Index="405">Põe um ovo todos os dias.</Entry>
   <Entry Index="406">Galinha marrom</Entry>
-  <Entry Index="407">Uma galinha com penas escuras. colocar um
+  <Entry Index="407">Uma galinha com penas escuras. bota um
 ovo todos os dias.</Entry>
   <Entry Index="408">Coelho angorá</Entry>
   <Entry Index="409">Um coelho de pelo comprido. Se você o cortar,
@@ -1030,7 +1030,7 @@ Quando terminar, vou colocar a máquina de queijo no seu
 celeiro, então não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="792">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar a máquina de lã na sua caneta,
+Quando terminar, vou colocar a máquina de lã na swu celeiro,
 então não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="793">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
@@ -1038,29 +1038,28 @@ Quando terminar, vou colocar a máquina de lã no seu celeiro,
 então não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="794">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando eu terminar vou colocar a máquina de geleia no seu
+Quando eu terminar vou colocar a máquina de geleia no sua
 casa, então não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="795">Muito bom. Estes são o adamantite e o pagamento que eu preciso
 para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar a batedeira no seu celeiro, assim­
+Quando terminar, vou colocar o fabricante de manteiga no seu celeiro,­
 não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="796">EXP</Entry>
-  <Entry Index="797">Trabalho na
-curso</Entry>
+  <Entry Index="797">Trabalho em
+andamento</Entry>
   <Entry Index="798">Em posse</Entry>
   <Entry Index="799">Materiais
 necessários</Entry>
-  <Entry Index="800">Você enviou sua &lt;string0&gt; e você
-&lt;cadeia1&gt; e você solicitou que eu modificasse seu
-&lt;string2&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="800"> Você entregou o(a) &lt;string0&gt; e
+&lt;string1&gt; para a &lt;string2&gt; comissão.&lt;wait&gt;</Entry>
   <Entry Index="801">Essa ferramenta não está pronta para aprimoramento.&lt;wait&gt;</Entry>
-  <Entry Index="802">Você não tem o minério necessário para atualizar esse
+  <Entry Index="802">Você não tem o minério necessário para atualizar essa
 ferramenta. Você pode obtê-lo na mina de primavera.&lt;wait&gt;</Entry>
   <Entry Index="803">Parece que você não tem seu
-&lt;string0&gt; &lt;cadeia1&gt;.
+&lt;string0&gt; &lt;string1&gt;.
 Traga a ferramenta que deseja atualizar.&lt;wait&gt;</Entry>
-  <Entry Index="804">Parece que você não tem minérios que eu possa
-trabalhar.
+  <Entry Index="804">Parece que você não tem minérios para que
+eu possa trabalhar.
 Você pode procurá-lo na mina da primavera.&lt;wait&gt;</Entry>
   <Entry Index="805">Solicitar esta extensão?</Entry>
   <Entry Index="806">Em construção</Entry>
@@ -1138,21 +1137,21 @@ Termina agora. Era assim que funcionava.&lt;wait&gt;</Entry>
   <Entry Index="876"></Entry>
   <Entry Index="877"></Entry>
   <Entry Index="878"></Entry>
-  <Entry Index="879">Vá para casa e verifique seu gramofone. Existe todo o seu
-música!&lt;wait&gt;</Entry>
-  <Entry Index="880">Sua casa atual é muito pequena para ter mais de
-um animal de estimação.&lt;wait&gt;&lt;page&gt;
-Você pode ter mais espaço ao expandi -lo.&lt;wait&gt;</Entry>
+  <Entry Index="879">Vá para casa e verifique seu gramofone.
+A música está toda lá!&lt;wait&gt;</Entry>
+  <Entry Index="880">Sua casa atual é muito pequena para ter mais
+de um animal de estimação.&lt;wait&gt;&lt;page&gt;
+Você pode ter mais espaço ao expandi-la.&lt;wait&gt;</Entry>
   <Entry Index="881">Sua casa atual é pequena demais para ter mais de
 três animais de estimação.&lt;wait&gt;&lt;page&gt;
-Você pode ter mais espaço ao expandi -lo.&lt;wait&gt;</Entry>
+Você pode ter mais espaço ao expandi-la.&lt;wait&gt;</Entry>
   <Entry Index="882"></Entry>
   <Entry Index="883"></Entry>
   <Entry Index="884"></Entry>
   <Entry Index="885"></Entry>
   <Entry Index="886"></Entry>
-  <Entry Index="887">Mmmm... Você se importa se eu pedir para você voltar quando
-Você já se acostumou a ter um animal de estimação?&lt;wait&gt;</Entry>
+  <Entry Index="887">Hmmm... Posso pedir que você volte novamente quando estiver
+um pouco mais acostumado a ser dono de um animal de estimação?&lt;wait&gt;</Entry>
   <Entry Index="888">Você não pode ter mais animais de estimação.</Entry>
   <Entry Index="889"></Entry>
   <Entry Index="890"></Entry>
