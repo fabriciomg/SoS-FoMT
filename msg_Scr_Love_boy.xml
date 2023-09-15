@@ -84,18 +84,22 @@ por isso... Ah, não, agora estou tendo uma dor
 de barriga....&lt;wait&gt;</Entry>
   <Entry Index="43">Ai. Ai, ai, ai. Que dor.&lt;wait&gt;</Entry>
   <Entry Index="44">Uh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="45">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
+  <Entry Index="45">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda").
+    Vem, vocês dois.
 Temos um cliente. Por que vocês não deixam isso pra lá um
 momento?&lt;wait&gt;</Entry>
   <Entry Index="46">Acho que essa é a nossa oportunidade para conseguir a
 opinião de alguém imparcial.&lt;wait&gt;</Entry>
-  <Entry Index="47">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+  <Entry Index="47">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita
+    para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
   <Entry Index="48">Uh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="49">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
+  <Entry Index="49">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda").
+    Vem, vocês dois.
 Temos um cliente. Por que vocês não deixam isso pra lá um
 momento?&lt;wait&gt;</Entry>
-  <Entry Index="50">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+  <Entry Index="50">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita
+    para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
   <Entry Index="51">Veja, o filho de um parente acaba de ser internado
 no hospital.&lt;wait&gt;</Entry>
@@ -189,11 +193,10 @@ mal-educado. Não pode impor uma tarefa pra alguem assim
 sem mais nem menos.&lt;wait&gt;&lt;page&gt;
 Além disso, isso pode ser feito em um instante.
 Eu mesmo posso fazer isso sozinha.&lt;wait&gt;</Entry>
-  <Entry Index="96">Sim, eu sei que você é uma garota crescida. Só não quero que você
-fique emocionada e deixe cair pelo caminho, entendeu?&lt;wait&gt;</Entry>
-  <Entry Index="97">Agh. Não sou TÃO desajeitada assim, pai.
-Se alguém fosse deixar cair pelo caminho,
-esse alguém seria você. Ainda que...&lt;wait&gt;</Entry>
+  <Entry Index="96">Sim, eu sei que você é uma garota crescida. Só não quero
+    que você fique emocionada e deixe cair pelo caminho, entendeu?&lt;wait&gt;</Entry>
+  <Entry Index="97">Agh. Não sou TÃO desajeitada assim, pai. Se alguém fosse
+    deixar cair pelo caminho, esse alguém seria você. Ainda que...&lt;wait&gt;</Entry>
   <Entry Index="98">Já sei! &lt;playername&gt;, Por que você não vai buscar
 aquele lote de vinho com a Karen?&lt;wait&gt;</Entry>
   <Entry Index="99">Papai, &lt;playername&gt; está muito &lt;gender&gt;("ocupado","ocupada"), não seja
@@ -361,10 +364,9 @@ Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
   <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
   <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
-Você desmaiou na casa de Karen. Ela o trouxe
-até aqui.&lt;wait&gt;&lt;page&gt;
-Eu te examinei e não parece haver nada de errado, mas
-sugiro que fique aqui e descanse um pouco.&lt;wait&gt;</Entry>
+Você desmaiou na casa de Karen. Ela o trouxe até aqui.&lt;wait&gt;&lt;page&gt;
+Eu te examinei e não parece haver nada de errado, mas sugiro que fique aqui
+    e descanse um pouco.&lt;wait&gt;</Entry>
   <Entry Index="188">Oh, meu deus! Eu estava tão preocupada. Fico contente
 que você acordou.&lt;wait&gt;</Entry>
   <Entry Index="189">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
@@ -1265,9 +1267,9 @@ Podemos conversar em particular aqui, certo?&lt;wait&gt;</Entry>
   <Entry Index="604">Bem, sobre o que estavamos conversando antes...
 Hm... Podemos esclarecer uma coisa?&lt;wait&gt;</Entry>
   <Entry Index="605">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
-que quer ficar conmigo?&lt;wait</Entry>
+que quer ficar comigo?&lt;wait&gt;</Entry>
   <Entry Index="606">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
-que quer ficar conmigo?&lt;wait</Entry>
+que quer ficar comigo?&lt;wait&gt;</Entry>
   <Entry Index="607">Aaah! Estou mais feliz do que um piso recém-polido!&lt;wait&gt;</Entry>
   <Entry Index="608">Sonhei com este dia desde que começamos a sair.&lt;wait&gt;&lt;page&gt;
 Você se tornou tão importante para mim, &lt;playername&gt;.
@@ -1390,7 +1392,7 @@ Onde você está?&lt;wait&gt;</Entry>
   <Entry Index="654">Ah! Mas que surpresa. Tente não me assustar assim
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Uh? Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
-  <Entry Index="655">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio ler alguns livros? Hein?&lt;wait&gt;&lt;page?
+  <Entry Index="655">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio ler alguns livros? Hein?&lt;wait&gt;&lt;page&gt;
 Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
   <Entry Index="656">Bem, a verdade é que estou escrevendo um romance e
 há um livro que eu queria usar como referência.&lt;wait&gt;&lt;page&gt;
@@ -2642,7 +2644,7 @@ Acho que vou passar o dia sorrindo.
 Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
 Bem, eu deveria voltar. Mal posso esperar para ver como
 será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1192">&lt;playername&gt;!&lt;wait</Entry>
+  <Entry Index="1192">&lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="1193">Olá.
 Eu vim te ver.&lt;wait&gt;&lt;page&gt;
 Você teria tempo para ir a algum lugar?&lt;wait&gt;</Entry>
