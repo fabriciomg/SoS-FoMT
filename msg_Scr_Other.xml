@@ -2102,7 +2102,7 @@ não te vejo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Vou ficar o verão inteiro,
 Espero vê-lo aqui.&lt;wait&gt;</Entry>
   <Entry Index="1116">Olá, como vai, &lt;playername&gt;? Quanto tempo, certo?
-Quero ver você por aqui.&lt;wait&lt;page&gt;
+Quero ver você por aqui.&lt;wait&gt;&lt;page&gt;
 Eu vou ficar o verão todo, então não se esconda e venha
 me ver, hein?&lt;wait&gt;</Entry>
   <Entry Index="1117">Como vai, &lt;playername&gt;? Já se passaram eras desde que
@@ -2633,7 +2633,7 @@ Desejo-lhe uma boa noite.&lt;wait&gt;</Entry>
 Por que você sempre tem que brigar? não podemos
 ser amigos?&lt;wait&gt;</Entry>
   <Entry Index="1315">Isso não tem nada a ver com você. Fique fora disso.&lt;wait&gt;</Entry>
-  <Entry Index="1316">Sim, tenho algo a ver com isso! Eu...&lt;aguardo&gt;</Entry>
+  <Entry Index="1316">Sim, tenho algo a ver com isso! Eu...&lt;wait&gt;</Entry>
   <Entry Index="1317">Eu disse para ficar fora disso!&lt;wait&gt;</Entry>
   <Entry Index="1318">Ok, &lt;playername&gt;. Alguma coisa para dizer antes
 de morrer?&lt;wait&gt;</Entry>
@@ -4664,7 +4664,7 @@ Espero que da próxima vez possamos fazê-lo.&lt;wait&gt; </Entry>
   <Entry Index="2350">Bolo de Queijo</Entry>
   <Entry Index="2351">Hmm. O que eu quero? Bem, porque não
 &lt;low&gt;&lt;string0&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="2352">Aqui está! Eu sabia que você faria algo bom, &lt; playername &gt;.&lt;wait&gt;</Entry>
+  <Entry Index="2352">Aqui está! Eu sabia que você faria algo bom, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="2353">Quero &lt;low&gt;&lt;string0&gt;. vai ser muito difícil
 cozinhar?&lt;wait&gt;&lt;page&gt;
 Bem, não se machuque nem nada.&lt;wait&gt;</Entry>
@@ -5998,7 +5998,7 @@ Não é, &lt;nickname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3242">Estou me divertindo muito vendo você engolir a comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
 Espero que possamos celebrar &lt;gender&gt;("juntos", "juntas") todos os anos.
-Não é, &lt;nickname&gt;? ∀ E você também, &lt;nome da &lt;childname&gt;? ∀&lt;wait&gt;</Entry>
+Não é, &lt;nickname&gt;? ∀ E você também, &lt;childname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3243">Estou me divertindo muito vendo você engolir sua comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
 Espero que possamos celebrar &lt;gender&gt;("juntos", "juntos") todos os anos.
@@ -6816,10 +6816,10 @@ poderei ficar muito em casa. Cuide da casa para mim.&lt;wait&gt;</Entry>
   <Entry Index="3604">Meu aniversário? Bem, você está completamente errado.
 Tchau!&lt;wait&gt;</Entry>
   <Entry Index="3605">É isso. É o nosso aniversário. Eu sabia que você não
-esqueceria um dia tão importante, &lt; playername &gt;.&lt;wait&gt;&lt;page&gt;
+esqueceria um dia tão importante, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 A propósito, tenho um presente para você.&lt;wait&gt;</Entry>
   <Entry Index="3606">É isso. É o nosso aniversário. Eu sabia que você não
-esqueceria um dia tão importante, &lt; playername &gt;.&lt;wait&gt;&lt;page&gt;
+esqueceria um dia tão importante, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 A propósito, tenho um presente para você.&lt;wait&gt;</Entry>
   <Entry Index="3607">Quero lhe dar seu presente, solte o que você tem
 em suas mãos.&lt;wait&gt;</Entry>
@@ -7074,13 +7074,13 @@ Sim, hoje é meu aniversário.&lt;wait&gt;</Entry>
   <Entry Index="3705">E pensar que chegou a hora de eu
 querer comemorar meu aniversário...&lt;wait&gt;&lt;page&gt;
 E não só isso, mas o simples ato de sentar
-com você na mesa para conversar me enche de felicidade.&lt;wait&gt;&lt;pagina&gt;
+com você na mesa para conversar me enche de felicidade.&lt;wait&gt;&lt;page&gt;
 Se eu nunca tivesse te conhecido, eu não teria vivido
 essas coisas na minha vida. Nunca.&lt;wait&gt;</Entry>
   <Entry Index="3706">E pensar que chegou a hora eu
 querer comemorar meu aniversário...&lt;wait&gt;&lt;page&gt;
 E não só isso, mas o simples ato de sentar
-com você na mesa para conversar me enche de felicidade.&lt;wait&gt;&lt;pagina&gt;
+com você na mesa para conversar me enche de felicidade.&lt;wait&gt;&lt;page&gt;
 Se eu nunca tivesse te conhecido, eu não teria vivido
 essas coisas na minha vida. Nunca.&lt;wait&gt;&lt;page&gt;</Entry>
   <Entry Index="3707">&lt;nickname&gt;, você não quer se preocupar com
