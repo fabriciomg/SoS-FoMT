@@ -208,7 +208,7 @@ aproveitá-lo ao máximo!&lt;wait&gt;</Entry>
   <Entry Index="189">Ouça a explicação novamente.</Entry>
   <Entry Index="190">Ok, vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="191">N.º 1 &lt;string1&gt;
-N.º 2 &lt;string2&gt;&lt;esperar&gt;&lt;página&gt;
+N.º 2 &lt;string2&gt;&lt;wait&gt;&lt;page&gt;
 N.º 3 &lt;string3&gt;
 N.º 4 &lt;string4&gt;&lt;wait&gt;&lt;page&gt;
 A corrida começará em instantes.&lt;wait&gt;&lt;page&gt;
