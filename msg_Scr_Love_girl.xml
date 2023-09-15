@@ -239,8 +239,8 @@ Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
   <Entry Index="112">Ah! Aquele relógio! Eu me lembro!
 Rick deu para você? Entendi.
 Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
-  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
-  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="115">&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt; Como você está hoje? Ótimo, pelo que vejo.&lt;wait&gt;</Entry>
   <Entry Index="116">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="117">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
@@ -551,7 +551,7 @@ Os sintomas aliviaram, então não há com o que
 se preocupar. Ao menos por enquanto.&lt;wait&gt;</Entry>
   <Entry Index="241">Sério? Muito obrigado, Doutor.&lt;wait&gt;</Entry>
   <Entry Index="242">Meu Deus! Eu quase tive um ataque cardíaco.
-&lt;nomedojogador&gt; é mais forte que um carvalho, mas
+&lt;playername&gt; é mais forte que um carvalho, mas
 de repente ficou cambaleando...&lt;wait&gt;&lt;page&gt;
 E caiu na minha frente. Eu estava com medo que tivesse 
 contraído alguma doença perigosa.&lt;wait&gt;</Entry>
@@ -598,7 +598,7 @@ Descanse até recuperar todas as suas forças. Ok?&lt;wait&gt;</Entry>
 amuleto que encontrei em uma de minhas viagens.
 Você pode ficar com ele.&lt;wait&gt;</Entry>
   <Entry Index="262">Sei que trabalhar na fazenda não é fácil, mas não se
-esforce mais. Entendido?&lt;esperar&gt;</Entry>
+esforce mais. Entendido?&lt;wait&gt;</Entry>
   <Entry Index="263">Bom. É melhor eu ir. Não saia da cama 
 até que você esteja totalmente recuperado,
 você me entendeu? Não me me faça vir e
@@ -738,10 +738,10 @@ ser feitos, acho que teremos que adiar a cerimônia
 até o primeiro dia de outono.&lt;wait&gt;</Entry>
   <Entry Index="311">Ótimo! Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="312">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Kai em
+celebrar a união de &lt;playername&gt; e Kai em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="313">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Kai em
+celebrar a união de &lt;playername&gt; e Kai em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="314">&lt;playername&gt;. Kai. Vocês juram serem fiéis
 pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
@@ -996,7 +996,7 @@ excelentes vistas do topo.&lt;wait&gt;</Entry>
   <Entry Index="420">Nem outra palavra. Você já trabalhou o suficiente 
 por hoje. Vou terminar o resto.&lt;wait&gt;</Entry>
   <Entry Index="421">Mas... não posso deixar você fazer isso. Eu aceitei 
-o trabalho e agora tenho que...&lt;esperar&gt;</Entry>
+o trabalho e agora tenho que...&lt;wait&gt;</Entry>
   <Entry Index="422">Cliff. Se me lembro bem...&lt;wait&gt;&lt;page&gt;
 ... você ainda não agradeceu &lt;playername&gt; como
 ele merece por ajudá-lo a conseguir este emprego.&lt;wait&gt;&lt;page&gt;
@@ -1137,8 +1137,8 @@ pensão esta noite. Certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="476">Isso mesmo, Cliff.&lt;wait&gt;</Entry>
   <Entry Index="477">Você terminou suas tarefas, então vá em frente!
 Nós cuidamos do resto.&lt;wait&gt;</Entry>
-  <Entry Index="478">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;esperar&gt;</Entry>
-  <Entry Index="479">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;esperar&gt;</Entry>
+  <Entry Index="478">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;wait&gt;</Entry>
+  <Entry Index="479">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;wait&gt;</Entry>
   <Entry Index="480">O especial de hoje foi muito bom.&lt;wait&gt;</Entry>
   <Entry Index="481">Quero dizer, sempre é, mas...
 Hoje foi em outro nível.
@@ -1256,10 +1256,10 @@ uma semana. Deixe comigo, Cliff!&lt;wait&gt;</Entry>
   <Entry Index="526">Você não sabe o que isso significa para mim, Duke...
 Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="527">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Cliff em
+celebrar a união de &lt;playername&gt; e Cliff em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="528">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Cliff em
+celebrar a união de &lt;playername&gt; e Cliff em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="529">&lt;playername&gt;. Cliff. Vocês juram serem fiéis
 pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
@@ -1472,7 +1472,7 @@ Mas parece que há algo que o aflige. É refletido
 nas ferramentas que cria.&lt;wait&gt;</Entry>
   <Entry Index="623">Gray!&lt;wait&gt;</Entry>
   <Entry Index="624">E aí, vovô?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="625">Gray, você pode parar por hoje.&lt;wait&gt;</Entry>
   <Entry Index="626">Você está brincando comigo?
 Você nunca me deixa eu sair mais cedo.&lt;wait&gt;</Entry>
@@ -1598,10 +1598,10 @@ Com tudo o que precisa ser feito, devemos poder realizar
 a cerimônia em cerca de uma semana.&lt;wait&gt;</Entry>
   <Entry Index="664">Entendi. Deixo em suas mãos, vovô.&lt;wait&gt;</Entry>
   <Entry Index="665">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Gray em
+celebrar a união de &lt;playername&gt; e Gray em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="666">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Gray em
+celebrar a união de &lt;playername&gt; e Gray em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="667">&lt;playername&gt;. Gray. Vocês juram serem fiéis
 pelo de resto suas vidas...&lt;wait&gt;&lt;page&gt;
@@ -1956,7 +1956,7 @@ pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
 ... e ase amarem e se respeitarem nas alegrias e
 nas tristezas, na saúde e na doença?
 Agora e para sempre?&lt;wait&gt;</Entry>
-  <Entry Index="792">Você está radiante. ♪&lt;esperar&gt;</Entry>
+  <Entry Index="792">Você está radiante. ♪&lt;wait&gt;</Entry>
   <Entry Index="793">&lt;playername&gt;! Doutor!
 Desejo-lhes o melhor nesta nova etapa das
 suas vida!&lt;wait&gt;</Entry>
@@ -2344,7 +2344,7 @@ Estou animado com o nosso futuro juntos, embora
 as coisas não mudem muito.&lt;wait&gt;</Entry>
   <Entry Index="1021">De qualquer forma, tenho que voltar ao trabalho.
 Até mais!&lt;wait&gt;</Entry>
-  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo", "Bem-vinda")!&lt;wait&gt;
+  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;
 Gostaria de comer algo?&lt;wait&gt;</Entry>
   <Entry Index="1023">Hein? Se eu tiver algum tempo livre, você quer
 ir pescar?&lt;wait&gt;</Entry>
@@ -2594,8 +2594,8 @@ estávamos passando e...&lt;wait&gt;</Entry>
   <Entry Index="1121">Ei, o que você está...?!&lt;wait&gt;</Entry>
   <Entry Index="1122">Ei, o que você está...?!&lt;wait&gt;</Entry>
   <Entry Index="1123">Oooooo! Beeen!
-Vamos brincar! ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1124">Brinque, Brinque! ♪&lt;esperar&gt;</Entry>
+Vamos brincar! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1124">Brinque, Brinque! ♪&lt;wait&gt;</Entry>
   <Entry Index="1125">Com tantas pessoas, podemos brincar de
 muitos jogos diferentes. Qual você acha mais
 divertido? ♪&lt;wait&gt;</Entry>
@@ -2627,7 +2627,7 @@ mas Cliff é ainda mais!&lt;wait&gt;</Entry>
   <Entry Index="1140">Sim, &lt;playername&gt; é muito rápido, 
 mas Cliff é ainda mais!&lt;wait&gt;</Entry>
   <Entry Index="1141">Ele me encontrou imediatamente no jogo
-de esconde-esconde! ♪&lt;esperar&gt;</Entry>
+de esconde-esconde! ♪&lt;wait&gt;</Entry>
   <Entry Index="1142">Sério? Devo ter tido sorte.&lt;wait&gt;</Entry>
   <Entry Index="1143">Bem, é melhor irmos para casa.&lt;wait&gt;</Entry>
   <Entry Index="1144">Tchau!
@@ -2779,9 +2779,9 @@ Então eu aceito. Vamos tentar.&lt;wait&gt;</Entry>
 Bem, eu vou indo agora.
 Até depois.&lt;wait&gt;</Entry>
   <Entry Index="1208">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1209">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1210">O vovô está fora, cuidando de alguns negócios.&lt;wait&gt;</Entry>
   <Entry Index="1211">Desculpe, mas se você quiser falar com ele,
 terá que voltar mais tarde.&lt;wait&gt;</Entry>
@@ -3187,7 +3187,7 @@ muito satisfatória.&lt;wait&gt;</Entry>
   <Entry Index="1332">Não me imite.</Entry>
   <Entry Index="1333">O trabalho duro compensa.</Entry>
   <Entry Index="1334">Ah... Desculpe. Eu deveria ter pedido sua
-permissão antes?&lt;esperar&gt;&lt;page&gt;
+permissão antes?&lt;wait&gt;&lt;page&gt;
 Desculpe se magoei seus sentimentos.&lt;wait&gt;</Entry>
   <Entry Index="1335">Eu sei. Essa maneira de pensar foi exatamente o que 
 estava me fazendo desaparecer, não só como médico,
@@ -3382,7 +3382,7 @@ para mim?&lt;wait&gt;</Entry>
   <Entry Index="1401">Mas...uh...&lt;wait&gt;&lt;page&gt;
 Está bem. Eu odeio pedir para você sujar as mãos, mas
 tudo bem, se você não se importa...&lt;wait&gt;</Entry>
-  <Entry Index="1402">O quê? Mas não posso pedir para você...&lt;esperar&gt;&lt;page&gt;
+  <Entry Index="1402">O quê? Mas não posso pedir para você...&lt;wait&gt;&lt;page&gt;
 Embora... A verdade é que eu já estou causando bastante
 aborrecimento para Gotts. Não quero causar-lhe mais.&lt;wait&gt;&lt;page&gt;
 Então, se você não se importar, poderia pedir que
@@ -3511,7 +3511,7 @@ de mudar meu comportamento.&lt;wait&gt;</Entry>
 esses artistas.&lt;wait&gt;&lt;page&gt;
 Ele não me ouve, então eu te pergunto: você pode 
 forçá-lo a comer comida de verdade antes de ficar 
-doente?&lt;esperar&gt;&lt;page&gt;
+doente?&lt;wait&gt;&lt;page&gt;
 Eu? Eu tenho que ir trabalhar. Além disso, vê-lo assim 
 faz minha cabeça explodir.&lt;wait&gt;</Entry>
   <Entry Index="1444">...&lt;wait&gt;&lt;page&gt;
@@ -3682,10 +3682,10 @@ trabalhar aqui sempre que quiser.&lt;wait&gt;&lt;page&gt;
 Seja feliz, está me ouvindo?&lt;wait&gt;</Entry>
   <Entry Index="1493">Nós o faremos.&lt;wait&gt;</Entry>
   <Entry Index="1494">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Brandon em
+celebrar a união de &lt;playername&gt; e Brandon em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="1495">Queridos irmãos, estamos reunidos aqui hoje para
-celebrar a união de &lt;nomedojogador&gt; e Brandon em
+celebrar a união de &lt;playername&gt; e Brandon em
 sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="1496">&lt;playername&gt;. Brandon. Vocês juram serem fiéis
 pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
@@ -3765,7 +3765,7 @@ agora posso fazer coisas simples como esta.&lt;wait&gt;&lt;page&gt;
 Eu disse para mim mesmo: "Se eu fizer algo legal,
 eu darei para &lt;playername&gt;".&lt;wait&gt;</Entry>
   <Entry Index="1520">E aí, vovô?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1521">Hum... Olá. Acho que é um bom momento para 
 perguntar a si mesmo.&lt;wait&gt;&lt;page&gt;
 Você está planejando ficar nesta cidade por muito
@@ -3792,7 +3792,7 @@ tirar aquela expressão mal-humorada.&lt;wait&gt;&lt;page&gt;
 Tentei falar com ele, mas ele me ignora 
 completamente.&lt;wait&gt;&lt;page&gt;
 Se você não tiver planos hoje, poderia tentar falar
-com ele?&lt;esperar&gt;</Entry>
+com ele?&lt;wait&gt;</Entry>
   <Entry Index="1529">Você é da terra da loucura ou o quê?</Entry>
   <Entry Index="1530">Você deve ter mais cuidado.</Entry>
   <Entry Index="1531">Quantas vezes já ouvi algo assim? Chega um ponto
