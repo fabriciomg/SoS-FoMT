@@ -186,7 +186,7 @@ O que ele está fazendo? Quando irá voltar? Não sabemos,
 porque não tivemos notícias dele novamente. Eu sei que
 a mamãe sente a sua falta.&lt;wait&gt;</Entry>
   <Entry Index="89">Ah... Nossa, desculpe. Este relógio traz de volta
-memórias e eu me perdi lembrando do papai.&lt;espera&gt;&lt;page&gt;
+memórias e eu me perdi lembrando do papai.&lt;wait&gt;&lt;page&gt;
 Estou aborrecendo você, eu sei.&lt;wait&gt;</Entry>
   <Entry Index="90">Sim, suas histórias são péssimas.</Entry>
   <Entry Index="91">Você não está me entediando.</Entry>
@@ -628,7 +628,7 @@ muito tempo.&lt;wait&gt;</Entry>
 você não faz uma pausa e vem ver o mar comigo?&lt;wait&gt;</Entry>
   <Entry Index="273">Nossa, não há nada melhor do que o cheiro salgado
 do mar entrando pelas narinas e o som das
-ondas, né?&lt;espera&gt;</Entry>
+ondas, né?&lt;wait&gt;</Entry>
   <Entry Index="274">Às vezes eu gostaria de sentar aqui, desligar o 
 cérebro e olhar para o mar para sempre...&lt;wait&gt;</Entry>
   <Entry Index="275">Hein? Você acha que há algo me incomodando?&lt;wait&gt;</Entry>
@@ -1980,7 +1980,7 @@ Como devemos nos chamar de agora em diante?&lt;wait&gt;</Entry>
 intenção de continuar trabalhando na clínica para o
 bem dessas pessoas.&lt;wait&gt;</Entry>
   <Entry Index="803">Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="804">Bem, &lt;apelido&gt;...
+  <Entry Index="804">Bem, &lt;nickname&gt;...
 Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
   <Entry Index="805">0</Entry>
   <Entry Index="806">0</Entry>
@@ -2140,7 +2140,7 @@ rápido que nem te vi.&lt;wait&gt;</Entry>
 estou ocupado agora e acho que eu 
 não posso escapar.&lt;wait&gt;&lt;page&gt;
 Acabei de encomendar nosso estoque, e agora
-eu tenho que alimentar as galinhas.&lt;espera&gt;&lt;pagina&gt;
+eu tenho que alimentar as galinhas.&lt;wait&gt;&lt;page&gt;
 Popuri saiu, foi quem sabe onde, então não pode
 me ajudar no armazém agora e...&lt;wait&gt;</Entry>
   <Entry Index="946">O quê? Você vai me ajudar a alimentar
@@ -3539,7 +3539,7 @@ culinárias, o mínimo que posso fazer é provar.&lt;wait&gt;</Entry>
   <Entry Index="1451">Hmm. O que eu preparo?</Entry>
   <Entry Index="1452">Algo leve com legumes.</Entry>
   <Entry Index="1453">Algo forte e satisfatório.</Entry>
-  <Entry Index="1454">Hmm. Que cheirinho delicioso.&lt;wait&gt;&lt;pagina&gt;
+  <Entry Index="1454">Hmm. Que cheirinho delicioso.&lt;wait&gt;&lt;page&gt;
 Eu não gosto muito de vegetais, mas é possível que
 a necessidade de vitaminas do meu corpo está fazendo
 com que abra meu apetite.&lt;wait&gt;&lt;page&gt;
