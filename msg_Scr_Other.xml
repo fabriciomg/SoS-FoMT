@@ -412,13 +412,13 @@ Hoje, a partir das 18:00, começará uma festa para
 para dizer adeus ao ano.&lt;wait&gt;&lt;page&gt;
 Ainda estamos nos preparativos, mas espero que você
 apareça depois para comemorar.&lt;wait&gt;</Entry>
-  <Entry Index="217">Ah. Você está &lt;gender&gt;"acordado", "acordada")? Você desmaiou e eles
+  <Entry Index="217">Ah. Você está &lt;gender&gt;("acordado","acordada")? Você desmaiou e eles
 trouxeram você aqui. Felizmente, é apenas um caso de
 exaustão devido ao esforço excessivo.&lt;wait&gt;&lt;page&gt;
 Você não deve exigir tanto de si. Se você se sentir mal, o
 melhor é que você descanse um pouco. Hoje você vai passar o
 resto do dia fazendo exatamente isso. São ordens do Doutor.&lt;wait&gt;</Entry>
-  <Entry Index="218">Ah. Você está &lt;gender&gt;"acordado", "acordada")? Parece que você
+  <Entry Index="218">Ah. Você está &lt;gender&gt;("acordado","acordada")? Parece que você
 exigiu demais de você e desmaiou.&lt;wait&gt;</Entry>
   <Entry Index="219">Você não deveria se esforçar tanto. Se você se cansar,
 sente-se por um tempo para descansar.&lt;wait&gt;&lt;page&gt;
@@ -467,7 +467,7 @@ deles. Tentarei me curar em breve para eles.&lt;wait&gt;</Entry>
 certo?&lt;wait&gt;</Entry>
   <Entry Index="239">Ah! Olá, &lt;playername&gt;. Hoje é um dia esplêndido,
 certo?&lt;wait&gt;</Entry>
-  <Entry Index="240">Olá. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="240">Olá. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="241">E aí, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="242">&lt;nickname&gt;, você veio!&lt;wait&gt;</Entry>
   <Entry Index="243">Hein? Você acha que estou de bom humor hoje?&lt;wait&gt;&lt;page&gt;
@@ -697,8 +697,8 @@ Você veio me pedir alguma coisa?&lt;wait&gt;</Entry>
 E isso também.&lt;wait&gt;</Entry>
   <Entry Index="378">Umm. Muito bem.&lt;wait&gt;</Entry>
   <Entry Index="379">Certo?&lt;wait&gt;</Entry>
-  <Entry Index="380">Olá, &lt;playername&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
-  <Entry Index="381">Olá, &lt;nickname&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="380">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="381">Olá, &lt;nickname&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="382">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="383">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="384">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
@@ -826,7 +826,7 @@ Estou preocupado com sua saúde...&lt;wait&gt;</Entry>
   <Entry Index="445">Sinto muito, &lt;playername&gt;. Você veio para nos fazer
 uma visita e você encontrou essa briga.
 Espero não ter incomodado você.&lt;wait&gt;</Entry>
-  <Entry Index="446">&lt;gender&gt;"Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="446">&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="447">Uau, se não é &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;</Entry>
   <Entry Index="448">Veio fazer compras?&lt;wait&gt;&lt;page&gt;
 Oh eu? Eu vim conversar com Sasha, e a propósito
@@ -909,7 +909,7 @@ Ai...&lt;wait&gt;</Entry>
   <Entry Index="494">Agora, o que eu faço?&lt;wait&gt;</Entry>
   <Entry Index="495">Um pouco disso... e um pouco de...&lt;wait&gt;</Entry>
   <Entry Index="496">Ah, entendi.&lt;wait&gt;</Entry>
-  <Entry Index="497">Nossa, &lt;playername&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="497">Nossa, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="498">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="499">Você quer saber o que estávamos fazendo?&lt;wait&gt;
 Sobremesas! Anna estava me ensinando como fazer todos os tipos de
@@ -1460,8 +1460,8 @@ para fazer!&lt;wait&gt;</Entry>
   <Entry Index="737">Mas... Mas... Baaaaa!&lt;wait&gt;</Entry>
   <Entry Index="738">Eu vou consolá-lo, você pode ir se quiser.&lt;wait&gt;</Entry>
   <Entry Index="739">Desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="740">Olá. &lt;gender&gt;"Bem-vindo", "Bem-vinda")! Entre.&lt;wait&gt;</Entry>
-  <Entry Index="741">Olá, &lt;playername&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="740">Olá. &lt;gender&gt;("Bem-vindo","Bem-vinda")! Entre.&lt;wait&gt;</Entry>
+  <Entry Index="741">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="742">Como está a fazenda? Se precisar de alguma coisa, é só pedir.&lt;wait&gt;</Entry>
   <Entry Index="743">Sim, por favor! Não estamos lhe dizendo isso apenas
 para soar gentil. Se você realmente precisar de algo,
@@ -2050,8 +2050,8 @@ o melhor pai para ela!&lt;wait&gt;</Entry>
   <Entry Index="1085">UNUSED SKIP</Entry>
   <Entry Index="1086">UNUSED SKIP</Entry>
   <Entry Index="1087">UNUSED SKIP</Entry>
-  <Entry Index="1088">Ei, &lt;playername&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
-  <Entry Index="1089">Ei, &lt;nickname&gt;. &lt;gender&gt;"Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="1088">Ei, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="1089">Ei, &lt;nickname&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1090">Poucas pessoas vem aqui hoje em dia. Então não fica lotado.&lt;wait&gt;</Entry>
   <Entry Index="1091">Bom. Não adianta se preocupar. É a vida, não é?
 É isso.&lt;wait&gt;</Entry>
@@ -3308,7 +3308,7 @@ A resposta correta é... meu aniversário.&lt;wait&gt;</Entry>
   <Entry Index="1635">O quê? Nosso aniversário? Você está falando sério?
 A resposta correta é... meu aniversário.&lt;wait&gt;</Entry>
   <Entry Index="1636">Estava vagamente ciente de que às vezes você é um pouco
-&lt;gender&gt;"distraído ","distraída "), &lt;nickname&gt;, mas...&lt;wait&gt;&lt;page&gt;
+&lt;gender&gt;("distraído","distraída "), &lt;nickname&gt;, mas...&lt;wait&gt;&lt;page&gt;
 Eu nunca pensei que essa falta de memória
 se manifestaria justo hoje.&lt;wait&gt;</Entry>
   <Entry Index="1637">Você sempre mantém tudo sob controle que me surpreende
@@ -3486,7 +3486,7 @@ mas também o meu.&lt;wait&gt;</Entry>
 Você quer que fazer um exame médico?&lt;wait&gt;</Entry>
   <Entry Index="1701">Tem que ser muito mal para confundir a data do
 aniversário de &lt;childname&gt; com o seu.&lt;wait&gt;</Entry>
-  <Entry Index="1702">&lt;nickname&gt;... Você está &lt;gender&gt;"cansado","cansada")?
+  <Entry Index="1702">&lt;nickname&gt;... Você está &lt;gender&gt;("cansado","cansada")?
 Fadiga afeta negativamente a memória.&lt;wait&gt;&lt;page&gt;
 Talvez eu esteja dando importância de mais,
 foi apenas um deslize. Mas é melhor você
@@ -3927,7 +3927,7 @@ falarei com o Doutor.&lt;wait&gt;</Entry>
   <Entry Index="1896">Temos que ter cuidado a partir de agora.
 Desculpe, &lt;childname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1897">&lt;childname&gt;! &lt;childname&gt;, espere!&lt;wait&gt;</Entry>
-  <Entry Index="1898">&lt;nickname&gt;, você está &lt;gender&gt;"acordado","acordada")?
+  <Entry Index="1898">&lt;nickname&gt;, você está &lt;gender&gt;("acordado","acordada")?
 Acho que &lt;childname&gt; caiu da cama!&lt;wait&gt;</Entry>
   <Entry Index="1899">Vamos lá.</Entry>
   <Entry Index="1900">Como você pode dizer isso? Uma batida nas costas
@@ -4326,7 +4326,7 @@ meio-dia. Há mais do que suficiente para nós dois.&lt;wait&gt;</Entry>
   <Entry Index="2143">Hmm. Uma refeição deliciosa, se assim posso dizer.&lt;wait&gt;&lt;page&gt;
 E agora os pratos. Você não tem que ficar por aqui
 enquanto eu limpo. Por que você não sai por um minuto?&lt;wait&gt;</Entry>
-  <Entry Index="2144">&lt;gender&gt;"Bem-vindo","Bem-vinda") em casa, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="2144">&lt;gender&gt;("Bem-vindo","Bem-vinda") em casa, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
 Preparei um bufê requintado para o jantar.
 Pode até repetir.&lt;wait&gt;</Entry>
   <Entry Index="2145">Ah, não! &lt;mydogname&gt; Não parece muito bem.&lt;wait&gt;</Entry>
@@ -4519,7 +4519,7 @@ você não se importa.&lt;wait&gt;</Entry>
   <Entry Index="2263">Gostaria de comer &lt;low&gt;&lt;string0&gt;,
 por favor. Se não for pedir muito, é claro.&lt;wait&gt;&lt;page&gt;
 Você não pode cozinhar agora?&lt;wait&gt;</Entry>
-  <Entry Index="2264"> Meu Deus, já está pronto? Você é &lt;gender&gt;("um cozinheiro", "uma cozinheira")
+  <Entry Index="2264"> Meu Deus, já está pronto? Você é &lt;gender&gt;("um cozinheiro","uma cozinheira")
 muito eficaz.&lt;wait&gt;</Entry>
   <Entry Index="2265">Agora é hora de prová-lo.&lt;wait&gt;</Entry>
   <Entry Index="2266">Muito obrigado. Foi incrível.&lt;wait&gt;</Entry>
@@ -5504,7 +5504,7 @@ Quero lhe dar o seu presente.&lt;wait&gt;</Entry>
   <Entry Index="3058">Hein? Espere, não me confunda. Hoje não é seu aniversário.
 É nosso aniversário.&lt;wait&gt;</Entry>
   <Entry Index="3059">Ah! Que idiota você é, &lt;nickname&gt;! Pare de ser
-tão &lt;gender&gt;"maldoso", "maldosa")!&lt;wait&gt;&lt;page&gt;
+tão &lt;gender&gt;("maldoso","maldosa")!&lt;wait&gt;&lt;page&gt;
 Eu até tinha um presente pra você, mas agora eu não
 vou te dar!&lt;wait&gt;</Entry>
   <Entry Index="3060">O que...?&lt;wait&gt;</Entry>
@@ -5572,9 +5572,9 @@ que faz tanto tempo. Eles passaram em um piscar de olhos.&lt;wait&gt;</Entry>
 curiosamente, nossas bodas de ouro!&lt;wait&gt;&lt;page&gt;
 Quanto tempo passou? Cinquenta anos! difícil de acreditar
 que faz tanto tempo. Eles passaram em um piscar de olhos.&lt;wait&gt;</Entry>
-  <Entry Index="3082">E quer saber? Espero que fiquemos &lt;gender&gt;("juntos", "juntoa") outros
+  <Entry Index="3082">E quer saber? Espero que fiquemos &lt;gender&gt;("juntos","juntoa") outros
 cinquenta anos. Eu te amo, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3083">E quer saber? Espero que fiquemos &lt;gender&gt;("juntos", "juntas") outros
+  <Entry Index="3083">E quer saber? Espero que fiquemos &lt;gender&gt;("juntos","juntas") outros
 cinquenta anos. Eu te amo, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
   <Entry Index="3084">Como hoje é nosso dia super especial, tenho um presente
 super especial para você! E é... um rufar de tambores,
@@ -5713,10 +5713,10 @@ adivinhar que dia é hoje.&lt;wait&gt;</Entry>
   <Entry Index="3130">O quê? meu aniversário? &lt;nickname&gt;...
 esqueceu, certo?&lt;wait&gt;</Entry>
   <Entry Index="3131">Hoje é nosso aniversário de casamento. Um dia muito
-importante em nossa vida de &lt;gender&gt;"casado", "casada").&lt;wait&gt;&lt;page&gt;
+importante em nossa vida de &lt;gender&gt;("casado","casada").&lt;wait&gt;&lt;page&gt;
 Isso é... você não se importa?&lt;wait&gt;</Entry>
   <Entry Index="3132">Hoje é nosso aniversário de casamento. Um dia muito
-importante em nossa vida de &lt;gender&gt;("casado", "casada").&lt;wait&gt;&lt;page&gt;
+importante em nossa vida de &lt;gender&gt;("casado","casada").&lt;wait&gt;&lt;page&gt;
 Isso é... você não se importa?&lt;wait&gt;</Entry>
   <Entry Index="3133">Bem... Se você não se importa, não faz sentido... Eu até
 comprei um presente, mas não quero mais dar a você.&lt;wait&gt;</Entry>
@@ -5776,7 +5776,7 @@ comprá-la para nós. Ela é toda nossa agora.&lt;wait&gt;</Entry>
 &lt;childname&gt;, você sabia?&lt;wait&gt;&lt;page&gt;
 Eu não me importo com quanto trabalho você tem, eu não
 entendo como você pode esquecer seu aniversário!
-Que &lt;gender&gt;"idiota","idiota")!&lt;wait&gt;</Entry>
+Que &lt;gender&gt;("idiota","idiota")!&lt;wait&gt;</Entry>
   <Entry Index="3156">Você deve se desculpar mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="3157">Você deve se desculpar mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="3158">Feliz aniversário, &lt;childname&gt;! Nossas vidas são
@@ -5914,13 +5914,13 @@ não me deixe esperando por você! Hee hee hee!&lt;wait&gt;</Entry>
 dia é hoje, certo?&lt;wait&gt;</Entry>
   <Entry Index="3214">Hoje é meu aniversário! O que você quer dizer com "nosso
 aniversário"?&lt;wait&gt;&lt;page&gt;
-Mas que &lt;gender&gt;"maldoso", "maldosa")! Eu estava tão animado porque
+Mas que &lt;gender&gt;("maldoso","maldosa")! Eu estava tão animado porque
 achei que íamos comemorar &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
   <Entry Index="3215">Hoje é meu aniversário! O que você quer dizer com "nosso
 aniversário"?&lt;wait&gt;&lt;page&gt;
-Mas que &lt;gender&gt;"maldoso", "maldosa")! Eu estava tão animado porque
+Mas que &lt;gender&gt;("maldoso","maldosa")! Eu estava tão animado porque
 achei que íamos comemorar &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
-  <Entry Index="3216">O que?! Hoje é meu aniversário! Que &lt;gender&gt;"idiota","idiota")!&lt;wait&gt;</Entry>
+  <Entry Index="3216">O que?! Hoje é meu aniversário! Que &lt;gender&gt;("idiota","idiota")!&lt;wait&gt;</Entry>
   <Entry Index="3217">Você não se importa comigo? E eu estava tão animado.&lt;wait&gt;</Entry>
   <Entry Index="3218">Obrigado por lembrar! Eu sabia que você se lembraria disso,
 &lt;nickname&gt;. Sim, é meu aniversário.&lt;wait&gt;&lt;page&gt;
@@ -5989,19 +5989,19 @@ Você coloca a fazenda antes de tudo, então eu não sabia
 se você ia lembrar ou não.&lt;wait&gt;</Entry>
   <Entry Index="3240">Estou me divertindo muito vendo você engolir a comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Espero que possamos celebrar &lt;gender&gt;("juntos", "juntas") todos os anos.
+Espero que possamos celebrar &lt;gender&gt;("juntos","juntas") todos os anos.
 Não é, &lt;nickname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3241">Estou me divertindo muito vendo você engolir a comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Espero que possamos celebrar &lt;gender&gt;("juntos", "juntas") todos os anos.
+Espero que possamos celebrar &lt;gender&gt;("juntos","juntas") todos os anos.
 Não é, &lt;nickname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3242">Estou me divertindo muito vendo você engolir a comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Espero que possamos celebrar &lt;gender&gt;("juntos", "juntas") todos os anos.
+Espero que possamos celebrar &lt;gender&gt;("juntos","juntas") todos os anos.
 Não é, &lt;nickname&gt;? ∀ E você também, &lt;childname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3243">Estou me divertindo muito vendo você engolir sua comida
 que preparei, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Espero que possamos celebrar &lt;gender&gt;("juntos", "juntos") todos os anos.
+Espero que possamos celebrar &lt;gender&gt;("juntos","juntos") todos os anos.
 Não é, &lt;nickname&gt;? ∀ E você também, &lt;childname&gt;? ∀&lt;wait&gt;</Entry>
   <Entry Index="3244">Olá, &lt;nickname&gt;. Você terminou o trabalho?&lt;wait&gt;</Entry>
   <Entry Index="3245">Ah, entendo. Mas tente terminar logo. Hoje é um dia
@@ -6132,7 +6132,7 @@ a cantar parabéns. ♪&lt;wait&gt;</Entry>
 Hoje é um dia especial e o tempo passa rápido.&lt;wait&gt;</Entry>
   <Entry Index="3286">Bom! Ótimo trabalho!&lt;wait&gt;</Entry>
   <Entry Index="3287">Olá, &lt;nickname&gt;. Você sabe que dia é hoje?&lt;wait&gt;</Entry>
-  <Entry Index="3288">Você é tão &lt;gender&gt;"ocupado","ocupada") que esqueceu o seu
+  <Entry Index="3288">Você é tão &lt;gender&gt;("ocupado","ocupada") que esqueceu o seu
 aniversário?&lt;wait&gt;</Entry>
   <Entry Index="3289">Escute, aproveite a refeição de aniversário que fiz
 para você e vá com calma hoje, ok? ∀&lt;wait&gt;</Entry>
@@ -6142,7 +6142,7 @@ para você e vá com calma hoje, ok? ∀&lt;wait&gt;</Entry>
 adoçar minha vida, querido!&lt;wait&gt;</Entry>
   <Entry Index="3292">Estou planejando isso há algum tempo. Ei ei!
 Estou feliz que você esteja curtindo.&lt;wait&gt;&lt;page&gt;
-Vamos ficar &lt;gender&gt;("juntos", "juntas") para sempre, não importa a nossa
+Vamos ficar &lt;gender&gt;("juntos","juntas") para sempre, não importa a nossa
 idade.&lt;wait&gt;</Entry>
   <Entry Index="3293">Hoje é seu aniversário, &lt;nickname&gt;. Não se
 confunda com o meu! Está errado!&lt;wait&gt;</Entry>
@@ -6168,7 +6168,7 @@ Hoje é um dia especial, então preparei uma coisinha.&lt;wait&gt;</Entry>
 Espere. Você sabe por quê?&lt;wait&gt;</Entry>
   <Entry Index="3302">Meec. Errado. É seu aniversário, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="3303">Meec. Errado. É seu aniversário, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3304">Você realmente não se lembra? Talvez você esteja &lt;gender&gt;"exausto","exausta") de
+  <Entry Index="3304">Você realmente não se lembra? Talvez você esteja &lt;gender&gt;("exausto","exausta") de
 trabalhar. Quer ir &lt;gender&gt;("direto","dereto") para a cama?&lt;wait&gt;</Entry>
   <Entry Index="3305">Meu aniversário? Mas ei! Você está trabalhando mais
 da conta? Hoje é seu aniversário, &lt;gender&gt;("burro","burra").&lt;wait&gt;</Entry>
@@ -6191,10 +6191,10 @@ tempo que passe. ∀&lt;wait&gt;</Entry>
 poderia ser encomendada, não importa o
 tempo que passe. ∀&lt;wait&gt;</Entry>
   <Entry Index="3312">Eu me divirto muito todos os dias em que estive com você,
-&lt;nickname&gt;. Espero que fiquemos &lt;gender&gt;("juntos", "juntas") para
+&lt;nickname&gt;. Espero que fiquemos &lt;gender&gt;("juntos","juntas") para
 sempre.&lt;wait&gt;</Entry>
   <Entry Index="3313">Eu me divirto muito todos os dias em que estive com você,
-&lt;nickname&gt;. Espero que fiquemos &lt;gender&gt;("juntos", "juntas") para
+&lt;nickname&gt;. Espero que fiquemos &lt;gender&gt;("juntos","juntas") para
 sempre.&lt;wait&gt;&lt;page&gt;
 E com &lt;childname&gt; também! Seremos uma grande
 família feliz até sapos crescerem no cabelo! E depois
@@ -6258,7 +6258,7 @@ Vamos fazer isso todos os anos, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
 Venha comer!&lt;wait&gt;</Entry>
   <Entry Index="3340">Ha ha ha ha! É horrível, &lt;nickname&gt;! Você não pode
 confundir nossos aniversários assim!&lt;wait&gt;&lt;page&gt;
-Você é mais &lt;gender&gt;("estranho", "estranha") do que um cachorro verde,
+Você é mais &lt;gender&gt;("estranho","estranha") do que um cachorro verde,
 você não mudou nada! &lt;nickname&gt;!&lt;wait&gt;</Entry>
   <Entry Index="3341">Aniversário de &lt;childname&gt;... Ah, então você decidiu
 contar piadas hoje, hein?&lt;wait&gt;</Entry>
@@ -6295,7 +6295,7 @@ como vinho. Eu amo ser sua esposa. Obrigado.&lt;wait&gt;</Entry>
 Eu estive navegando em livros de receitas na biblioteca
 procurando uma receita muito especial só para hoje.&lt;wait&gt;&lt;page&gt;
 Estou tão feliz que possamos comemorar
-&lt;gender&gt;("juntos", "juntas"). Se o destino quiser assim,
+&lt;gender&gt;("juntos","juntas"). Se o destino quiser assim,
 ficaremos &lt;gender&gt;("juntos","juntas") para sempre.&lt;wait&gt;</Entry>
   <Entry Index="3355">Parabéns, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
 Você está melhor a cada ano que passa, &lt;nickname&gt;,
@@ -6755,10 +6755,10 @@ fale isso que você me deixa com inveja.&lt;wait&gt;</Entry>
 de proporções divinas. Então não me
 fale isso que você me deixa com inveja.&lt;wait&gt;</Entry>
   <Entry Index="3573">Aham... Bem, estamos aqui hoje para ver
-&lt;gender&gt;("estes dois", "estas duas") se unirem no sagrado matrimônio.
+&lt;gender&gt;("estes dois","estas duas") se unirem no sagrado matrimônio.
 Literalmente. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="3574">Aham... Bem, estamos aqui hoje para ver
-&lt;gender&gt;("estes dois", "estas duas") se unirem no sagrado matrimônio.
+&lt;gender&gt;("estes dois","estas duas") se unirem no sagrado matrimônio.
 Literalmente. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="3575">&lt;playername&gt;. Deusa. Vocês juram serem fiéis pelo
 resto de suas vidas...&lt;wait&gt;&lt;page&gt;
@@ -6787,7 +6787,7 @@ como você gostaria que eu o chamasse, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="3587">&lt;gender&gt;("Prezado","Prezada").</Entry>
   <Entry Index="3588">Querido.</Entry>
   <Entry Index="3589">Algo assim.</Entry>
-  <Entry Index="3590">&lt;gender&gt;("Meu","Minha") &lt;gender&gt;("amigo ","amiga ").</Entry>
+  <Entry Index="3590">&lt;gender&gt;("Meu","Minha") &lt;gender&gt;("amigo","amiga").</Entry>
   <Entry Index="3591">Amor.</Entry>
   <Entry Index="3592">Hein? Você mudou de idéia? Me parece bom. Sempre
 Achei que &lt;playername&gt; era um nome muito bom e
@@ -6800,7 +6800,7 @@ Então agora, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="3595">"Querido...". Ai que pena. Acho que &lt;playername&gt;
 soa muito melhor.&lt;wait&gt;&lt;page&gt;
 Então agora, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="3596">"&lt;gender&gt;("Meu amigo ou","Minha amiga ")...". Ai que pena. Creio que
+  <Entry Index="3596">"&lt;gender&gt;("Meu amigo ou","Minha amiga")...". Ai que pena. Creio que
 &lt;playername&gt; soa muito melhor.&lt;wait&gt;&lt;page&gt;
 Então agora, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="3597">Hein? Outro nome? E o que você prefere?&lt;wait&gt;</Entry>
@@ -6892,10 +6892,10 @@ o que faz você ser você mesmo.&lt;wait&gt;</Entry>
   <Entry Index="3633">Comemorar seu aniversário &lt;gender&gt;("juntos","juntas") me parece estranho.&lt;wait&gt;&lt;page&gt;
 Vamos fazer assim todos os anos, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
   <Entry Index="3634">E agora você está um ano mais velho. Embora do meu ponto
-de vista você seja apenas um bebê &lt;gender&gt;("pequenino", "pequenino")!
+de vista você seja apenas um bebê &lt;gender&gt;("pequenino","pequenino")!
 Continue crescendo!&lt;wait&gt;</Entry>
   <Entry Index="3635">E agora você está um ano mais velho. Embora do meu ponto
-de vista você seja apenas &lt;gender&gt;("um","um")Â &lt;gender&gt;("pequeno", "pequeno") bebê!
+de vista você seja apenas &lt;gender&gt;("um","um")Â &lt;gender&gt;("pequeno","pequeno") bebê!
 Continue crescendo!&lt;wait&gt;&lt;page&gt;
 E por falar em bebês, &lt;childname&gt; está observando
 e aprendendo tudo o que você faz, sabia?&lt;wait&gt;</Entry>
@@ -7915,10 +7915,10 @@ nisso também.&lt;wait&gt;</Entry>
   <Entry Index="4022">Ah. Olá, &lt;playername&gt;. Eu vejo que Jeff colocou você
 nisso também.&lt;wait&gt;</Entry>
   <Entry Index="4023">Ah. Olá. Você deve ser &lt;playername&gt;,
-&lt;gender&gt;("o novo fazendeiro", "a nova fazendeira").
+&lt;gender&gt;("o novo fazendeiro","a nova fazendeira").
 Vejo que Jeff colocou você nisso também.&lt;wait&gt;</Entry>
   <Entry Index="4024">Ah. Olá. Você deve ser &lt;playername&gt;,
-&lt;gender&gt;("o novo fazendeiro", "a nova fazendeira").
+&lt;gender&gt;("o novo fazendeiro","a nova fazendeira").
 Vejo que Jeff colocou você nisso também.&lt;wait&gt;</Entry>
   <Entry Index="4025">Veja, &lt;playername&gt;, tenho uma história
 que quero contar.&lt;wait&gt;&lt;page&gt;
