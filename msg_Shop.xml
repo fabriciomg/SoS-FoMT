@@ -42,8 +42,8 @@ Hã? Parece que você já está com as mãos cheias.
 Eu vou levar para você mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="29">Muito obrigado.&lt;wait&gt;&lt;page&gt;
 Hã? Não vai caber. Levarei para você mais tarde, ok?&lt;wait&gt;</Entry>
-  <Entry Index="30">Ah, você não tem dinheiro suficiente. Temo que
-posso de dar o remédio. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="30">Ah, você não tem dinheiro suficiente. Temo que não
+posso te dar o remédio. Desculpe.&lt;wait&gt;</Entry>
   <Entry Index="31">Ah, parece que você não pode carregar mais nada.
 Você pode liberar um espaço?&lt;wait&gt;</Entry>
   <Entry Index="32">Não quer comprar mais nada?&lt;wait&gt;</Entry>
@@ -89,30 +89,27 @@ trabalho, uh?&lt;wait&gt;</Entry>
   <Entry Index="54">Muito obrigado, volte logo... Ah! Não vai
 caber tudo em sua mochila, ora.&lt;wait&gt;&lt;page&gt;
 Vou enviar para sua casa mais tarde. Tenho um bom serviço?&lt;wait&gt;</Entry>
-  <Entry Index="55">Uau, uau. Você não tem dinheiro suficiente. que insolente,
-certo?&lt;wait&gt;</Entry>
-  <Entry Index="56">Fico feliz por você ter comprado algo, mas se não puder levar, não
-Eu posso fazer qualquer coisa.&lt;wait&gt;</Entry>
+  <Entry Index="55">Ora, ora. Você não tem dinheiro. você é bem atrevido, né?&lt;wait&gt;</Entry>
+  <Entry Index="56">Fico feliz por você ter comprado algo, mas se não puder levar,
+Eu não posso fazer nada.&lt;wait&gt;</Entry>
   <Entry Index="57">Obrigado. Volte a qualquer momento!&lt;wait&gt;</Entry>
   <Entry Index="58">Se você quiser comprar algo, vá em frente.&lt;wait&gt;</Entry>
   <Entry Index="59">Muito obrigado.&lt;wait&gt;</Entry>
   <Entry Index="60">Há mais alguma coisa que chame sua atenção?&lt;wait&gt;</Entry>
   <Entry Index="61">Obrigado. Oh Parece que você já está ocupado.&lt;wait&gt;&lt;page&gt;
-Nada acontece. Vou dizer ao meu marido para te levar o resto
-então.&lt;wait&gt;</Entry>
+Sem problema. Vou dizer ao meu marido para te levar o resto mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="62">Obrigado. Oh Parece que você já está ocupado.&lt;wait&gt;&lt;page&gt;
-Nada acontece. Vou dizer ao meu marido para te levar o resto
-então.&lt;wait&gt;</Entry>
+Sem problema. Vou dizer ao meu marido para te levar o resto mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="63">Um dispositivo para reproduzir discos.</Entry>
   <Entry Index="64">Obrigado por sua compra. Vou levá-lo para o seu armário mais
-atrasado.&lt;wait&gt;</Entry>
+tarde.&lt;wait&gt;</Entry>
   <Entry Index="65">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
-  <Entry Index="66">Hmm. Infelizmente, os fundos não estão chegando até você.&lt;wait&gt;</Entry>
+  <Entry Index="66">Hmm. Infelizmente, os seus fundos estão escassos no momento.&lt;wait&gt;</Entry>
   <Entry Index="67">Muito obrigado. O gramofone é bastante pesado,
-Vou enviar para casa.&lt;wait&gt;</Entry>
+Vou enviar para sua casa.&lt;wait&gt;</Entry>
   <Entry Index="68">Muito obrigado. Espero poder contar com seu apoio
 contínuo.&lt;wait&gt;</Entry>
-  <Entry Index="69">Muito obrigado. Ah, espere um minuto. Parece que não se encaixa. Chá
+  <Entry Index="69">Muito obrigado. Ah, espere um minuto. Parece que não se serve.
 Vou enviá-lo para casa.&lt;wait&gt;</Entry>
   <Entry Index="70">Muito obrigado.&lt;wait&gt;</Entry>
   <Entry Index="71">Infelizmente, parece que você está &lt;gender&gt;("carregado","carregada") neste
@@ -125,8 +122,8 @@ momento e não tem espaço.&lt;wait&gt;</Entry>
 Vamos, coma!&lt;wait&gt;</Entry>
   <Entry Index="77">Vou começar com a ampliação. Então não se 
 preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="78">Ah, e tudo o que você tem por aí vai ficar no meu caminho um
-pouco, então vou deixá-lo de lado para você.&lt;wait&gt;</Entry>
+  <Entry Index="78">Ah, e tudo o que estiver no meu caminho vai me atrapalhar um
+pouco, então vou deixar de lado para você pegar depois.&lt;wait&gt;</Entry>
   <Entry Index="79"></Entry>
   <Entry Index="80"></Entry>
   <Entry Index="81"></Entry>
@@ -188,7 +185,8 @@ pouco, então vou deixá-lo de lado para você.&lt;wait&gt;</Entry>
   <Entry Index="137">Seu silo já está cheio de forragem.&lt;wait&gt;</Entry>
   <Entry Index="138">Volte em breve. Oh. Parece que você não tem espaço para mais
 equipamento. Vou enviá-lo para sua casa mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="139">Volte em breve. Oh. Parece que você não se encaixa em todo o seu equipamento.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="139">Volte em breve. Oh. Parece que você não se encaixa em todo o
+seu equipamento.&lt;wait&gt;&lt;page&gt;
 Vou enviar para sua casa mais tarde, ok?&lt;wait&gt;</Entry>
   <Entry Index="140">Hein? Parece que o equipamento não serve.&lt;wait&gt;</Entry>
   <Entry Index="141">Vamos lá, dê um nome.&lt;wait&gt;</Entry>
@@ -705,27 +703,27 @@ gratificante.</Entry>
   <Entry Index="556"></Entry>
   <Entry Index="557"></Entry>
   <Entry Index="558">Comprar?</Entry>
-  <Entry Index="559">Envolvê-lo?</Entry>
+  <Entry Index="559">Embrulhar?</Entry>
   <Entry Index="560">Desembrulhar?</Entry>
   <Entry Index="561">Vá em frente e embrulhe?</Entry>
   <Entry Index="562">Mas você não tem nada para embrulhar.&lt;wait&gt;</Entry>
   <Entry Index="563">O que você quer que eu desembrulhe para você?</Entry>
   <Entry Index="564">Você não tem nada para desembrulhar.</Entry>
-  <Entry Index="565">Hein? Você parece estar carregando um monte de coisas. Talvez você
-Seria bom jogar os objetos que você não precisa no
-bin do quadrado!&lt;wait&gt;</Entry>
+  <Entry Index="565">O quê? Parece que você esta carregando muitas coisas.
+Talvez você queira jogar alguns itens que você não precisa mais na
+lixeira do Plaza antes!&lt;wait&gt;</Entry>
   <Entry Index="566">Estes são os produtos que estão à venda.</Entry>
   <Entry Index="567"></Entry>
   <Entry Index="568">Muito obrigado.&lt;wait&gt;</Entry>
   <Entry Index="569">Sua mochila está cheia. vou levar o resto para a geladeira
 da sua casa.&lt;wait&gt;</Entry>
-  <Entry Index="570">Sua mochila está cheia. Eu vou levar o resto para o seu armário
-da sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="570">Sua mochila está cheia. Eu vou levar o resto para o seu
+armário.&lt;wait&gt;</Entry>
   <Entry Index="571">A sua mochila está cheia. Eu levarei o resto
 para sua caixa de ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="572">Sua mochila está cheia e parece que sua geladeira também.
 Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
-  <Entry Index="573">Sua mochila está cheia e parece que seu guarda-roupa também.
+  <Entry Index="573">Sua mochila está cheia e parece que seu armário também.
 Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
   <Entry Index="574">Sua mochila está cheia e parece que sua
 caixa de ferramentas também. Libere algum espaço
@@ -840,8 +838,8 @@ espaços antes de comprar.&lt;wait&gt;</Entry>
 Que serviço, hein!&lt;wait&gt;</Entry>
   <Entry Index="658">Sua mochila está cheia. Vou mandar o resto para o armário.
 Que serviço, hein!&lt;wait&gt;</Entry>
-  <Entry Index="659">Sua mochila está cheia, não? vou te enviar o
-descanso para a caixa de ferramentas. Que serviço, hein!&lt;wait&gt;</Entry>
+  <Entry Index="659">Sua mochila está cheia, não é? vou te enviar o
+restante para a caixa de ferramentas. Que serviço, hein!&lt;wait&gt;</Entry>
   <Entry Index="660">Uau! Parece que sua mochila e sua geladeira estão
 cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
   <Entry Index="661">Uau! Parece que sua mochila e sua geladeira estão
@@ -901,12 +899,12 @@ outro animal saudável. Eu vou encontrar um bom lar para você. Não te
 Não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="691">Ah. Um de seus animais está grávido, então você não tem
 espaço suficiente no celeiro.</Entry>
-  <Entry Index="692">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
-descanse na geladeira.&lt;wait&gt;</Entry>
-  <Entry Index="693">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
-descanse no armário.&lt;wait&gt;</Entry>
-  <Entry Index="694">O seu bolso de ferramentas está cheio. Eu vou mandar eles te levarem
-o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="692">Você parece ter uma mochila cheia.
+Eu vou mandar eles te levarem o restante na geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="693">Você parece ter uma mochila cheia.
+Eu vou mandar eles te levarem o restante no armário.&lt;wait&gt;</Entry>
+  <Entry Index="694">O seu bolso de ferramentas está cheio.
+Eu vou mandar eles te levarem o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="695">Ah. Não só você tem uma mochila cheia, mas também o
 geladeira. Libere algum espaço.&lt;wait&gt;</Entry>
   <Entry Index="696">Ah. Não só você tem uma mochila cheia, mas seu guarda-roupa
@@ -919,13 +917,12 @@ pouco espaço antes.&lt;wait&gt;</Entry>
   <Entry Index="700"></Entry>
   <Entry Index="701"></Entry>
   <Entry Index="702"></Entry>
-  <Entry Index="703">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
-descansar para a geladeira.
-para a geladeira.&lt;wait&gt;</Entry>
-  <Entry Index="704">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
-descanse no armário.&lt;wait&gt;</Entry>
-  <Entry Index="705">O seu bolso de ferramentas está cheio. Eu vou mandar eles te levarem
-o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="703">Você parece ter uma mochila cheia.
+Eu vou mandar eles te levarem restante para a geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="704">Você parece ter uma mochila cheia.
+Eu vou mandar eles te levarem o restante para o armário.&lt;wait&gt;</Entry>
+  <Entry Index="705">O seu bolso de ferramentas está cheio.
+Eu vou mandar eles te levarem o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="706">Ah. Não só você tem uma mochila cheia, mas também o
 geladeira.
 Libere algum espaço.&lt;wait&gt;</Entry>
@@ -1020,30 +1017,30 @@ upgrade.&lt;wait&gt;</Entry>
   <Entry Index="789">Ah! Eu vou trabalhar agora. Você se importa de sair?&lt;wait&gt;&lt;page&gt;
 Venha buscar a(o) &lt;string0&gt; quando
 o tempo especificado acabar.&lt;wait&gt;</Entry>
-  <Entry Index="790">Muito bom. Estes são o adamantite e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar o fabricador de maionese no seu galinheiro,­
+  <Entry Index="790">Muito bom. Estes são o adamantite e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar o fabricador de maionese no seu galinheiro, então
 não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="791">Muito bom. Estes são o adamantita e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar a máquina de queijo no seu
-celeiro, então não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="792">Muito bom. Estes são o adamantite e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="791">Muito bom. Estes são o adamantita e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a máquina de queijo no seu celeiro,
+então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="792">Muito bom. Estes são o adamantite e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
 Quando terminar, vou colocar a máquina de lã no seu celeiro,
 então não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="793">Muito bom. Estes são o adamantite e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="793">Muito bom. Estes são o adamantite e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
 Quando terminar, vou colocar a máquina de lã no seu celeiro,
 então não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="794">Muito bom. Estes são o adamantite e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando eu terminar vou colocar a máquina de geleia no sua
-casa, então não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="795">Muito bom. Estes são o adamantite e o pagamento que eu preciso
-para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
-Quando terminar, vou colocar o fabricante de manteiga no seu celeiro,­
-não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="794">Muito bom. Estes são o adamantite e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando eu terminar vou colocar a máquina de geleia no sua casa,
+então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="795">Muito bom. Estes são o adamantite e o pagamento
+que eu preciso para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar o fabricante de manteiga no seu celeiro,
+então não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="796">EXP</Entry>
   <Entry Index="797">Trabalho em
 andamento</Entry>
