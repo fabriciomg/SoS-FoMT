@@ -672,7 +672,7 @@ incubando. Não há mais espaço na celeiro.</Entry>
   <Entry Index="533">Personagem principal criado!</Entry>
   <Entry Index="534">Cor da pele</Entry>
   <Entry Index="535">Menino</Entry>
-  <Entry Index="536">Garota</Entry>
+  <Entry Index="536">Menina</Entry>
   <Entry Index="537">Nome</Entry>
   <Entry Index="538">Aniversário</Entry>
   <Entry Index="539">Dificuldade</Entry>
@@ -801,7 +801,7 @@ Eu vou levar o resto para o seu armário.&lt;wait&gt;</Entry>
 Não se preocupe, vou levar o resto para a caixa de
 ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="627">Ei. Sua mochila e sua geladeira estão cheias. você deveria
-liberearalgum espaço primeiro.&lt;wait&gt;</Entry>
+liberar algum espaço primeiro.&lt;wait&gt;</Entry>
   <Entry Index="628">Ei. Sua mochila e seu armário estão cheios. você deveria
 liberar algum espaço primeiro.&lt;wait&gt;</Entry>
   <Entry Index="629">Ei. Sua mochila e sua caixa de
@@ -853,33 +853,30 @@ antes, sim?&lt;wait&gt;</Entry>
   <Entry Index="666"></Entry>
   <Entry Index="667"></Entry>
   <Entry Index="668">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
-Vou pedir para Rick levar o resto para a geladeira para você mais tarde.&lt;wait&gt;</Entry>
+Vou pedir para Rick levar o resto para sua geladeira mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="669">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
-Vou pedir para Rick trazer o resto para o armário para você mais tarde.&lt;wait&gt;</Entry>
+Vou pedir para Rick trazer o resto para o seu armário mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="670">Ei. Parece que sua mochila está
 cheia.&lt;wait&gt;&lt;page&gt;
-Vou pedir para Rick levar o resto para a caixa registradora.
-ferramentas mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="671">Ei. A caneta já está cheia de animais.</Entry>
-  <Entry Index="672">Ei... Sua mochila e armário estão cheios. você se importa
-fazer um buraco primeiro?&lt;wait&gt;</Entry>
+Vou pedir para Rick levar o resto para sua caixa de ferramentas mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="671">Ah querido. Seu galinheiro já está cheia de animais.</Entry>
+  <Entry Index="672">Nossa!... Sua bolsa está cheia e seu armário também.
+Você se importaria de liberar algum espaço primeiro?&lt;wait&gt;</Entry>
   <Entry Index="673">Ei... Sua mochila e caixa de ferramentas
-estão cheias. você pode fazer liberar espaço
-primeiro?&lt;wait&gt;</Entry>
+estão cheias. você pode liberar um espaço primeiro?&lt;wait&gt;</Entry>
   <Entry Index="674">Ok, dê um nome.&lt;wait&gt;</Entry>
   <Entry Index="675">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
-Vou pedir para Rick levar o resto para você no moinho de água
-então.&lt;wait&gt;</Entry>
-  <Entry Index="676">Ei. Parece que a mochila e o moinho de vento estão cheios.&lt;wait&gt;&lt;page&gt;
-Importa-se de fazer um buraco primeiro?&lt;wait&gt;</Entry>
-  <Entry Index="677">Existem muitas fazendas que desejam animais saudáveis. Vocês
+Vou pedir para Rick levar o resto para você no  seu moinho então.&lt;wait&gt;</Entry>
+  <Entry Index="676">Que pena. Parece que sua bolsa e seu moinho estão cheios.&lt;wait&gt;&lt;page&gt;
+Você se importaria de liberar algum espaço primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="677">Existem muitas fazendas que desejam animais saudáveis.
 Encontrarei um bom lar, não se preocupe.&lt;wait&gt;</Entry>
   <Entry Index="678">Ei. Um de seus animais está prestes a dar à luz,
-para que você não tenha mais espaço na caneta. </Entry>
-  <Entry Index="679">Ei. Sua caneta já está cheia de animais e ovos
+então você não terá mais espaço no seu galinheiro. </Entry>
+  <Entry Index="679">Ei. Seu galinheiro já está cheia de animais e ovos
 incubando.</Entry>
   <Entry Index="680">Ei. Você tem animais que vão dar à luz e ovos
-incubando. Não há mais espaço na caneta.</Entry>
+incubando. Não há mais espaço no galinheiro.</Entry>
   <Entry Index="681">Sua mochila está cheia. Vou mandar o resto para a geladeira.&lt;wait&gt;</Entry>
   <Entry Index="682">Sua mochila está cheia. Vou mandar o resto para o armário.&lt;wait&gt;</Entry>
   <Entry Index="683">O bolso da ferramenta está no topo. eu vou te enviar
@@ -897,7 +894,7 @@ Organize suas coisas e depois venha falar comigo.&lt;wait&gt;</Entry>
   <Entry Index="690">Há muitas fazendas que adorariam ter
 outro animal saudável. Eu vou encontrar um bom lar para você. Não te
 Não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="691">Ah. Um de seus animais está grávido, então você não tem
+  <Entry Index="691">Ah. Um de seus animais está grávido, então você não terá
 espaço suficiente no celeiro.</Entry>
   <Entry Index="692">Você parece ter uma mochila cheia.
 Eu vou mandar eles te levarem o restante na geladeira.&lt;wait&gt;</Entry>
@@ -923,13 +920,11 @@ Eu vou mandar eles te levarem restante para a geladeira.&lt;wait&gt;</Entry>
 Eu vou mandar eles te levarem o restante para o armário.&lt;wait&gt;</Entry>
   <Entry Index="705">O seu bolso de ferramentas está cheio.
 Eu vou mandar eles te levarem o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
-  <Entry Index="706">Ah. Não só você tem uma mochila cheia, mas também o
-geladeira.
+  <Entry Index="706">Ah não, Sua mochila está cheia, e a geladeira também.
 Libere algum espaço.&lt;wait&gt;</Entry>
-  <Entry Index="707">Ah. Não só você tem uma mochila cheia, mas seu guarda-roupa
-também.
+  <Entry Index="707">Ah não, Sua mochila está cheia, e o armário também.
 Libere algum espaço.&lt;wait&gt;</Entry>
-  <Entry Index="708">Ah. Não só o seu bolso de ferramentas está cheio, mas
+  <Entry Index="708">Ah, não. O seu bolso de ferramentas está cheio, e
 sua caixa de ferramentas também. Eu preciso que você libere um
 pouco espaço antes.&lt;wait&gt;</Entry>
   <Entry Index="709"></Entry>
@@ -1071,7 +1066,7 @@ até terminar. Tudo bem para você?&lt;wait&gt;</Entry>
   <Entry Index="814">Ei, parece que você não aguenta mais nada.&lt;wait&gt;</Entry>
   <Entry Index="815">Você precisa de mais alguma coisa?&lt;wait&gt;</Entry>
   <Entry Index="816">Desculpe. Não posso aceitar outro emprego até
-Termina agora. Era assim que funcionava.&lt;wait&gt;</Entry>
+Termina este. Era assim que funcionava.&lt;wait&gt;</Entry>
   <Entry Index="817">É exatamente isso que você tem.&lt;wait&gt;</Entry>
   <Entry Index="818">Ei, parece que você não pode plantar mais nada.&lt;wait&gt;</Entry>
   <Entry Index="819"></Entry>
