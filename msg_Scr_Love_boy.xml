@@ -360,11 +360,12 @@ dizer. Experimente!&lt;wait&gt;</Entry>
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
   <Entry Index="185">AAAAH! &lt;playername&gt;, O que está acontecendo!?
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
-  <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
-  <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
-Você desmaiou na casa de Karen. Ela o trouxe até aqui.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="186">Ah! Você está acordado(a)!&lt;wait&gt;</Entry>
+  <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na
+clínica agora.&lt;wait&gt;&lt;page&gt;
+Você desmaiou na casa da Karen. Ela o trouxe até aqui.&lt;wait&gt;&lt;page&gt;
 Eu te examinei e não parece haver nada de errado, mas sugiro que fique aqui
-    e descanse um pouco.&lt;wait&gt;</Entry>
+e descanse um pouco.&lt;wait&gt;</Entry>
   <Entry Index="188">Oh, meu deus! Eu estava tão preocupada. Fico contente
 que você acordou.&lt;wait&gt;</Entry>
   <Entry Index="189">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
